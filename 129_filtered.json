@@ -1,0 +1,342 @@
+[
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-{width}x{height}.jpg",
+        "id": "27471",
+        "name": "Minecraft"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Puyo%20Puyo%20Tetris-{width}x{height}.jpg",
+        "id": "370539",
+        "name": "Puyo Puyo Tetris"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Metal%20Gear%20Solid%203:%20Snake%20Eater-{width}x{height}.jpg",
+        "id": "16582",
+        "name": "Metal Gear Solid 3: Snake Eater"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Catherine:%20Full%20Body-{width}x{height}.jpg",
+        "id": "501265",
+        "name": "Catherine: Full Body"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Borderlands%202-{width}x{height}.jpg",
+        "id": "32345",
+        "name": "Borderlands 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Terraria-{width}x{height}.jpg",
+        "id": "31376",
+        "name": "Terraria"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Undertale-{width}x{height}.jpg",
+        "id": "490713",
+        "name": "Undertale"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20X/X-2%20HD%20Remaster-{width}x{height}.jpg",
+        "id": "138567",
+        "name": "Final Fantasy X/X-2 HD Remaster"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Dynasty%20Warriors%208:%20Xtreme%20Legends-{width}x{height}.jpg",
+        "id": "313563",
+        "name": "Dynasty Warriors 8: Xtreme Legends"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20The%20Hobbit-{width}x{height}.jpg",
+        "id": "417713",
+        "name": "LEGO The Hobbit"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Final%20Fantasy-{width}x{height}.jpg",
+        "id": "493927",
+        "name": "World of Final Fantasy"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Danganronpa:%20Trigger%20Happy%20Havoc-{width}x{height}.jpg",
+        "id": "29975",
+        "name": "Danganronpa: Trigger Happy Havoc"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Phantasy%20Star%20Online%202-{width}x{height}.jpg",
+        "id": "29440",
+        "name": "Phantasy Star Online 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Danganronpa%20Another%20Episode:%20Ultra%20Despair%20Girls-{width}x{height}.jpg",
+        "id": "370536",
+        "name": "Danganronpa Another Episode: Ultra Despair Girls"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Danganronpa%20V3:%20Killing%20Harmony-{width}x{height}.jpg",
+        "id": "489164",
+        "name": "Danganronpa V3: Killing Harmony"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20King%20of%20Fighters%20%2797-{width}x{height}.jpg",
+        "id": "3769",
+        "name": "The King of Fighters '97"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Zero%20Escape:%20Virtue%27s%20Last%20Reward-{width}x{height}.jpg",
+        "id": "32506",
+        "name": "Zero Escape: Virtue's Last Reward"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Secret%20of%20Mana-{width}x{height}.jpg",
+        "id": "17872",
+        "name": "Secret of Mana"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Persona%204%20Golden-{width}x{height}.jpg",
+        "id": "32542",
+        "name": "Persona 4 Golden"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Walking%20Dead:%20Season%20Two-{width}x{height}.jpg",
+        "id": "66410",
+        "name": "The Walking Dead: Season Two"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Metal%20Gear%20Solid%202:%20Sons%20of%20Liberty-{width}x{height}.jpg",
+        "id": "11386",
+        "name": "Metal Gear Solid 2: Sons of Liberty"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Atelier%20Totori:%20The%20Adventurer%20of%20Arland-{width}x{height}.jpg",
+        "id": "28655",
+        "name": "Atelier Totori: The Adventurer of Arland"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Sword%20Art%20Online:%20Hollow%20Realization-{width}x{height}.jpg",
+        "id": "493565",
+        "name": "Sword Art Online: Hollow Realization"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Zero%20Time%20Dilemma-{width}x{height}.jpg",
+        "id": "491774",
+        "name": "Zero Time Dilemma"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20Marvel%20Super%20Heroes-{width}x{height}.jpg",
+        "id": "103831",
+        "name": "LEGO Marvel Super Heroes"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Walking%20Dead-{width}x{height}.jpg",
+        "id": "30740",
+        "name": "The Walking Dead"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Walking%20Dead-{width}x{height}.jpg",
+        "id": "30740",
+        "name": "The Walking Dead"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./XCOM:%20Enemy%20Unknown-{width}x{height}.jpg",
+        "id": "33331",
+        "name": "XCOM: Enemy Unknown"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Danganronpa%202:%20Goodbye%20Despair-{width}x{height}.jpg",
+        "id": "89297",
+        "name": "Danganronpa 2: Goodbye Despair"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Jikkyou%20Powerful%20Pro%20Yakyuu%202018-{width}x{height}.jpg",
+        "id": "503076",
+        "name": "Jikkyou Powerful Pro Yakyuu 2018"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/J-Stars%20Victory%20Vs+-{width}x{height}.jpg",
+        "id": "488677",
+        "name": "J-Stars Victory Vs+"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Digimon%20Story:%20Cyber%20Sleuth%20Hacker%27s%20Memory-{width}x{height}.jpg",
+        "id": "496504",
+        "name": "Digimon Story: Cyber Sleuth Hacker's Memory"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Wolf%20Among%20Us-{width}x{height}.jpg",
+        "id": "30720",
+        "name": "The Wolf Among Us"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Nights%20of%20Azure%202:%20Bride%20of%20the%20New%20Moon-{width}x{height}.jpg",
+        "id": "495442",
+        "name": "Nights of Azure 2: Bride of the New Moon"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Digimon%20Story:%20Cyber%20Sleuth-{width}x{height}.jpg",
+        "id": "458900",
+        "name": "Digimon Story: Cyber Sleuth"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Odin%20Sphere%20Leifthrasir-{width}x{height}.jpg",
+        "id": "491928",
+        "name": "Odin Sphere Leifthrasir"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Steins;Gate%200-{width}x{height}.jpg",
+        "id": "489944",
+        "name": "Steins;Gate 0"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Hyperdimension%20Neptunia%20Re;Birth1-{width}x{height}.jpg",
+        "id": "369673",
+        "name": "Hyperdimension Neptunia Re;Birth1"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tsuihou%20Senkyo-{width}x{height}.jpg",
+        "id": "497838",
+        "name": "Tsuihou Senkyo"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Chaos;Child-{width}x{height}.jpg",
+        "id": "458782",
+        "name": "Chaos;Child"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Attack%20on%20Titan-{width}x{height}.jpg",
+        "id": "491491",
+        "name": "Attack on Titan"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Resident%20Evil:%20Revelations%202-{width}x{height}.jpg",
+        "id": "461522",
+        "name": "Resident Evil: Revelations 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Resident%20Evil:%20Revelations%202-{width}x{height}.jpg",
+        "id": "461522",
+        "name": "Resident Evil: Revelations 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Attack%20on%20Titan%202-{width}x{height}.jpg",
+        "id": "498458",
+        "name": "Attack on Titan 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/God%20of%20War%20Collection-{width}x{height}.jpg",
+        "id": "25251",
+        "name": "God of War Collection"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Legend%20of%20Heroes:%20Trails%20of%20Cold%20Steel%20II-{width}x{height}.jpg",
+        "id": "459341",
+        "name": "The Legend of Heroes: Trails of Cold Steel II"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sonic%20&%20All-Stars%20Racing%20Transformed-{width}x{height}.jpg",
+        "id": "34257",
+        "name": "Sonic & All-Stars Racing Transformed"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Atelier%20Meruru:%20The%20Apprentice%20of%20Arland-{width}x{height}.jpg",
+        "id": "31012",
+        "name": "Atelier Meruru: The Apprentice of Arland"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Legend%20of%20Heroes:%20Trails%20in%20the%20Sky-{width}x{height}.jpg",
+        "id": "4672",
+        "name": "The Legend of Heroes: Trails in the Sky"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Digimon%20World:%20Next%20Order-{width}x{height}.jpg",
+        "id": "491370",
+        "name": "Digimon World: Next Order"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/La-Mulana-{width}x{height}.jpg",
+        "id": "20422",
+        "name": "La-Mulana"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ultimate%20Marvel%20vs.%20Capcom%203-{width}x{height}.jpg",
+        "id": "32245",
+        "name": "Ultimate Marvel vs. Capcom 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Warriors%20Orochi%203-{width}x{height}.jpg",
+        "id": "33213",
+        "name": "Warriors Orochi 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Warriors%20Orochi%203-{width}x{height}.jpg",
+        "id": "33213",
+        "name": "Warriors Orochi 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ultimate%20Marvel%20vs.%20Capcom%203-{width}x{height}.jpg",
+        "id": "32245",
+        "name": "Ultimate Marvel vs. Capcom 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Legend%20of%20Heroes:%20Trails%20of%20Cold%20Steel-{width}x{height}.jpg",
+        "id": "94084",
+        "name": "The Legend of Heroes: Trails of Cold Steel"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Warriors%20Orochi%203-{width}x{height}.jpg",
+        "id": "33213",
+        "name": "Warriors Orochi 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Toukiden%20Kiwami-{width}x{height}.jpg",
+        "id": "460004",
+        "name": "Toukiden Kiwami"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Robot%20Taisen%20V-{width}x{height}.jpg",
+        "id": "493639",
+        "name": "Super Robot Taisen V"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Berserk%20and%20the%20Band%20of%20the%20Hawk-{width}x{height}.jpg",
+        "id": "493221",
+        "name": "Berserk and the Band of the Hawk"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Robot%20Taisen%20V-{width}x{height}.jpg",
+        "id": "493639",
+        "name": "Super Robot Taisen V"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Sword%20Art%20Online:%20Hollow%20Fragment-{width}x{height}.jpg",
+        "id": "417869",
+        "name": "Sword Art Online: Hollow Fragment"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Air-{width}x{height}.jpg",
+        "id": "12027",
+        "name": "Air"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Assassin%27s%20Creed%20Chronicles:%20China-{width}x{height}.jpg",
+        "id": "489302",
+        "name": "Assassin's Creed Chronicles: China"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Air-{width}x{height}.jpg",
+        "id": "12027",
+        "name": "Air"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Assassin%27s%20Creed%20Chronicles:%20China-{width}x{height}.jpg",
+        "id": "489302",
+        "name": "Assassin's Creed Chronicles: China"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Toukiden%20Kiwami-{width}x{height}.jpg",
+        "id": "460004",
+        "name": "Toukiden Kiwami"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20LEGO%20Movie%20Videogame-{width}x{height}.jpg",
+        "id": "313185",
+        "name": "The LEGO Movie Videogame"
+    }
+]
