@@ -133,7 +133,7 @@ def getActiveGamesFromTwitch(tw_api):
     pagination = ''
     i = 1
     generateOAuthToken(tw_api)
-    while i < 2:
+    while True:
         print("Querying page {} from Twitch...".format(i))
         results = getPageFromTwitch(tw_api,pagination)
         print("Query complete.")
