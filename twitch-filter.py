@@ -6,6 +6,8 @@ import sys
 
 giantbomb_api_key = "INSERT KEY HERE"
 twitch_api_key = "INSERT KEY HERE"
+client_secret = "INSERT KEY HERE"
+oauth_token = 'xxx'
 
 def getPlatformNumbersFromGiantBomb(gb_api,offset):
     headers = {
@@ -90,9 +92,23 @@ def produceGameListFile(gb_api,console_id):
     print("All pages queried. Platform {} file successfully generated.".format(console_id))
     return 0
 
+def generateOAuthToken(tw_api):
+
+    params = (
+        ('client_id', tw_api),
+        ('client_secret', client_secret),
+        ('grant_type', 'client_credentials'),
+    )
+    response = requests.post('https://id.twitch.tv/oauth2/token', params=params)
+    json_response = response.json()
+    global oauth_token
+    oauth_token = json_response["access_token"]
+
 def getPageFromTwitch(tw_api,pagination):
+
     headers = {
         'Client-ID': tw_api,
+        'Authorization': 'Bearer ' + oauth_token
     }
 
     params = (
@@ -116,7 +132,8 @@ def getActiveGamesFromTwitch(tw_api):
     tmp_games = []
     pagination = ''
     i = 1
-    while True:
+    generateOAuthToken(tw_api)
+    while i < 2:
         print("Querying page {} from Twitch...".format(i))
         results = getPageFromTwitch(tw_api,pagination)
         print("Query complete.")
@@ -208,9 +225,7 @@ def getFilteredJSON(tw_key, console_id):
     active_games = getActiveGamesFromTwitch(tw_key)
     console_games = []
     filename = str(console_id) + "_games.json"
-    with open('active_games.json','r') as f:
-        active_games = json.load(f)
-        
+
     with open(filename,'r') as f:
         console_games = json.load(f)
     
