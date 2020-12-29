@@ -1,0 +1,2842 @@
+[
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Fortnite-{width}x{height}.jpg",
+        "id": "33214",
+        "name": "Fortnite"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Apex%20Legends-{width}x{height}.jpg",
+        "id": "511224",
+        "name": "Apex Legends"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Warzone-{width}x{height}.jpg",
+        "id": "512710",
+        "name": "Call of Duty: Warzone"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft-{width}x{height}.jpg",
+        "id": "27471",
+        "name": "Minecraft"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2021-{width}x{height}.jpg",
+        "id": "518204",
+        "name": "FIFA 21"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Grand%20Theft%20Auto%20V-{width}x{height}.jpg",
+        "id": "32982",
+        "name": "Grand Theft Auto V"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20by%20Daylight-{width}x{height}.jpg",
+        "id": "491487",
+        "name": "Dead by Daylight"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Among%20Us-{width}x{height}.jpg",
+        "id": "510218",
+        "name": "Among Us"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Overwatch-{width}x{height}.jpg",
+        "id": "488552",
+        "name": "Overwatch"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Rocket%20League-{width}x{height}.jpg",
+        "id": "30921",
+        "name": "Rocket League"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Cyberpunk%202077-{width}x{height}.jpg",
+        "id": "65876",
+        "name": "Cyberpunk 2077"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tom%20Clancy%27s%20Rainbow%20Six%20Siege-{width}x{height}.jpg",
+        "id": "460630",
+        "name": "Tom Clancy's Rainbow Six Siege"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Stardew%20Valley-{width}x{height}.jpg",
+        "id": "490744",
+        "name": "Stardew Valley"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Tanks-{width}x{height}.jpg",
+        "id": "27546",
+        "name": "World of Tanks"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Black%20Desert%20Online-{width}x{height}.jpg",
+        "id": "386821",
+        "name": "Black Desert Online"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny%202-{width}x{height}.jpg",
+        "id": "497057",
+        "name": "Destiny 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./theHunter:%20Call%20of%20the%20Wild-{width}x{height}.jpg",
+        "id": "494683",
+        "name": "theHunter: Call of the Wild"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NBA%202K21-{width}x{height}.jpg",
+        "id": "518023",
+        "name": "NBA 2K21"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/DayZ-{width}x{height}.jpg",
+        "id": "65632",
+        "name": "DayZ"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Space%20Engineers-{width}x{height}.jpg",
+        "id": "391475",
+        "name": "Space Engineers"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Path%20of%20Exile-{width}x{height}.jpg",
+        "id": "29307",
+        "name": "Path of Exile"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Stranded%20Deep-{width}x{height}.jpg",
+        "id": "488820",
+        "name": "Stranded Deep"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Hunt:%20Showdown-{width}x{height}.jpg",
+        "id": "500188",
+        "name": "Hunt: Showdown"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sea%20of%20Thieves-{width}x{height}.jpg",
+        "id": "490377",
+        "name": "Sea of Thieves"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Super%20Meat%20Boy%20Forever-{width}x{height}.jpg",
+        "id": "476396",
+        "name": "Super Meat Boy Forever"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dark%20Souls%20III-{width}x{height}.jpg",
+        "id": "490292",
+        "name": "Dark Souls III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Don%27t%20Starve%20Together-{width}x{height}.jpg",
+        "id": "488634",
+        "name": "Don't Starve Together"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Football%20Manager%202021-{width}x{height}.jpg",
+        "id": "1271244884",
+        "name": "Football Manager 2021"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Call%20of%20the%20Sea-{width}x{height}.jpg",
+        "id": "517405",
+        "name": "Call of the Sea"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./ARK:%20Survival%20Evolved-{width}x{height}.jpg",
+        "id": "489635",
+        "name": "ARK: Survival Evolved"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Sekiro:%20Shadows%20Die%20Twice-{width}x{height}.jpg",
+        "id": "506415",
+        "name": "Sekiro: Shadows Die Twice"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Monster%20Hunter:%20World-{width}x{height}.jpg",
+        "id": "497467",
+        "name": "Monster Hunter: World"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Slay%20the%20Spire-{width}x{height}.jpg",
+        "id": "496902",
+        "name": "Slay the Spire"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/7%20Days%20to%20Die-{width}x{height}.jpg",
+        "id": "271304",
+        "name": "7 Days to Die"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Assassin%27s%20Creed%20Valhalla-{width}x{height}.jpg",
+        "id": "517330",
+        "name": "Assassin's Creed Valhalla"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Gwent:%20The%20Witcher%20Card%20Game-{width}x{height}.jpg",
+        "id": "493217",
+        "name": "Gwent: The Witcher Card Game"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sid%20Meier%27s%20Civilization%20VI-{width}x{height}.jpg",
+        "id": "492553",
+        "name": "Sid Meier's Civilization VI"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Elder%20Scrolls%20Online-{width}x{height}.jpg",
+        "id": "65654",
+        "name": "The Elder Scrolls Online"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Elder%20Scrolls%20V:%20Skyrim-{width}x{height}.jpg",
+        "id": "30028",
+        "name": "The Elder Scrolls V: Skyrim"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dark%20Souls-{width}x{height}.jpg",
+        "id": "29433",
+        "name": "Dark Souls"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/War%20Thunder-{width}x{height}.jpg",
+        "id": "66366",
+        "name": "War Thunder"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Farming%20Simulator%2019-{width}x{height}.jpg",
+        "id": "504689",
+        "name": "Farming Simulator 19"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Madden%20NFL%2021-{width}x{height}.jpg",
+        "id": "517406",
+        "name": "Madden NFL 21"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Yakuza:%20Like%20a%20Dragon-{width}x{height}.jpg",
+        "id": "512121",
+        "name": "Yakuza: Like a Dragon"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Warframe-{width}x{height}.jpg",
+        "id": "66170",
+        "name": "Warframe"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/They%20Are%20Billions-{width}x{height}.jpg",
+        "id": "499132",
+        "name": "They Are Billions"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/F1%202020-{width}x{height}.jpg",
+        "id": "517174",
+        "name": "F1 2020"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Surviving%20Mars-{width}x{height}.jpg",
+        "id": "501930",
+        "name": "Surviving Mars"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tom%20Clancy%27s%20The%20Division%202-{width}x{height}.jpg",
+        "id": "504463",
+        "name": "Tom Clancy's The Division 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Sims%204-{width}x{height}.jpg",
+        "id": "369252",
+        "name": "The Sims 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Rogue%20Company-{width}x{height}.jpg",
+        "id": "514194",
+        "name": "Rogue Company"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Long%20Dark-{width}x{height}.jpg",
+        "id": "418016",
+        "name": "The Long Dark"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NHL%2021-{width}x{height}.jpg",
+        "id": "519329",
+        "name": "NHL 21"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Cricket%2019-{width}x{height}.jpg",
+        "id": "512623",
+        "name": "Cricket 19"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Diablo%20III-{width}x{height}.jpg",
+        "id": "313558",
+        "name": "Diablo III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dragon%20Ball%20FighterZ-{width}x{height}.jpg",
+        "id": "497385",
+        "name": "Dragon Ball FighterZ"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Battlefield%20V-{width}x{height}.jpg",
+        "id": "504199",
+        "name": "Battlefield V"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dark%20Souls%20II-{width}x{height}.jpg",
+        "id": "91423",
+        "name": "Dark Souls II"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Microsoft%20Flight%20Simulator-{width}x{height}.jpg",
+        "id": "7193",
+        "name": "Microsoft Flight Simulator"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Paladins-{width}x{height}.jpg",
+        "id": "491115",
+        "name": "Paladins"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Terraria-{width}x{height}.jpg",
+        "id": "31376",
+        "name": "Terraria"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Fallout%204-{width}x{height}.jpg",
+        "id": "489776",
+        "name": "Fallout 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Fallout%2076-{width}x{height}.jpg",
+        "id": "506246",
+        "name": "Fallout 76"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Elite:%20Dangerous-{width}x{height}.jpg",
+        "id": "80607",
+        "name": "Elite: Dangerous"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Black%20Ops%20III-{width}x{height}.jpg",
+        "id": "489401",
+        "name": "Call of Duty: Black Ops III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20VIII-{width}x{height}.jpg",
+        "id": "11282",
+        "name": "Final Fantasy VIII"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Hollow%20Knight-{width}x{height}.jpg",
+        "id": "490147",
+        "name": "Hollow Knight"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Saints%20Row%20IV-{width}x{height}.jpg",
+        "id": "33086",
+        "name": "Saints Row IV"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Mortal%20Kombat%2011-{width}x{height}.jpg",
+        "id": "510578",
+        "name": "Mortal Kombat 11"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars%20Jedi:%20Fallen%20Order-{width}x{height}.jpg",
+        "id": "503446",
+        "name": "Star Wars Jedi: Fallen Order"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NBA%202K20-{width}x{height}.jpg",
+        "id": "513319",
+        "name": "NBA 2K20"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Borderlands%203-{width}x{height}.jpg",
+        "id": "491318",
+        "name": "Borderlands 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Halo:%20The%20Master%20Chief%20Collection-{width}x{height}.jpg",
+        "id": "417969",
+        "name": "Halo: The Master Chief Collection"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Brawlhalla-{width}x{height}.jpg",
+        "id": "460316",
+        "name": "Brawlhalla"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2020-{width}x{height}.jpg",
+        "id": "512804",
+        "name": "FIFA 20"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Darkest%20Dungeon-{width}x{height}.jpg",
+        "id": "458353",
+        "name": "Darkest Dungeon"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Visage-{width}x{height}.jpg",
+        "id": "494082",
+        "name": "Visage"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/For%20Honor-{width}x{height}.jpg",
+        "id": "490382",
+        "name": "For Honor"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ori%20and%20the%20Blind%20Forest-{width}x{height}.jpg",
+        "id": "460619",
+        "name": "Ori and the Blind Forest"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Cuphead-{width}x{height}.jpg",
+        "id": "459064",
+        "name": "Cuphead"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Witcher%203:%20Wild%20Hunt-{width}x{height}.jpg",
+        "id": "115977",
+        "name": "The Witcher 3: Wild Hunt"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Cities:%20Skylines-{width}x{height}.jpg",
+        "id": "461449",
+        "name": "Cities: Skylines"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Vigor-{width}x{height}.jpg",
+        "id": "506489",
+        "name": "Vigor"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Resident%20Evil-{width}x{height}.jpg",
+        "id": "5360",
+        "name": "Resident Evil"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Forza%20Horizon%204-{width}x{height}.jpg",
+        "id": "506413",
+        "name": "Forza Horizon 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Outlast-{width}x{height}.jpg",
+        "id": "73586",
+        "name": "Outlast"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront%20II-{width}x{height}.jpg",
+        "id": "492546",
+        "name": "Star Wars Battlefront II"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/No%20Man%27s%20Sky-{width}x{height}.jpg",
+        "id": "458781",
+        "name": "No Man's Sky"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/SnowRunner-{width}x{height}.jpg",
+        "id": "515066",
+        "name": "SnowRunner"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Black%20Ops%204-{width}x{height}.jpg",
+        "id": "504462",
+        "name": "Call of Duty: Black Ops 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Dragon%20Quest%20XI:%20Echoes%20of%20an%20Elusive%20Age-{width}x{height}.jpg",
+        "id": "479862517",
+        "name": "Dragon Quest XI: Echoes of an Elusive Age"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Journey%20to%20the%20Savage%20Planet-{width}x{height}.jpg",
+        "id": "510588",
+        "name": "Journey to the Savage Planet"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Minion%20Masters-{width}x{height}.jpg",
+        "id": "494327",
+        "name": "Minion Masters"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Gears%205-{width}x{height}.jpg",
+        "id": "506407",
+        "name": "Gears 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/House%20Flipper-{width}x{height}.jpg",
+        "id": "498000",
+        "name": "House Flipper"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Mount%20&%20Blade%20II:%20Bannerlord-{width}x{height}.jpg",
+        "id": "68351",
+        "name": "Mount & Blade II: Bannerlord"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dauntless-{width}x{height}.jpg",
+        "id": "494536",
+        "name": "Dauntless"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Control-{width}x{height}.jpg",
+        "id": "506462",
+        "name": "Control"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Friday%20the%2013th:%20The%20Game-{width}x{height}.jpg",
+        "id": "488518",
+        "name": "Friday the 13th: The Game"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Resident%20Evil%202-{width}x{height}.jpg",
+        "id": "8645",
+        "name": "Resident Evil 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Alien:%20Isolation-{width}x{height}.jpg",
+        "id": "458443",
+        "name": "Alien: Isolation"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/XCOM%202-{width}x{height}.jpg",
+        "id": "489767",
+        "name": "XCOM 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Generation%20Zero-{width}x{height}.jpg",
+        "id": "33389",
+        "name": "Generation Zero"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Don%27t%20Starve-{width}x{height}.jpg",
+        "id": "67763",
+        "name": "Don't Starve"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Dance%202021-{width}x{height}.jpg",
+        "id": "519355",
+        "name": "Just Dance 2021"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/My%20Time%20at%20Portia-{width}x{height}.jpg",
+        "id": "497883",
+        "name": "My Time at Portia"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Jump%20King-{width}x{height}.jpg",
+        "id": "512070",
+        "name": "Jump King"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Phoenix%20Point-{width}x{height}.jpg",
+        "id": "491909",
+        "name": "Phoenix Point"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Monster%20Sanctuary-{width}x{height}.jpg",
+        "id": "505788",
+        "name": "Monster Sanctuary"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Battlefield%204-{width}x{height}.jpg",
+        "id": "66402",
+        "name": "Battlefield 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Phantasy%20Star%20Online%202-{width}x{height}.jpg",
+        "id": "29440",
+        "name": "Phantasy Star Online 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tom%20Clancy%27s%20The%20Division-{width}x{height}.jpg",
+        "id": "369579",
+        "name": "Tom Clancy's The Division"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20IX-{width}x{height}.jpg",
+        "id": "8090",
+        "name": "Final Fantasy IX"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Halo%205:%20Guardians-{width}x{height}.jpg",
+        "id": "369567",
+        "name": "Halo 5: Guardians"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Chicken%20Police-{width}x{height}.jpg",
+        "id": "513914",
+        "name": "Chicken Police"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Outer%20Wilds-{width}x{height}.jpg",
+        "id": "489335",
+        "name": "Outer Wilds"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Code%20Vein-{width}x{height}.jpg",
+        "id": "496697",
+        "name": "Code Vein"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Crash%20Bandicoot%204:%20It%27s%20About%20Time-{width}x{height}.jpg",
+        "id": "518222",
+        "name": "Crash Bandicoot 4: It's About Time"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Spellbreak-{width}x{height}.jpg",
+        "id": "509614",
+        "name": "Spellbreak"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Yakuza%200-{width}x{height}.jpg",
+        "id": "476269",
+        "name": "Yakuza 0"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Titanfall%202-{width}x{height}.jpg",
+        "id": "489201",
+        "name": "Titanfall 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Blood%20Bowl%202-{width}x{height}.jpg",
+        "id": "490177",
+        "name": "Blood Bowl 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/State%20of%20Decay%202-{width}x{height}.jpg",
+        "id": "495122",
+        "name": "State of Decay 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Conan%20Exiles-{width}x{height}.jpg",
+        "id": "493551",
+        "name": "Conan Exiles"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Grounded-{width}x{height}.jpg",
+        "id": "516086",
+        "name": "Grounded"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Overcooked%21%202-{width}x{height}.jpg",
+        "id": "506458",
+        "name": "Overcooked! 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Beast%20Inside-{width}x{height}.jpg",
+        "id": "504389",
+        "name": "The Beast Inside"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Battlefield%201-{width}x{height}.jpg",
+        "id": "488500",
+        "name": "Battlefield 1"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Dragon%20Age:%20Inquisition-{width}x{height}.jpg",
+        "id": "31761",
+        "name": "Dragon Age: Inquisition"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Crew%202-{width}x{height}.jpg",
+        "id": "497118",
+        "name": "The Crew 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Deep%20Rock%20Galactic-{width}x{height}.jpg",
+        "id": "494839",
+        "name": "Deep Rock Galactic"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Outward-{width}x{height}.jpg",
+        "id": "489534",
+        "name": "Outward"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Human:%20Fall%20Flat-{width}x{height}.jpg",
+        "id": "492504",
+        "name": "Human: Fall Flat"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Little%20Nightmares-{width}x{height}.jpg",
+        "id": "494131",
+        "name": "Little Nightmares"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Atlas-{width}x{height}.jpg",
+        "id": "510825",
+        "name": "Atlas"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2017-{width}x{height}.jpg",
+        "id": "493091",
+        "name": "FIFA 17"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Celeste-{width}x{height}.jpg",
+        "id": "492535",
+        "name": "Celeste"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Risk%20of%20Rain%202-{width}x{height}.jpg",
+        "id": "509110",
+        "name": "Risk of Rain 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Neverwinter-{width}x{height}.jpg",
+        "id": "29179",
+        "name": "Neverwinter"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Subnautica-{width}x{height}.jpg",
+        "id": "460090",
+        "name": "Subnautica"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Warface-{width}x{height}.jpg",
+        "id": "29918",
+        "name": "Warface"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Realm%20Royale-{width}x{height}.jpg",
+        "id": "505845",
+        "name": "Realm Royale"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Resident%20Evil%204-{width}x{height}.jpg",
+        "id": "1468",
+        "name": "Resident Evil 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Awesome%20Adventures%20of%20Captain%20Spirit-{width}x{height}.jpg",
+        "id": "506414",
+        "name": "The Awesome Adventures of Captain Spirit"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Rise%20of%20the%20Tomb%20Raider-{width}x{height}.jpg",
+        "id": "460620",
+        "name": "Rise of the Tomb Raider"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Devil%20May%20Cry%205-{width}x{height}.jpg",
+        "id": "506412",
+        "name": "Devil May Cry 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Killing%20Floor%202-{width}x{height}.jpg",
+        "id": "460508",
+        "name": "Killing Floor 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Enter%20the%20Gungeon-{width}x{height}.jpg",
+        "id": "488632",
+        "name": "Enter the Gungeon"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ori%20and%20the%20Will%20of%20the%20Wisps-{width}x{height}.jpg",
+        "id": "497412",
+        "name": "Ori and the Will of the Wisps"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20Cells-{width}x{height}.jpg",
+        "id": "495961",
+        "name": "Dead Cells"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Kerbal%20Space%20Program-{width}x{height}.jpg",
+        "id": "32742",
+        "name": "Kerbal Space Program"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Anthem-{width}x{height}.jpg",
+        "id": "460696",
+        "name": "Anthem"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Binding%20of%20Isaac:%20Rebirth-{width}x{height}.jpg",
+        "id": "94073",
+        "name": "The Binding of Isaac: Rebirth"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Spiritfarer-{width}x{height}.jpg",
+        "id": "512989",
+        "name": "Spiritfarer"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Growtopia-{width}x{height}.jpg",
+        "id": "489648",
+        "name": "Growtopia"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Remnant:%20From%20the%20Ashes-{width}x{height}.jpg",
+        "id": "509066",
+        "name": "Remnant: From the Ashes"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20XV-{width}x{height}.jpg",
+        "id": "19180",
+        "name": "Final Fantasy XV"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Darkwood-{width}x{height}.jpg",
+        "id": "313146",
+        "name": "Darkwood"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Lost%20Ember-{width}x{height}.jpg",
+        "id": "495174",
+        "name": "Lost Ember"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NHL%2020-{width}x{height}.jpg",
+        "id": "513170",
+        "name": "NHL 20"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Naruto%20Shippuden:%20Ultimate%20Ninja%20Storm%204-{width}x{height}.jpg",
+        "id": "488635",
+        "name": "Naruto Shippuden: Ultimate Ninja Storm 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Need%20for%20Speed-{width}x{height}.jpg",
+        "id": "489611",
+        "name": "Need for Speed"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20VII-{width}x{height}.jpg",
+        "id": "11988",
+        "name": "Final Fantasy VII"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Moonlighter-{width}x{height}.jpg",
+        "id": "497711",
+        "name": "Moonlighter"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tomb%20Raider-{width}x{height}.jpg",
+        "id": "2770",
+        "name": "Tomb Raider"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Dark%20Pictures%20Anthology:%20Man%20of%20Medan-{width}x{height}.jpg",
+        "id": "509249",
+        "name": "The Dark Pictures Anthology: Man of Medan"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Home%20Sweet%20Home-{width}x{height}.jpg",
+        "id": "8828",
+        "name": "Home Sweet Home"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Naruto%20to%20Boruto:%20Shinobi%20Striker-{width}x{height}.jpg",
+        "id": "496503",
+        "name": "Naruto to Boruto: Shinobi Striker"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Graveyard%20Keeper-{width}x{height}.jpg",
+        "id": "497585",
+        "name": "Graveyard Keeper"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Night%20in%20the%20Woods-{width}x{height}.jpg",
+        "id": "459104",
+        "name": "Night in the Woods"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Hyper%20Scape-{width}x{height}.jpg",
+        "id": "518306",
+        "name": "Hyper Scape"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Evil%20Within%202-{width}x{height}.jpg",
+        "id": "497437",
+        "name": "The Evil Within 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Warhammer:%20Vermintide%202-{width}x{height}.jpg",
+        "id": "498668",
+        "name": "Warhammer: Vermintide 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dying%20Light-{width}x{height}.jpg",
+        "id": "369380",
+        "name": "Dying Light"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Carto-{width}x{height}.jpg",
+        "id": "518087",
+        "name": "Carto"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Superliminal-{width}x{height}.jpg",
+        "id": "511974",
+        "name": "Superliminal"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Marvel%27s%20Avengers-{width}x{height}.jpg",
+        "id": "495321",
+        "name": "Marvel's Avengers"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Deus%20Ex:%20Mankind%20Divided-{width}x{height}.jpg",
+        "id": "489376",
+        "name": "Deus Ex: Mankind Divided"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./South%20Park:%20The%20Stick%20of%20Truth-{width}x{height}.jpg",
+        "id": "33175",
+        "name": "South Park: The Stick of Truth"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Last%20Oasis-{width}x{height}.jpg",
+        "id": "512969",
+        "name": "Last Oasis"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sniper%20Elite%204-{width}x{height}.jpg",
+        "id": "491769",
+        "name": "Sniper Elite 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Uno-{width}x{height}.jpg",
+        "id": "11103",
+        "name": "Uno"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Puyo%20Puyo%20Tetris-{width}x{height}.jpg",
+        "id": "370539",
+        "name": "Puyo Puyo Tetris"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Minecraft%20Dungeons-{width}x{height}.jpg",
+        "id": "509725",
+        "name": "Minecraft Dungeons"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Walking%20Dead:%20Season%20Two-{width}x{height}.jpg",
+        "id": "66410",
+        "name": "The Walking Dead: Season Two"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Watch%20Dogs:%20Legion-{width}x{height}.jpg",
+        "id": "512895",
+        "name": "Watch Dogs: Legion"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/World%20War%20Z-{width}x{height}.jpg",
+        "id": "500633",
+        "name": "World War Z"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Moons%20of%20Madness-{width}x{height}.jpg",
+        "id": "1842749272",
+        "name": "Moons of Madness"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NBA%202K17-{width}x{height}.jpg",
+        "id": "493112",
+        "name": "NBA 2K17"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Assetto%20Corsa-{width}x{height}.jpg",
+        "id": "313197",
+        "name": "Assetto Corsa"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ghostrunner-{width}x{height}.jpg",
+        "id": "513971",
+        "name": "Ghostrunner"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Batman:%20Arkham%20Knight-{width}x{height}.jpg",
+        "id": "459676",
+        "name": "Batman: Arkham Knight"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Jurassic%20World%20Evolution-{width}x{height}.jpg",
+        "id": "498459",
+        "name": "Jurassic World Evolution"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Keep%20Talking%20and%20Nobody%20Explodes-{width}x{height}.jpg",
+        "id": "461492",
+        "name": "Keep Talking and Nobody Explodes"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Trials%20Rising-{width}x{height}.jpg",
+        "id": "506430",
+        "name": "Trials Rising"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Yu-Gi-Oh%21%20Legacy%20of%20the%20Duelist-{width}x{height}.jpg",
+        "id": "489794",
+        "name": "Yu-Gi-Oh! Legacy of the Duelist"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./The%20Dark%20Pictures%20Anthology:%20Man%20of%20Medan-{width}x{height}.jpg",
+        "id": "509249",
+        "name": "The Dark Pictures Anthology: Man of Medan"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ultimate%20Chicken%20Horse-{width}x{height}.jpg",
+        "id": "490438",
+        "name": "Ultimate Chicken Horse"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Bless%20Unleashed-{width}x{height}.jpg",
+        "id": "509486",
+        "name": "Bless Unleashed"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Monster%20Train-{width}x{height}.jpg",
+        "id": "516096",
+        "name": "Monster Train"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Shadow%20of%20the%20Tomb%20Raider-{width}x{height}.jpg",
+        "id": "504735",
+        "name": "Shadow of the Tomb Raider"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Skater%20XL-{width}x{height}.jpg",
+        "id": "510577",
+        "name": "Skater XL"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tropico%205-{width}x{height}.jpg",
+        "id": "313445",
+        "name": "Tropico 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Batman:%20The%20Telltale%20Series-{width}x{height}.jpg",
+        "id": "491917",
+        "name": "Batman: The Telltale Series"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Middle-earth:%20Shadow%20of%20War-{width}x{height}.jpg",
+        "id": "496000",
+        "name": "Middle-earth: Shadow of War"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Mafia%20III-{width}x{height}.jpg",
+        "id": "490432",
+        "name": "Mafia III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Spyro%20Reignited%20Trilogy-{width}x{height}.jpg",
+        "id": "505380",
+        "name": "Spyro Reignited Trilogy"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tony%20Hawk%27s%20Pro%20Skater%201+2-{width}x{height}.jpg",
+        "id": "517497",
+        "name": "Tony Hawk's Pro Skater 1+2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Infinite%20Warfare-{width}x{height}.jpg",
+        "id": "491437",
+        "name": "Call of Duty: Infinite Warfare"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Planet%20Coaster-{width}x{height}.jpg",
+        "id": "490384",
+        "name": "Planet Coaster"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Survivalists-{width}x{height}.jpg",
+        "id": "515459",
+        "name": "The Survivalists"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/WWE%202K20-{width}x{height}.jpg",
+        "id": "513681",
+        "name": "WWE 2K20"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Insurgency:%20Sandstorm-{width}x{height}.jpg",
+        "id": "491705",
+        "name": "Insurgency: Sandstorm"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Awesomenauts-{width}x{height}.jpg",
+        "id": "31742",
+        "name": "Awesomenauts"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Naruto:%20Ultimate%20Ninja%20Storm-{width}x{height}.jpg",
+        "id": "19087",
+        "name": "Naruto: Ultimate Ninja Storm"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Northgard-{width}x{height}.jpg",
+        "id": "495856",
+        "name": "Northgard"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/EA%20Sports%20UFC%204-{width}x{height}.jpg",
+        "id": "518711",
+        "name": "EA Sports UFC 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ultimate%20Marvel%20vs.%20Capcom%203-{width}x{height}.jpg",
+        "id": "32245",
+        "name": "Ultimate Marvel vs. Capcom 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Star%20Wars:%20Squadrons-{width}x{height}.jpg",
+        "id": "518059",
+        "name": "Star Wars: Squadrons"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/DC%20Universe%20Online-{width}x{height}.jpg",
+        "id": "19275",
+        "name": "DC Universe Online"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Metro%20Exodus-{width}x{height}.jpg",
+        "id": "497410",
+        "name": "Metro Exodus"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20or%20Alive%206-{width}x{height}.jpg",
+        "id": "506376",
+        "name": "Dead or Alive 6"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/A%20Way%20Out-{width}x{height}.jpg",
+        "id": "497388",
+        "name": "A Way Out"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Stellaris-{width}x{height}.jpg",
+        "id": "491572",
+        "name": "Stellaris"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ghost%20of%20a%20Tale-{width}x{height}.jpg",
+        "id": "369141",
+        "name": "Ghost of a Tale"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Slime%20Rancher-{width}x{height}.jpg",
+        "id": "491177",
+        "name": "Slime Rancher"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Kingdom%20Come:%20Deliverance-{width}x{height}.jpg",
+        "id": "458912",
+        "name": "Kingdom Come: Deliverance"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Starbound-{width}x{height}.jpg",
+        "id": "33945",
+        "name": "Starbound"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Trek%20Online-{width}x{height}.jpg",
+        "id": "19858",
+        "name": "Star Trek Online"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Golf%20With%20Your%20Friends-{width}x{height}.jpg",
+        "id": "491381",
+        "name": "Golf With Your Friends"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/We%20Were%20Here-{width}x{height}.jpg",
+        "id": "495723",
+        "name": "We Were Here"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20WWII-{width}x{height}.jpg",
+        "id": "496712",
+        "name": "Call of Duty: WWII"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Trine%204:%20The%20Nightmare%20Prince-{width}x{height}.jpg",
+        "id": "510044",
+        "name": "Trine 4: The Nightmare Prince"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Final%20Fantasy%20XIII-{width}x{height}.jpg",
+        "id": "18889",
+        "name": "Final Fantasy XIII"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Little%20Misfortune-{width}x{height}.jpg",
+        "id": "508698",
+        "name": "Little Misfortune"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Layers%20of%20Fear%202-{width}x{height}.jpg",
+        "id": "510090",
+        "name": "Layers of Fear 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Divinity:%20Original%20Sin%20II-{width}x{height}.jpg",
+        "id": "490644",
+        "name": "Divinity: Original Sin II"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Far%20Cry%205-{width}x{height}.jpg",
+        "id": "497078",
+        "name": "Far Cry 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tetris%20Effect-{width}x{height}.jpg",
+        "id": "506333",
+        "name": "Tetris Effect"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Crypt%20of%20the%20NecroDancer-{width}x{height}.jpg",
+        "id": "313444",
+        "name": "Crypt of the NecroDancer"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/APB%20Reloaded-{width}x{height}.jpg",
+        "id": "19157",
+        "name": "APB Reloaded"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Kingdom%20Hearts:%20Melody%20of%20Memory-{width}x{height}.jpg",
+        "id": "518126",
+        "name": "Kingdom Hearts: Melody of Memory"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Frostpunk-{width}x{height}.jpg",
+        "id": "493549",
+        "name": "Frostpunk"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Watch%20Dogs%202-{width}x{height}.jpg",
+        "id": "492930",
+        "name": "Watch Dogs 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Untitled%20Goose%20Game-{width}x{height}.jpg",
+        "id": "499537",
+        "name": "Untitled Goose Game"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tetris%20Effect-{width}x{height}.jpg",
+        "id": "506333",
+        "name": "Tetris Effect"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/A%20Hat%20in%20Time-{width}x{height}.jpg",
+        "id": "369075",
+        "name": "A Hat in Time"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Mass%20Effect:%20Andromeda-{width}x{height}.jpg",
+        "id": "460695",
+        "name": "Mass Effect: Andromeda"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Jump%20Force-{width}x{height}.jpg",
+        "id": "506411",
+        "name": "Jump Force"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/APB%20Reloaded-{width}x{height}.jpg",
+        "id": "19157",
+        "name": "APB Reloaded"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Watch%20Dogs%202-{width}x{height}.jpg",
+        "id": "492930",
+        "name": "Watch Dogs 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Kingdom%20Come:%20Deliverance-{width}x{height}.jpg",
+        "id": "458912",
+        "name": "Kingdom Come: Deliverance"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Batman:%20Arkham%20Asylum-{width}x{height}.jpg",
+        "id": "21101",
+        "name": "Batman: Arkham Asylum"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/WWE%202K19-{width}x{height}.jpg",
+        "id": "508289",
+        "name": "WWE 2K19"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Project%20CARS%202-{width}x{height}.jpg",
+        "id": "495563",
+        "name": "Project CARS 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Crossout-{width}x{height}.jpg",
+        "id": "492113",
+        "name": "Crossout"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Train%20Sim%20World%202-{width}x{height}.jpg",
+        "id": "519259",
+        "name": "Train Sim World 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Forager-{width}x{height}.jpg",
+        "id": "499831",
+        "name": "Forager"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Unrailed%21-{width}x{height}.jpg",
+        "id": "512058",
+        "name": "Unrailed!"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Evil%20Within-{width}x{height}.jpg",
+        "id": "68000",
+        "name": "The Evil Within"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/GreedFall-{width}x{height}.jpg",
+        "id": "495581",
+        "name": "GreedFall"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Far%20Cry:%20Primal-{width}x{height}.jpg",
+        "id": "490919",
+        "name": "Far Cry: Primal"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Five%20Nights%20at%20Freddy%27s-{width}x{height}.jpg",
+        "id": "418063",
+        "name": "Five Nights at Freddy's"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/PC%20Building%20Simulator-{width}x{height}.jpg",
+        "id": "496259",
+        "name": "PC Building Simulator"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Vampyr-{width}x{height}.jpg",
+        "id": "488758",
+        "name": "Vampyr"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Tom%20Clancy%27s%20Ghost%20Recon:%20Wildlands-{width}x{height}.jpg",
+        "id": "490379",
+        "name": "Tom Clancy's Ghost Recon: Wildlands"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./World%20of%20Warships:%20Legends-{width}x{height}.jpg",
+        "id": "512226",
+        "name": "World of Warships: Legends"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Rocket%20Arena-{width}x{height}.jpg",
+        "id": "512648",
+        "name": "Rocket Arena"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Saints%20Row:%20The%20Third-{width}x{height}.jpg",
+        "id": "23268",
+        "name": "Saints Row: The Third"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Prey-{width}x{height}.jpg",
+        "id": "15013",
+        "name": "Prey"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Bastion-{width}x{height}.jpg",
+        "id": "28897",
+        "name": "Bastion"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Armored%20Warfare-{width}x{height}.jpg",
+        "id": "459823",
+        "name": "Armored Warfare"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Blair%20Witch-{width}x{height}.jpg",
+        "id": "512981",
+        "name": "Blair Witch"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Assassin%27s%20Creed%20IV:%20Black%20Flag-{width}x{height}.jpg",
+        "id": "118198",
+        "name": "Assassin's Creed IV: Black Flag"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/SOMA-{width}x{height}.jpg",
+        "id": "458224",
+        "name": "SOMA"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Blair%20Witch-{width}x{height}.jpg",
+        "id": "512981",
+        "name": "Blair Witch"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dishonored-{width}x{height}.jpg",
+        "id": "32156",
+        "name": "Dishonored"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Wolfenstein:%20The%20New%20Order-{width}x{height}.jpg",
+        "id": "369259",
+        "name": "Wolfenstein: The New Order"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Forza%20Motorsport%207-{width}x{height}.jpg",
+        "id": "497411",
+        "name": "Forza Motorsport 7"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Ancestors:%20The%20Humankind%20Odyssey-{width}x{height}.jpg",
+        "id": "489545",
+        "name": "Ancestors: The Humankind Odyssey"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Blasphemous-{width}x{height}.jpg",
+        "id": "502914",
+        "name": "Blasphemous"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/We%20Happy%20Few-{width}x{height}.jpg",
+        "id": "489069",
+        "name": "We Happy Few"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Sword%20Art%20Online:%20Fatal%20Bullet-{width}x{height}.jpg",
+        "id": "498449",
+        "name": "Sword Art Online: Fatal Bullet"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Submerged-{width}x{height}.jpg",
+        "id": "489034",
+        "name": "Submerged"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Mad%20Max-{width}x{height}.jpg",
+        "id": "8271",
+        "name": "Mad Max"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Car%20Mechanic%20Simulator%202018-{width}x{height}.jpg",
+        "id": "497358",
+        "name": "Car Mechanic Simulator 2018"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Layers%20of%20Fear-{width}x{height}.jpg",
+        "id": "490537",
+        "name": "Layers of Fear"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Indivisible-{width}x{height}.jpg",
+        "id": "490928",
+        "name": "Indivisible"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Gang%20Beasts-{width}x{height}.jpg",
+        "id": "459527",
+        "name": "Gang Beasts"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Prison%20Architect-{width}x{height}.jpg",
+        "id": "32979",
+        "name": "Prison Architect"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Gridiron-{width}x{height}.jpg",
+        "id": "488125",
+        "name": "Gridiron"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./A%20Plague%20Tale:%20Innocence-{width}x{height}.jpg",
+        "id": "497471",
+        "name": "A Plague Tale: Innocence"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Far%20Cry%203-{width}x{height}.jpg",
+        "id": "29635",
+        "name": "Far Cry 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Calico-{width}x{height}.jpg",
+        "id": "509561",
+        "name": "Calico"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Gang%20Beasts-{width}x{height}.jpg",
+        "id": "459527",
+        "name": "Gang Beasts"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Resident%20Evil%205-{width}x{height}.jpg",
+        "id": "18808",
+        "name": "Resident Evil 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dishonored%202-{width}x{height}.jpg",
+        "id": "490348",
+        "name": "Dishonored 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Prison%20Architect-{width}x{height}.jpg",
+        "id": "32979",
+        "name": "Prison Architect"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Monopoly%20Plus-{width}x{height}.jpg",
+        "id": "493159",
+        "name": "Monopoly Plus"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/What%20Remains%20of%20Edith%20Finch-{width}x{height}.jpg",
+        "id": "490174",
+        "name": "What Remains of Edith Finch"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./A%20Plague%20Tale:%20Innocence-{width}x{height}.jpg",
+        "id": "497471",
+        "name": "A Plague Tale: Innocence"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Pillars%20of%20Eternity-{width}x{height}.jpg",
+        "id": "68028",
+        "name": "Pillars of Eternity"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Need%20for%20Speed%20Rivals-{width}x{height}.jpg",
+        "id": "369261",
+        "name": "Need for Speed Rivals"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Decay:%20The%20Mare-{width}x{height}.jpg",
+        "id": "517810",
+        "name": "Decay: The Mare"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Silver%20Chains-{width}x{height}.jpg",
+        "id": "509565",
+        "name": "Silver Chains"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Farm%20Together-{width}x{height}.jpg",
+        "id": "504126",
+        "name": "Farm Together"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Streets%20of%20Rage%204-{width}x{height}.jpg",
+        "id": "509356",
+        "name": "Streets of Rage 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tell%20Me%20Why-{width}x{height}.jpg",
+        "id": "515156",
+        "name": "Tell Me Why"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Song%20of%20Horror-{width}x{height}.jpg",
+        "id": "514930",
+        "name": "Song of Horror"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Far%20Cry%204-{width}x{height}.jpg",
+        "id": "460384",
+        "name": "Far Cry 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Trove-{width}x{height}.jpg",
+        "id": "412756",
+        "name": "Trove"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destiny-{width}x{height}.jpg",
+        "id": "280721",
+        "name": "Destiny"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Darksiders-{width}x{height}.jpg",
+        "id": "19170",
+        "name": "Darksiders"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Kingdoms%20of%20Amalur:%20Reckoning-{width}x{height}.jpg",
+        "id": "27340",
+        "name": "Kingdoms of Amalur: Reckoning"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/MudRunner-{width}x{height}.jpg",
+        "id": "498821",
+        "name": "MudRunner"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Wreckfest-{width}x{height}.jpg",
+        "id": "370472",
+        "name": "Wreckfest"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Mount%20&%20Blade:%20Warband-{width}x{height}.jpg",
+        "id": "23166",
+        "name": "Mount & Blade: Warband"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dungeons%203-{width}x{height}.jpg",
+        "id": "498861",
+        "name": "Dungeons 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Darksiders%20III-{width}x{height}.jpg",
+        "id": "496881",
+        "name": "Darksiders III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sally%27s%20Law-{width}x{height}.jpg",
+        "id": "505389",
+        "name": "Sally's Law"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Train%20Sim%20World%202-{width}x{height}.jpg",
+        "id": "519259",
+        "name": "Train Sim World 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Madden%20NFL%2020-{width}x{height}.jpg",
+        "id": "512371",
+        "name": "Madden NFL 20"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Sinking%20City-{width}x{height}.jpg",
+        "id": "507667",
+        "name": "The Sinking City"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Surge%202-{width}x{height}.jpg",
+        "id": "503805",
+        "name": "The Surge 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Wolfenstein:%20Youngblood-{width}x{height}.jpg",
+        "id": "506440",
+        "name": "Wolfenstein: Youngblood"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Resident%20Evil%206-{width}x{height}.jpg",
+        "id": "33437",
+        "name": "Resident Evil 6"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Torchlight%20II-{width}x{height}.jpg",
+        "id": "29043",
+        "name": "Torchlight II"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Steep-{width}x{height}.jpg",
+        "id": "494249",
+        "name": "Steep"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Outer%20Worlds-{width}x{height}.jpg",
+        "id": "510580",
+        "name": "The Outer Worlds"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Coffee%20Talk-{width}x{height}.jpg",
+        "id": "512306",
+        "name": "Coffee Talk"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Batman:%20Arkham%20City-{width}x{height}.jpg",
+        "id": "26559",
+        "name": "Batman: Arkham City"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/River%20City%20Girls-{width}x{height}.jpg",
+        "id": "513359",
+        "name": "River City Girls"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Borderlands-{width}x{height}.jpg",
+        "id": "18734",
+        "name": "Borderlands"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty%204:%20Modern%20Warfare-{width}x{height}.jpg",
+        "id": "1964",
+        "name": "Call of Duty 4: Modern Warfare"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Prototype%202-{width}x{height}.jpg",
+        "id": "29981",
+        "name": "Prototype 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Idle%20Champions%20of%20the%20Forgotten%20Realms-{width}x{height}.jpg",
+        "id": "498871",
+        "name": "Idle Champions of the Forgotten Realms"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Bloodstained:%20Ritual%20of%20the%20Night-{width}x{height}.jpg",
+        "id": "489642",
+        "name": "Bloodstained: Ritual of the Night"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Children%20of%20Morta-{width}x{height}.jpg",
+        "id": "488437",
+        "name": "Children of Morta"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty%204:%20Modern%20Warfare-{width}x{height}.jpg",
+        "id": "1964",
+        "name": "Call of Duty 4: Modern Warfare"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Idle%20Champions%20of%20the%20Forgotten%20Realms-{width}x{height}.jpg",
+        "id": "498871",
+        "name": "Idle Champions of the Forgotten Realms"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Prototype%202-{width}x{height}.jpg",
+        "id": "29981",
+        "name": "Prototype 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Cause%203-{width}x{height}.jpg",
+        "id": "488564",
+        "name": "Just Cause 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Monstrum-{width}x{height}.jpg",
+        "id": "460657",
+        "name": "Monstrum"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Torchlight%20III-{width}x{height}.jpg",
+        "id": "509044",
+        "name": "Torchlight III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Kingdom%20Hearts%20III-{width}x{height}.jpg",
+        "id": "369585",
+        "name": "Kingdom Hearts III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Bloodstained:%20Ritual%20of%20the%20Night-{width}x{height}.jpg",
+        "id": "489642",
+        "name": "Bloodstained: Ritual of the Night"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Castle%20Crashers-{width}x{height}.jpg",
+        "id": "18950",
+        "name": "Castle Crashers"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Risk-{width}x{height}.jpg",
+        "id": "9809",
+        "name": "Risk"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Liftoff:%20Drone%20Racing-{width}x{height}.jpg",
+        "id": "519384",
+        "name": "Liftoff: Drone Racing"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/eFootball%20PES%202020-{width}x{height}.jpg",
+        "id": "513021",
+        "name": "eFootball PES 2020"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Homefront:%20The%20Revolution-{width}x{height}.jpg",
+        "id": "32904",
+        "name": "Homefront: The Revolution"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/20XX-{width}x{height}.jpg",
+        "id": "460129",
+        "name": "20XX"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2018-{width}x{height}.jpg",
+        "id": "495589",
+        "name": "FIFA 18"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Warhammer:%20Chaosbane-{width}x{height}.jpg",
+        "id": "506293",
+        "name": "Warhammer: Chaosbane"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Iron%20Harvest-{width}x{height}.jpg",
+        "id": "498423",
+        "name": "Iron Harvest"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Grim%20Fandango-{width}x{height}.jpg",
+        "id": "12141",
+        "name": "Grim Fandango"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Messenger-{width}x{height}.jpg",
+        "id": "4185",
+        "name": "The Messenger"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Trailmakers-{width}x{height}.jpg",
+        "id": "496497",
+        "name": "Trailmakers"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Nexomon:%20Extinction-{width}x{height}.jpg",
+        "id": "519179",
+        "name": "Nexomon: Extinction"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Skul:%20The%20Hero%20Slayer-{width}x{height}.jpg",
+        "id": "515386",
+        "name": "Skul: The Hero Slayer"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Demolish%20&%20Build%202018-{width}x{height}.jpg",
+        "id": "504712",
+        "name": "Demolish & Build 2018"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Attack%20on%20Titan%202-{width}x{height}.jpg",
+        "id": "498458",
+        "name": "Attack on Titan 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Monster%20Energy%20Supercross%20-%20The%20Official%20Videogame%203-{width}x{height}.jpg",
+        "id": "515456",
+        "name": "Monster Energy Supercross - The Official Videogame 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Mega%20Man%2011-{width}x{height}.jpg",
+        "id": "500560",
+        "name": "Mega Man 11"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Darwin%20Project-{width}x{height}.jpg",
+        "id": "497416",
+        "name": "Darwin Project"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Plants%20vs.%20Zombies:%20Battle%20for%20Neighborville-{width}x{height}.jpg",
+        "id": "514190",
+        "name": "Plants vs. Zombies: Battle for Neighborville"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Hob-{width}x{height}.jpg",
+        "id": "492696",
+        "name": "Hob"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Final%20Station-{width}x{height}.jpg",
+        "id": "492765",
+        "name": "The Final Station"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20City%20Undercover-{width}x{height}.jpg",
+        "id": "31908",
+        "name": "LEGO City Undercover"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Cloudpunk-{width}x{height}.jpg",
+        "id": "510649",
+        "name": "Cloudpunk"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sea%20of%20Solitude-{width}x{height}.jpg",
+        "id": "494666",
+        "name": "Sea of Solitude"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Zombie%20Army%20Trilogy-{width}x{height}.jpg",
+        "id": "489062",
+        "name": "Zombie Army Trilogy"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/WWE%202K%20Battlegrounds-{width}x{height}.jpg",
+        "id": "518119",
+        "name": "WWE 2K Battlegrounds"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Nine%20Parchments-{width}x{height}.jpg",
+        "id": "494926",
+        "name": "Nine Parchments"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Last%20Blade%202-{width}x{height}.jpg",
+        "id": "1794452831",
+        "name": "The Last Blade 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Alwa%27s%20Awakening-{width}x{height}.jpg",
+        "id": "495213",
+        "name": "Alwa's Awakening"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Thea%202:%20The%20Shattering-{width}x{height}.jpg",
+        "id": "510494",
+        "name": "Thea 2: The Shattering"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Call%20of%20Duty%202-{width}x{height}.jpg",
+        "id": "2162",
+        "name": "Call of Duty 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/EA%20Sports%20UFC%202-{width}x{height}.jpg",
+        "id": "491220",
+        "name": "EA Sports UFC 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Close%20to%20the%20Sun-{width}x{height}.jpg",
+        "id": "498484",
+        "name": "Close to the Sun"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Styx:%20Shards%20of%20Darkness-{width}x{height}.jpg",
+        "id": "493588",
+        "name": "Styx: Shards of Darkness"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Middle-earth:%20Shadow%20of%20Mordor-{width}x{height}.jpg",
+        "id": "458619",
+        "name": "Middle-earth: Shadow of Mordor"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Evan%27s%20Remains-{width}x{height}.jpg",
+        "id": "516184",
+        "name": "Evan's Remains"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Firewatch-{width}x{height}.jpg",
+        "id": "459755",
+        "name": "Firewatch"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Ryse:%20Son%20of%20Rome-{width}x{height}.jpg",
+        "id": "28557",
+        "name": "Ryse: Son of Rome"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Wolfenstein%20II:%20The%20New%20Colossus-{width}x{height}.jpg",
+        "id": "497439",
+        "name": "Wolfenstein II: The New Colossus"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Hardspace:%20Shipbreaker-{width}x{height}.jpg",
+        "id": "516374",
+        "name": "Hardspace: Shipbreaker"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./South%20Park:%20The%20Fractured%20But%20Whole-{width}x{height}.jpg",
+        "id": "490378",
+        "name": "South Park: The Fractured But Whole"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Thief-{width}x{height}.jpg",
+        "id": "23863",
+        "name": "Thief"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/We%20Were%20Here%20Too-{width}x{height}.jpg",
+        "id": "502825",
+        "name": "We Were Here Too"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Everspace%202-{width}x{height}.jpg",
+        "id": "514158",
+        "name": "Everspace 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Advanced%20Warfare-{width}x{height}.jpg",
+        "id": "417973",
+        "name": "Call of Duty: Advanced Warfare"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Halo%20Wars%202-{width}x{height}.jpg",
+        "id": "490446",
+        "name": "Halo Wars 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Killer%20Instinct-{width}x{height}.jpg",
+        "id": "16951",
+        "name": "Killer Instinct"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Crysis-{width}x{height}.jpg",
+        "id": "10818",
+        "name": "Crysis"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Ace%20Combat%207:%20Skies%20Unknown-{width}x{height}.jpg",
+        "id": "492605",
+        "name": "Ace Combat 7: Skies Unknown"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Contrast-{width}x{height}.jpg",
+        "id": "33788",
+        "name": "Contrast"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Terminator:%20Resistance-{width}x{height}.jpg",
+        "id": "514426",
+        "name": "Terminator: Resistance"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Katamari%20Damacy-{width}x{height}.jpg",
+        "id": "10902",
+        "name": "Katamari Damacy"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Rock%20Band%204-{width}x{height}.jpg",
+        "id": "489136",
+        "name": "Rock Band 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Project%20CARS%203-{width}x{height}.jpg",
+        "id": "517838",
+        "name": "Project CARS 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Edna%20&%20Harvey:%20Harvey%27s%20New%20Eyes-{width}x{height}.jpg",
+        "id": "74295",
+        "name": "Edna & Harvey: Harvey's New Eyes"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Raiden%20V-{width}x{height}.jpg",
+        "id": "15299",
+        "name": "Raiden V"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Drawful%202-{width}x{height}.jpg",
+        "id": "492935",
+        "name": "Drawful 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Return%20of%20the%20Obra%20Dinn-{width}x{height}.jpg",
+        "id": "460501",
+        "name": "Return of the Obra Dinn"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/%C5%8Ckami-{width}x{height}.jpg",
+        "id": "18791",
+        "name": "\u014ckami"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Pathfinder:%20Kingmaker-{width}x{height}.jpg",
+        "id": "497818",
+        "name": "Pathfinder: Kingmaker"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Hand%20of%20Fate%202-{width}x{height}.jpg",
+        "id": "494648",
+        "name": "Hand of Fate 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./One%20Piece:%20Pirate%20Warriors%204-{width}x{height}.jpg",
+        "id": "513366",
+        "name": "One Piece: Pirate Warriors 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Chess%20Ultra-{width}x{height}.jpg",
+        "id": "496143",
+        "name": "Chess Ultra"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/World%20of%20Final%20Fantasy-{width}x{height}.jpg",
+        "id": "493927",
+        "name": "World of Final Fantasy"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Skyforge-{width}x{height}.jpg",
+        "id": "461326",
+        "name": "Skyforge"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Twin%20Mirror-{width}x{height}.jpg",
+        "id": "506375",
+        "name": "Twin Mirror"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Naruto%20Shippuden:%20Ultimate%20Ninja%20Storm%202-{width}x{height}.jpg",
+        "id": "27534",
+        "name": "Naruto Shippuden: Ultimate Ninja Storm 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ty%20the%20Tasmanian%20Tiger-{width}x{height}.jpg",
+        "id": "12086",
+        "name": "Ty the Tasmanian Tiger"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Darksiders%20Genesis-{width}x{height}.jpg",
+        "id": "512929",
+        "name": "Darksiders Genesis"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Surge-{width}x{height}.jpg",
+        "id": "496233",
+        "name": "The Surge"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Truck%20Driver-{width}x{height}.jpg",
+        "id": "508724",
+        "name": "Truck Driver"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Sniper:%20Ghost%20Warrior%203-{width}x{height}.jpg",
+        "id": "491507",
+        "name": "Sniper: Ghost Warrior 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Battletoads-{width}x{height}.jpg",
+        "id": "19358",
+        "name": "Battletoads"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NASCAR%20Heat%205-{width}x{height}.jpg",
+        "id": "517409",
+        "name": "NASCAR Heat 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Forza%20Horizon%203-{width}x{height}.jpg",
+        "id": "493194",
+        "name": "Forza Horizon 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Trivial%20Pursuit%20Live%21-{width}x{height}.jpg",
+        "id": "488942",
+        "name": "Trivial Pursuit Live!"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Paladin-{width}x{height}.jpg",
+        "id": "1086",
+        "name": "Paladin"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Team%20Sonic%20Racing-{width}x{height}.jpg",
+        "id": "506235",
+        "name": "Team Sonic Racing"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20Marvel%20Super%20Heroes-{width}x{height}.jpg",
+        "id": "103831",
+        "name": "LEGO Marvel Super Heroes"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Team%20Sonic%20Racing-{width}x{height}.jpg",
+        "id": "506235",
+        "name": "Team Sonic Racing"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Limbo-{width}x{height}.jpg",
+        "id": "27377",
+        "name": "Limbo"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ty%20the%20Tasmanian%20Tiger-{width}x{height}.jpg",
+        "id": "12086",
+        "name": "Ty the Tasmanian Tiger"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Wasteland%203-{width}x{height}.jpg",
+        "id": "494710",
+        "name": "Wasteland 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Thief-{width}x{height}.jpg",
+        "id": "23863",
+        "name": "Thief"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Bloons%20TD%205-{width}x{height}.jpg",
+        "id": "85863",
+        "name": "Bloons TD 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Late%20Shift-{width}x{height}.jpg",
+        "id": "495582",
+        "name": "Late Shift"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Pathfinder:%20Kingmaker-{width}x{height}.jpg",
+        "id": "497818",
+        "name": "Pathfinder: Kingmaker"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Power%20Rangers:%20Battle%20for%20the%20Grid-{width}x{height}.jpg",
+        "id": "496203",
+        "name": "Power Rangers: Battle for the Grid"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ride%203-{width}x{height}.jpg",
+        "id": "510104",
+        "name": "Ride 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Battletoads-{width}x{height}.jpg",
+        "id": "19358",
+        "name": "Battletoads"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Fallout%20Shelter-{width}x{height}.jpg",
+        "id": "490345",
+        "name": "Fallout Shelter"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Surge-{width}x{height}.jpg",
+        "id": "496233",
+        "name": "The Surge"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NASCAR%20Heat%205-{width}x{height}.jpg",
+        "id": "517409",
+        "name": "NASCAR Heat 5"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Skyforge-{width}x{height}.jpg",
+        "id": "461326",
+        "name": "Skyforge"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Furi-{width}x{height}.jpg",
+        "id": "492487",
+        "name": "Furi"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Neverwinter%20Nights-{width}x{height}.jpg",
+        "id": "439",
+        "name": "Neverwinter Nights"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sonic%20Forces-{width}x{height}.jpg",
+        "id": "496236",
+        "name": "Sonic Forces"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Assassin%27s%20Creed%20III-{width}x{height}.jpg",
+        "id": "33631",
+        "name": "Assassin's Creed III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Lightning%20Returns:%20Final%20Fantasy%20XIII-{width}x{height}.jpg",
+        "id": "67475",
+        "name": "Lightning Returns: Final Fantasy XIII"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront-{width}x{height}.jpg",
+        "id": "490887",
+        "name": "Star Wars Battlefront"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Titanfall-{width}x{height}.jpg",
+        "id": "369525",
+        "name": "Titanfall"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Supraland-{width}x{height}.jpg",
+        "id": "504059",
+        "name": "Supraland"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Escapists-{width}x{height}.jpg",
+        "id": "418072",
+        "name": "The Escapists"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20Marvel%20Super%20Heroes-{width}x{height}.jpg",
+        "id": "103831",
+        "name": "LEGO Marvel Super Heroes"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destroy%20All%20Humans%21-{width}x{height}.jpg",
+        "id": "2070150953",
+        "name": "Destroy All Humans!"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Thief%20Simulator-{width}x{height}.jpg",
+        "id": "510204",
+        "name": "Thief Simulator"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Prominence%20Poker-{width}x{height}.jpg",
+        "id": "492287",
+        "name": "Prominence Poker"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Shovel%20Knight-{width}x{height}.jpg",
+        "id": "138583",
+        "name": "Shovel Knight"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Devil%20May%20Cry%204-{width}x{height}.jpg",
+        "id": "6120",
+        "name": "Devil May Cry 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Mahjong-{width}x{height}.jpg",
+        "id": "33299",
+        "name": "Mahjong"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Genesis%20Alpha%20One-{width}x{height}.jpg",
+        "id": "499497",
+        "name": "Genesis Alpha One"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Othercide-{width}x{height}.jpg",
+        "id": "511910",
+        "name": "Othercide"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20Rising%203-{width}x{height}.jpg",
+        "id": "369565",
+        "name": "Dead Rising 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Fell%20Seal:%20Arbiter%27s%20Mark-{width}x{height}.jpg",
+        "id": "505662",
+        "name": "Fell Seal: Arbiter's Mark"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Mutant%20Year%20Zero:%20Road%20to%20Eden-{width}x{height}.jpg",
+        "id": "504260",
+        "name": "Mutant Year Zero: Road to Eden"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Agatha%20Christie:%20The%20ABC%20Murders-{width}x{height}.jpg",
+        "id": "25663",
+        "name": "Agatha Christie: The ABC Murders"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20Rising%202-{width}x{height}.jpg",
+        "id": "22797",
+        "name": "Dead Rising 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Timespinner-{width}x{height}.jpg",
+        "id": "461206",
+        "name": "Timespinner"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Two%20Point%20Hospital-{width}x{height}.jpg",
+        "id": "502918",
+        "name": "Two Point Hospital"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/DiRT%20Rally-{width}x{height}.jpg",
+        "id": "489558",
+        "name": "DiRT Rally"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Haven-{width}x{height}.jpg",
+        "id": "511465",
+        "name": "Haven"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/EA%20Sports%20UFC%203-{width}x{height}.jpg",
+        "id": "500727",
+        "name": "EA Sports UFC 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Attack%20on%20Titan-{width}x{height}.jpg",
+        "id": "491491",
+        "name": "Attack on Titan"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Cobra%20Kai:%20The%20Karate%20Kid%20Saga%20Continues-{width}x{height}.jpg",
+        "id": "519421",
+        "name": "Cobra Kai: The Karate Kid Saga Continues"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Escapists-{width}x{height}.jpg",
+        "id": "418072",
+        "name": "The Escapists"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Battlefield%20Hardline-{width}x{height}.jpg",
+        "id": "417791",
+        "name": "Battlefield Hardline"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Quantum%20Break-{width}x{height}.jpg",
+        "id": "369365",
+        "name": "Quantum Break"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NBA%20Live%2019-{width}x{height}.jpg",
+        "id": "506406",
+        "name": "NBA Live 19"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ride%203-{width}x{height}.jpg",
+        "id": "510104",
+        "name": "Ride 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Supraland-{width}x{height}.jpg",
+        "id": "504059",
+        "name": "Supraland"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Mahjong-{width}x{height}.jpg",
+        "id": "33299",
+        "name": "Mahjong"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Two%20Point%20Hospital-{width}x{height}.jpg",
+        "id": "502918",
+        "name": "Two Point Hospital"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Shadow%20Warrior%202-{width}x{height}.jpg",
+        "id": "490314",
+        "name": "Shadow Warrior 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Shotgun%20Farmers-{width}x{height}.jpg",
+        "id": "496618",
+        "name": "Shotgun Farmers"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/DiRT%20Rally-{width}x{height}.jpg",
+        "id": "489558",
+        "name": "DiRT Rally"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Timespinner-{width}x{height}.jpg",
+        "id": "461206",
+        "name": "Timespinner"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Just%20Dance%202015-{width}x{height}.jpg",
+        "id": "460629",
+        "name": "Just Dance 2015"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/EA%20Sports%20UFC%203-{width}x{height}.jpg",
+        "id": "500727",
+        "name": "EA Sports UFC 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Tekken%207:%20Fated%20Retribution-{width}x{height}.jpg",
+        "id": "491278",
+        "name": "Tekken 7: Fated Retribution"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Project%20CARS-{width}x{height}.jpg",
+        "id": "33189",
+        "name": "Project CARS"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Devil%20May%20Cry%204-{width}x{height}.jpg",
+        "id": "6120",
+        "name": "Devil May Cry 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Neverwinter%20Nights-{width}x{height}.jpg",
+        "id": "439",
+        "name": "Neverwinter Nights"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Destroy%20All%20Humans%21-{width}x{height}.jpg",
+        "id": "2070150953",
+        "name": "Destroy All Humans!"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Haven-{width}x{height}.jpg",
+        "id": "511465",
+        "name": "Haven"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Furi-{width}x{height}.jpg",
+        "id": "492487",
+        "name": "Furi"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/TerraTech-{width}x{height}.jpg",
+        "id": "417968",
+        "name": "TerraTech"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Star%20Wars%20Battlefront-{width}x{height}.jpg",
+        "id": "490887",
+        "name": "Star Wars Battlefront"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Supraland-{width}x{height}.jpg",
+        "id": "504059",
+        "name": "Supraland"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ride%203-{width}x{height}.jpg",
+        "id": "510104",
+        "name": "Ride 3"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Fell%20Seal:%20Arbiter%27s%20Mark-{width}x{height}.jpg",
+        "id": "505662",
+        "name": "Fell Seal: Arbiter's Mark"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dead%20Rising%202-{width}x{height}.jpg",
+        "id": "22797",
+        "name": "Dead Rising 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sniper%20Elite%20III-{width}x{height}.jpg",
+        "id": "133423",
+        "name": "Sniper Elite III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Bleed%202-{width}x{height}.jpg",
+        "id": "494997",
+        "name": "Bleed 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NASCAR%20Heat%204-{width}x{height}.jpg",
+        "id": "513889",
+        "name": "NASCAR Heat 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/ShellShock%20Live-{width}x{height}.jpg",
+        "id": "489253",
+        "name": "ShellShock Live"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Carrion-{width}x{height}.jpg",
+        "id": "512973",
+        "name": "Carrion"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Five%20Nights%20at%20Freddy%27s%202-{width}x{height}.jpg",
+        "id": "488559",
+        "name": "Five Nights at Freddy's 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Pathologic%202-{width}x{height}.jpg",
+        "id": "1865303615",
+        "name": "Pathologic 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/The%20Wild%20Eight-{width}x{height}.jpg",
+        "id": "491706",
+        "name": "The Wild Eight"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Styx:%20Master%20of%20Shadows-{width}x{height}.jpg",
+        "id": "459532",
+        "name": "Styx: Master of Shadows"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Maneater-{width}x{height}.jpg",
+        "id": "506452",
+        "name": "Maneater"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Trials%20Fusion-{width}x{height}.jpg",
+        "id": "369577",
+        "name": "Trials Fusion"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Machinarium-{width}x{height}.jpg",
+        "id": "21443",
+        "name": "Machinarium"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Skyhill-{width}x{height}.jpg",
+        "id": "490916",
+        "name": "Skyhill"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Ghostbusters-{width}x{height}.jpg",
+        "id": "1867574119",
+        "name": "Ghostbusters"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Madden%20NFL%2019-{width}x{height}.jpg",
+        "id": "506104",
+        "name": "Madden NFL 19"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Warriors%20Orochi%204%20Ultimate-{width}x{height}.jpg",
+        "id": "514091",
+        "name": "Warriors Orochi 4 Ultimate"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Assassin%27s%20Creed%20III-{width}x{height}.jpg",
+        "id": "33631",
+        "name": "Assassin's Creed III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/My%20Friend%20Pedro-{width}x{height}.jpg",
+        "id": "506436",
+        "name": "My Friend Pedro"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/We%20Were%20Here%20Together-{width}x{height}.jpg",
+        "id": "509862",
+        "name": "We Were Here Together"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Prodeus-{width}x{height}.jpg",
+        "id": "512629",
+        "name": "Prodeus"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/AO%20Tennis-{width}x{height}.jpg",
+        "id": "503836",
+        "name": "AO Tennis"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/NHL%2019-{width}x{height}.jpg",
+        "id": "506316",
+        "name": "NHL 19"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Tropico%206-{width}x{height}.jpg",
+        "id": "497462",
+        "name": "Tropico 6"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/L.A.%20Noire-{width}x{height}.jpg",
+        "id": "19589",
+        "name": "L.A. Noire"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Agatha%20Christie:%20The%20ABC%20Murders-{width}x{height}.jpg",
+        "id": "25663",
+        "name": "Agatha Christie: The ABC Murders"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Second%20Extinction-{width}x{height}.jpg",
+        "id": "517402",
+        "name": "Second Extinction"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/AO%20Tennis%202-{width}x{height}.jpg",
+        "id": "514852",
+        "name": "AO Tennis 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Salt%20and%20Sanctuary-{width}x{height}.jpg",
+        "id": "476371",
+        "name": "Salt and Sanctuary"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Disney%20Classic%20Games:%20Aladdin%20and%20The%20Lion%20King-{width}x{height}.jpg",
+        "id": "514090",
+        "name": "Disney Classic Games: Aladdin and The Lion King"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Fight%27N%20Rage-{width}x{height}.jpg",
+        "id": "499134",
+        "name": "Fight'N Rage"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Kingdom%20Two%20Crowns-{width}x{height}.jpg",
+        "id": "510344",
+        "name": "Kingdom Two Crowns"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Mighty%20No.%209-{width}x{height}.jpg",
+        "id": "370427",
+        "name": "Mighty No. 9"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/FIFA%2014-{width}x{height}.jpg",
+        "id": "369095",
+        "name": "FIFA 14"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/ReCore-{width}x{height}.jpg",
+        "id": "493063",
+        "name": "ReCore"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Gears%20Tactics-{width}x{height}.jpg",
+        "id": "506409",
+        "name": "Gears Tactics"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Dungeon%20of%20the%20Endless-{width}x{height}.jpg",
+        "id": "313574",
+        "name": "Dungeon of the Endless"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Wasteland%202-{width}x{height}.jpg",
+        "id": "33835",
+        "name": "Wasteland 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Risk%20of%20Rain-{width}x{height}.jpg",
+        "id": "263489",
+        "name": "Risk of Rain"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sniper%20Elite%20III-{width}x{height}.jpg",
+        "id": "133423",
+        "name": "Sniper Elite III"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/F1%202017-{width}x{height}.jpg",
+        "id": "497116",
+        "name": "F1 2017"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Bleed%202-{width}x{height}.jpg",
+        "id": "494997",
+        "name": "Bleed 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Totally%20Reliable%20Delivery%20Service-{width}x{height}.jpg",
+        "id": "512303",
+        "name": "Totally Reliable Delivery Service"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/DiRT%204-{width}x{height}.jpg",
+        "id": "495317",
+        "name": "DiRT 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sleeping%20Dogs-{width}x{height}.jpg",
+        "id": "26547",
+        "name": "Sleeping Dogs"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./One%20Piece:%20World%20Seeker-{width}x{height}.jpg",
+        "id": "500599",
+        "name": "One Piece: World Seeker"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Totally%20Reliable%20Delivery%20Service-{width}x{height}.jpg",
+        "id": "512303",
+        "name": "Totally Reliable Delivery Service"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Wasteland%202-{width}x{height}.jpg",
+        "id": "33835",
+        "name": "Wasteland 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20Marvel%27s%20Avengers-{width}x{height}.jpg",
+        "id": "488833",
+        "name": "LEGO Marvel's Avengers"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/WRC%207-{width}x{height}.jpg",
+        "id": "498989",
+        "name": "WRC 7"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Gears%20Tactics-{width}x{height}.jpg",
+        "id": "506409",
+        "name": "Gears Tactics"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Halo:%20Reach-{width}x{height}.jpg",
+        "id": "24203",
+        "name": "Halo: Reach"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Five%20Nights%20at%20Freddy%27s%202-{width}x{height}.jpg",
+        "id": "488559",
+        "name": "Five Nights at Freddy's 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Evolve-{width}x{height}.jpg",
+        "id": "110761",
+        "name": "Evolve"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Machinarium-{width}x{height}.jpg",
+        "id": "21443",
+        "name": "Machinarium"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Those%20Who%20Remain-{width}x{height}.jpg",
+        "id": "513771",
+        "name": "Those Who Remain"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Call%20of%20Duty:%20Ghosts-{width}x{height}.jpg",
+        "id": "118200",
+        "name": "Call of Duty: Ghosts"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Megaquarium-{width}x{height}.jpg",
+        "id": "509521",
+        "name": "Megaquarium"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./LEGO%20Star%20Wars:%20The%20Force%20Awakens-{width}x{height}.jpg",
+        "id": "491313",
+        "name": "LEGO Star Wars: The Force Awakens"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20Marvel%20Super%20Heroes%202-{width}x{height}.jpg",
+        "id": "497053",
+        "name": "LEGO Marvel Super Heroes 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Windbound-{width}x{height}.jpg",
+        "id": "516957",
+        "name": "Windbound"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Sleeping%20Dogs-{width}x{height}.jpg",
+        "id": "26547",
+        "name": "Sleeping Dogs"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Sky:%20Children%20of%20the%20Light-{width}x{height}.jpg",
+        "id": "513553",
+        "name": "Sky: Children of the Light"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/./Grim%20Legends:%20The%20Forsaken%20Bride-{width}x{height}.jpg",
+        "id": "461363",
+        "name": "Grim Legends: The Forsaken Bride"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Agents%20of%20Mayhem-{width}x{height}.jpg",
+        "id": "496476",
+        "name": "Agents of Mayhem"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Maneater-{width}x{height}.jpg",
+        "id": "506452",
+        "name": "Maneater"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Warriors%20Orochi%204-{width}x{height}.jpg",
+        "id": "504846",
+        "name": "Warriors Orochi 4"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/LEGO%20Marvel%27s%20Avengers-{width}x{height}.jpg",
+        "id": "488833",
+        "name": "LEGO Marvel's Avengers"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Pathologic%202-{width}x{height}.jpg",
+        "id": "1865303615",
+        "name": "Pathologic 2"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Arcade%20Spirits-{width}x{height}.jpg",
+        "id": "509013",
+        "name": "Arcade Spirits"
+    },
+    {
+        "box_art_url": "https://static-cdn.jtvnw.net/ttv-boxart/Lifeless%20Planet-{width}x{height}.jpg",
+        "id": "65995",
+        "name": "Lifeless Planet"
+    }
+]

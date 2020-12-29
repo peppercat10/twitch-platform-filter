@@ -1,0 +1,95 @@
+body{
+  background-color: #242320;
+  color: white;
+  font-family: arial;
+}
+
+.page-wrapper{
+  margin: 5rem 10rem;
+}
+
+.title-box-wrapper{
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  border: 2px solid #8c3486;
+  padding: 0.5rem;
+  margin-bottom: 5rem;
+  background-color: #1c1818;
+}
+
+.title-box-item{
+  margin-right: 3rem;
+  color: white;
+  text-decoration: none;
+}
+
+.title-box-item:hover{
+  color: #8c3486;
+}
+
+.title-box-item:last-child{
+  margin-right: 0;
+}
+
+.selected-item{
+  border-bottom: 4px solid #8c3486;
+}
+
+.games-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.game{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.game:last-child{
+  margin-right: 0;
+}
+
+.game-link{
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+.game-link:hover{
+  color: #8c3486;
+}
+
+.game-image{
+    margin-bottom: 0.5rem;
+}
+
+@media screen and (max-width: 320px){
+  .title-box-wrapper{
+    font-size: 0.8rem;
+  }
+}
+
+
+@media screen and (max-width: 400px){
+  .title-box-wrapper{
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .game{
+    margin-right: 0;
+  }
+}
+
+ @media screen and (max-width: 700px) {
+  .page-wrapper{
+    margin: 1rem 1rem;
+  }
+ }
