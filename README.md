@@ -1,6 +1,8 @@
 # Twitch Platform Filter
 Simple tool to filter Twitch games by nearly any platform and provide the results as a static HTML page.
 
+Currently being used to refresh https://twitch-platform-filter.herokuapp.com/ periodically.
+
 ## **Why?**
 
 When looking to try new games, I often browse Twitch to see what's being played lately. However, I typically want games for a specific platform, e.g. Nintendo Switch, but Twitch does not provide this type of filtering.
