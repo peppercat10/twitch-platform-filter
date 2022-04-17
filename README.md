@@ -1,7 +1,7 @@
 # Twitch Platform Filter
 Simple tool to filter Twitch games by nearly any platform and provide the results as a static HTML page.
 
-Currently being used to refresh https://twitch-platform-filter.herokuapp.com/ periodically.
+Currently being used by [Twitch Filter Server](https://github.com/peppercat10/twitch-filter-server) to refresh https://twitch-platform-filter.herokuapp.com/ periodically.
 
 ## **Why?**
 
