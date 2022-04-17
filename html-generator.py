@@ -87,8 +87,8 @@ def buildAllPages():
         with open(html_file, "w", encoding='utf-8', errors='ignore') as f:
             f.write(page)
         if not isIndexBuilt:
-         with open( "./html/index.html", "w", encoding='utf-8', errors='ignore') as f:
-            f.write(page)
+            with open( "./html/index.html", "w", encoding='utf-8', errors='ignore') as f:
+                f.write(page)
     print ("All pages built.")
 
 

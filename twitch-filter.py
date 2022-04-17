@@ -4,9 +4,9 @@ import time
 import requests
 import sys
 
-giantbomb_api_key = "INSERT KEY HERE"
-twitch_api_key = "INSERT KEY HERE"
-client_secret = "INSERT KEY HERE"
+giantbomb_api_key = "INSERT_KEY_HERE"
+twitch_api_key = "INSERT_KEY_HERE"
+client_secret = "INSERT_KEY_HERE"
 oauth_token = 'xxx'
 
 def getPlatformNumbersFromGiantBomb(gb_api,offset):
@@ -251,21 +251,32 @@ def mainLoop():
         if answer == "0":
             addNewPlatform()
         elif existing_platforms[answer]:
-            filename = answer + "_filtered.json"
-            results = getFilteredJSON(twitch_api_key, answer)
-            with open(filename,'w') as f:
-                f.write(json.dumps(results, indent=4, sort_keys=True))
+            buildFilteredJson(twitch_api_key, answer)
     except:
         return 1
     return 0
 
+def buildFilteredJson(twitch_api_key, console_id):
+    filename = console_id + "_filtered.json"
+    results = getFilteredJSON(twitch_api_key, console_id)
+    with open(filename,'w') as f:
+        f.write(json.dumps(results, indent=4, sort_keys=True))
+
 def main():
+    print("Running Twitch Filter.")
     arguments = sys.argv
+    if "silent" in arguments:
+        print("silent found in arguments.")
+        print(arguments)
+        for argument in arguments:
+            if argument.isnumeric():
+                produceGameListFile(giantbomb_api_key, argument)
+                buildFilteredJson(twitch_api_key, argument)
+        sys.exit(0)
     if len(arguments) > 1:
         if arguments[1] == "reset":
             resetFiles()
             sys.exit(0)
-    
     mainLoop()
     sys.exit(0)
 

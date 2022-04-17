@@ -4,6 +4,10 @@
         "name": "Metal Slug X: Super Vehicle - 001"
     },
     {
+        "id": 75,
+        "name": "Castle Shikigami 2"
+    },
+    {
         "id": 82,
         "name": "Saboteur"
     },
@@ -16,8 +20,20 @@
         "name": "The Immortal"
     },
     {
+        "id": 159,
+        "name": "Ty the Tasmanian Tiger 2: Bush Rescue"
+    },
+    {
         "id": 185,
         "name": "Bomb Jack"
+    },
+    {
+        "id": 261,
+        "name": "Stubbs the Zombie in Rebel Without a Pulse"
+    },
+    {
+        "id": 279,
+        "name": "Wonder Momo"
     },
     {
         "id": 307,
@@ -40,6 +56,18 @@
         "name": "Riding Hero"
     },
     {
+        "id": 442,
+        "name": "Valis IV"
+    },
+    {
+        "id": 494,
+        "name": "G Darius"
+    },
+    {
+        "id": 566,
+        "name": "S.C.A.T.: Special Cybernetic Attack Team"
+    },
+    {
         "id": 621,
         "name": "Doom II: Hell on Earth"
     },
@@ -54,6 +82,10 @@
     {
         "id": 928,
         "name": "Solomon's Key"
+    },
+    {
+        "id": 931,
+        "name": "Putt-Putt Travels Through Time"
     },
     {
         "id": 939,
@@ -76,6 +108,18 @@
         "name": "Flashback: The Quest for Identity"
     },
     {
+        "id": 1190,
+        "name": "Pop'n TwinBee"
+    },
+    {
+        "id": 1201,
+        "name": "Wild Guns"
+    },
+    {
+        "id": 1257,
+        "name": "Blaster Master"
+    },
+    {
         "id": 1272,
         "name": "Terra Cresta"
     },
@@ -88,12 +132,32 @@
         "name": "Super Mario World"
     },
     {
+        "id": 1339,
+        "name": "Star Wars: Republic Commando"
+    },
+    {
+        "id": 1487,
+        "name": "Xevious"
+    },
+    {
+        "id": 1559,
+        "name": "Super Pac-Man"
+    },
+    {
         "id": 1578,
         "name": "Resident Evil 4"
     },
     {
+        "id": 1607,
+        "name": "Claymates"
+    },
+    {
         "id": 1618,
         "name": "The Ninja Warriors"
+    },
+    {
+        "id": 1636,
+        "name": "BloodRayne 2"
     },
     {
         "id": 1653,
@@ -102,6 +166,18 @@
     {
         "id": 1761,
         "name": "KiKi KaiKai"
+    },
+    {
+        "id": 1768,
+        "name": "Shadow of the Ninja"
+    },
+    {
+        "id": 1848,
+        "name": "Nightshade"
+    },
+    {
+        "id": 1859,
+        "name": "Fire 'n Ice"
     },
     {
         "id": 1916,
@@ -128,6 +204,18 @@
         "name": "Magician Lord"
     },
     {
+        "id": 2163,
+        "name": "Bombuzal"
+    },
+    {
+        "id": 2231,
+        "name": "Crystalis"
+    },
+    {
+        "id": 2238,
+        "name": "Rally-X"
+    },
+    {
         "id": 2285,
         "name": "Bust-A-Move 2: Arcade Edition"
     },
@@ -136,12 +224,20 @@
         "name": "3 Count Bout"
     },
     {
+        "id": 2388,
+        "name": "StarTropics"
+    },
+    {
         "id": 2390,
         "name": "Ikari Warriors II: Victory Road"
     },
     {
         "id": 2396,
         "name": "Fatal Fury"
+    },
+    {
+        "id": 2411,
+        "name": "Sorcerian"
     },
     {
         "id": 2465,
@@ -160,6 +256,10 @@
         "name": "Art of Fighting"
     },
     {
+        "id": 2791,
+        "name": "Super Fantasy Zone"
+    },
+    {
         "id": 2797,
         "name": "Crazy Chicken: Wanted"
     },
@@ -172,8 +272,20 @@
         "name": "Super Mario World 2: Yoshi's Island"
     },
     {
+        "id": 2931,
+        "name": "Super Mario 64"
+    },
+    {
+        "id": 3093,
+        "name": "Breath of Fire II"
+    },
+    {
         "id": 3244,
         "name": "Toki Tori"
+    },
+    {
+        "id": 3245,
+        "name": "Eliminator Boat Duel"
     },
     {
         "id": 3296,
@@ -182,6 +294,10 @@
     {
         "id": 3329,
         "name": "Star Force"
+    },
+    {
+        "id": 3353,
+        "name": "Rolling Thunder"
     },
     {
         "id": 3387,
@@ -208,6 +324,14 @@
         "name": "Oddworld: Munch's Oddysee"
     },
     {
+        "id": 3785,
+        "name": "Putt-Putt Saves the Zoo"
+    },
+    {
+        "id": 3979,
+        "name": "Magical Night Dreams: Cotton Boomerang"
+    },
+    {
         "id": 3984,
         "name": "Star Fox"
     },
@@ -232,8 +356,16 @@
         "name": "Samurai Shodown IV: Amakusa's Revenge"
     },
     {
+        "id": 4394,
+        "name": "Zanac"
+    },
+    {
         "id": 4418,
         "name": "Langrisser I & II"
+    },
+    {
+        "id": 4547,
+        "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!"
     },
     {
         "id": 4600,
@@ -276,6 +408,14 @@
         "name": "Bump 'N' Jump"
     },
     {
+        "id": 5134,
+        "name": "SNK vs. Capcom: Card Fighter's Clash - SNK & Capcom Version"
+    },
+    {
+        "id": 5164,
+        "name": "Advanced Busterhawk Gley Lancer"
+    },
+    {
         "id": 5178,
         "name": "In the Hunt"
     },
@@ -286,6 +426,10 @@
     {
         "id": 5268,
         "name": "Sly Spy: Secret Agent"
+    },
+    {
+        "id": 5471,
+        "name": "River City Girls Zero"
     },
     {
         "id": 5546,
@@ -316,12 +460,40 @@
         "name": "Samurai Shodown"
     },
     {
+        "id": 5867,
+        "name": "Joy Mecha Fight"
+    },
+    {
+        "id": 5902,
+        "name": "Volleyball"
+    },
+    {
+        "id": 5944,
+        "name": "Spanky's Quest"
+    },
+    {
         "id": 5964,
         "name": "The King of Fighters '99"
     },
     {
+        "id": 6029,
+        "name": "Super Punch-Out!!"
+    },
+    {
         "id": 6036,
         "name": "Space Harrier"
+    },
+    {
+        "id": 6049,
+        "name": "Sam & Max Save the World"
+    },
+    {
+        "id": 6101,
+        "name": "Kung-Fu Heroes"
+    },
+    {
+        "id": 6136,
+        "name": "QIX"
     },
     {
         "id": 6165,
@@ -330,6 +502,10 @@
     {
         "id": 6315,
         "name": "Constructor"
+    },
+    {
+        "id": 6390,
+        "name": "Plumbers Don't Wear Ties"
     },
     {
         "id": 6538,
@@ -344,8 +520,16 @@
         "name": "Earth Defense Force"
     },
     {
+        "id": 6649,
+        "name": "Super Mario Sunshine"
+    },
+    {
         "id": 6657,
         "name": "Blue's Journey"
+    },
+    {
+        "id": 6673,
+        "name": "Castlevania"
     },
     {
         "id": 6708,
@@ -360,6 +544,10 @@
         "name": "Metal Slug: Super Vehicle - 001"
     },
     {
+        "id": 6944,
+        "name": "Mario's Super Picross"
+    },
+    {
         "id": 7052,
         "name": "Turok 2: Seeds of Evil"
     },
@@ -368,8 +556,20 @@
         "name": "Savage Reign"
     },
     {
+        "id": 7224,
+        "name": "Operation Logic Bomb"
+    },
+    {
         "id": 7326,
         "name": "Doom"
+    },
+    {
+        "id": 7338,
+        "name": "Earth Defense Force 2017"
+    },
+    {
+        "id": 7378,
+        "name": "Metal Slug 5"
     },
     {
         "id": 7383,
@@ -378,6 +578,10 @@
     {
         "id": 7400,
         "name": "Phantasy Star"
+    },
+    {
+        "id": 7406,
+        "name": "Super Mario Bros. 2"
     },
     {
         "id": 7450,
@@ -400,12 +604,28 @@
         "name": "Gradius III"
     },
     {
+        "id": 7624,
+        "name": "Pac-Man"
+    },
+    {
         "id": 7667,
         "name": "Magical Drop II"
     },
     {
         "id": 7778,
         "name": "Pulstar"
+    },
+    {
+        "id": 7865,
+        "name": "Wings of Wor"
+    },
+    {
+        "id": 7950,
+        "name": "The Peace Keepers"
+    },
+    {
+        "id": 8015,
+        "name": "Quake"
     },
     {
         "id": 8039,
@@ -428,6 +648,10 @@
         "name": "The King of Fighters '96"
     },
     {
+        "id": 8179,
+        "name": "Elevator Action"
+    },
+    {
         "id": 8187,
         "name": "The Super Spy"
     },
@@ -440,12 +664,24 @@
         "name": "Super Metroid"
     },
     {
+        "id": 8307,
+        "name": "EarthBound"
+    },
+    {
         "id": 8321,
         "name": "Princess Maker 3: Fairy Tales Come True"
     },
     {
         "id": 8377,
         "name": "Mutation Nation"
+    },
+    {
+        "id": 8430,
+        "name": "Pajama Sam: No Need to Hide When It\u2019s Dark Outside"
+    },
+    {
+        "id": 8575,
+        "name": "Pac-Land"
     },
     {
         "id": 8638,
@@ -480,6 +716,10 @@
         "name": "Alex Kidd in Miracle World"
     },
     {
+        "id": 9233,
+        "name": "Kirby Super Star"
+    },
+    {
         "id": 9292,
         "name": "Heavy Barrel"
     },
@@ -500,12 +740,24 @@
         "name": "Fantasy Zone"
     },
     {
+        "id": 9553,
+        "name": "Powerslave"
+    },
+    {
         "id": 9633,
         "name": "Formation Z"
     },
     {
         "id": 9647,
         "name": "Sol Divide"
+    },
+    {
+        "id": 9679,
+        "name": "Fire Mustang"
+    },
+    {
+        "id": 9720,
+        "name": "Freddi Fish 3: The Case of the Stolen Conch Shell"
     },
     {
         "id": 9763,
@@ -564,6 +816,14 @@
         "name": "Super Mario Bros. 3"
     },
     {
+        "id": 10308,
+        "name": "Magical Night Dreams: Cotton 2"
+    },
+    {
+        "id": 10397,
+        "name": "Rygar"
+    },
+    {
         "id": 10486,
         "name": "Fighter's History"
     },
@@ -592,12 +852,20 @@
         "name": "realMyst"
     },
     {
+        "id": 10746,
+        "name": "Shadow Man"
+    },
+    {
         "id": 10827,
         "name": "World Heroes Perfect"
     },
     {
         "id": 10901,
         "name": "Penguin-Kun Wars"
+    },
+    {
+        "id": 10920,
+        "name": "Banjo-Kazooie"
     },
     {
         "id": 11009,
@@ -660,6 +928,10 @@
         "name": "Ninja Spirit"
     },
     {
+        "id": 11753,
+        "name": "Earthbound Beginnings"
+    },
+    {
         "id": 11757,
         "name": "Crysis"
     },
@@ -708,8 +980,20 @@
         "name": "The Fairyland Story"
     },
     {
+        "id": 12312,
+        "name": "SNK vs. Capcom: Match of the Millennium"
+    },
+    {
+        "id": 12337,
+        "name": "Dragon Buster"
+    },
+    {
         "id": 12412,
         "name": "Titeuf Mega Party"
+    },
+    {
+        "id": 12471,
+        "name": "Thunder Force II"
     },
     {
         "id": 12614,
@@ -722,6 +1006,10 @@
     {
         "id": 12628,
         "name": "Double Switch"
+    },
+    {
+        "id": 12806,
+        "name": "The Humans"
     },
     {
         "id": 12955,
@@ -801,11 +1089,15 @@
     },
     {
         "id": 13742,
-        "name": "G-Loc Air Battle"
+        "name": "G-LOC Air Battle"
     },
     {
         "id": 13918,
         "name": "Ice Climber"
+    },
+    {
+        "id": 13920,
+        "name": "Light Crusader"
     },
     {
         "id": 13947,
@@ -820,12 +1112,32 @@
         "name": "Kizuna Encounter: Super Tag Battle"
     },
     {
+        "id": 14068,
+        "name": "Guerrilla War"
+    },
+    {
+        "id": 14193,
+        "name": "Panorama Cotton"
+    },
+    {
         "id": 14228,
         "name": "Bust-A-Move"
     },
     {
+        "id": 14250,
+        "name": "Rod Land"
+    },
+    {
         "id": 14304,
         "name": "Sengoku"
+    },
+    {
+        "id": 14394,
+        "name": "SaGa Frontier"
+    },
+    {
+        "id": 14441,
+        "name": "Pajama Sam 2: Thunder and Lightning Aren't so Frightening"
     },
     {
         "id": 14523,
@@ -841,15 +1153,31 @@
     },
     {
         "id": 14689,
-        "name": "Kowloon Youma Gakuen Ki"
+        "name": "Kowloon High-School Chronicle"
+    },
+    {
+        "id": 14710,
+        "name": "Wrecking Crew"
     },
     {
         "id": 14727,
         "name": "Pilotwings"
     },
     {
+        "id": 14779,
+        "name": "Doomsday Warrior"
+    },
+    {
+        "id": 14824,
+        "name": "Spy Fox in \"Dry Cereal\""
+    },
+    {
         "id": 14862,
         "name": "Moorhuhn Remake"
+    },
+    {
+        "id": 14880,
+        "name": "Tuff E Nuff"
     },
     {
         "id": 14929,
@@ -864,12 +1192,20 @@
         "name": "Excitebike"
     },
     {
+        "id": 15154,
+        "name": "Kid Icarus"
+    },
+    {
         "id": 15242,
         "name": "F-Zero"
     },
     {
         "id": 15334,
         "name": "Crazy Climber"
+    },
+    {
+        "id": 15410,
+        "name": "Astyanax"
     },
     {
         "id": 15418,
@@ -900,6 +1236,10 @@
         "name": "Breath of Fire"
     },
     {
+        "id": 15668,
+        "name": "QuickSpot"
+    },
+    {
         "id": 15672,
         "name": "Final Fantasy Crystal Chronicles"
     },
@@ -920,8 +1260,16 @@
         "name": "Kirby's Adventure"
     },
     {
+        "id": 15900,
+        "name": "Legend of Mana"
+    },
+    {
         "id": 16064,
         "name": "World Heroes 2 JET"
+    },
+    {
+        "id": 16094,
+        "name": "Super Mario Galaxy"
     },
     {
         "id": 16241,
@@ -932,6 +1280,10 @@
         "name": "Dragon Warrior"
     },
     {
+        "id": 16382,
+        "name": "Sky Kid"
+    },
+    {
         "id": 16400,
         "name": "Aggressors of Dark Kombat"
     },
@@ -940,12 +1292,24 @@
         "name": "Samurai Shodown II"
     },
     {
+        "id": 16437,
+        "name": "BloodRayne"
+    },
+    {
         "id": 16504,
         "name": "Commander Keen: Keen Dreams"
     },
     {
         "id": 16610,
         "name": "Burning Fight"
+    },
+    {
+        "id": 16629,
+        "name": "New Rally-X"
+    },
+    {
+        "id": 16693,
+        "name": "Raiden"
     },
     {
         "id": 16738,
@@ -968,12 +1332,24 @@
         "name": "Dragon Warrior III"
     },
     {
+        "id": 16859,
+        "name": "Mappy"
+    },
+    {
+        "id": 16889,
+        "name": "Donkey Kong Country 2: Diddy's Kong Quest"
+    },
+    {
         "id": 16922,
         "name": "Star Wars: Jedi Knight - Jedi Academy"
     },
     {
         "id": 16965,
         "name": "Syberia"
+    },
+    {
+        "id": 17008,
+        "name": "Alien Soldier"
     },
     {
         "id": 17031,
@@ -988,12 +1364,28 @@
         "name": "Baseball Stars Professional"
     },
     {
+        "id": 17186,
+        "name": "Quarth"
+    },
+    {
+        "id": 17440,
+        "name": "Legend of Valkyrie"
+    },
+    {
+        "id": 17467,
+        "name": "M\u00e4rchen Adventure Cotton 100%"
+    },
+    {
         "id": 17483,
         "name": "Out of This World"
     },
     {
         "id": 17576,
         "name": "Front Line"
+    },
+    {
+        "id": 17616,
+        "name": "Seicross"
     },
     {
         "id": 17641,
@@ -1032,8 +1424,16 @@
         "name": "Renegade"
     },
     {
+        "id": 18305,
+        "name": "Liquid Kids"
+    },
+    {
         "id": 18395,
         "name": "Strikers 1945"
+    },
+    {
+        "id": 18435,
+        "name": "Journey to Silius"
     },
     {
         "id": 18529,
@@ -1060,8 +1460,20 @@
         "name": "Super Tennis"
     },
     {
+        "id": 18669,
+        "name": "Super Baseball Simulator 1.000"
+    },
+    {
+        "id": 18741,
+        "name": "Star Wars: Knights of the Old Republic"
+    },
+    {
         "id": 18783,
         "name": "BreakThru"
+    },
+    {
+        "id": 18808,
+        "name": "F-Zero X"
     },
     {
         "id": 18841,
@@ -1104,6 +1516,10 @@
         "name": "Fatal Fury Special"
     },
     {
+        "id": 19203,
+        "name": "Star Fox 64"
+    },
+    {
         "id": 19210,
         "name": "Aero Fighters 2"
     },
@@ -1144,6 +1560,10 @@
         "name": "Saint Dragon"
     },
     {
+        "id": 19895,
+        "name": "Empire City: 1931"
+    },
+    {
         "id": 19931,
         "name": "Gunbird 2"
     },
@@ -1160,12 +1580,20 @@
         "name": "Shock Troopers: 2nd Squad"
     },
     {
+        "id": 20487,
+        "name": "Borderlands"
+    },
+    {
         "id": 20555,
         "name": "\u014ckami"
     },
     {
         "id": 20569,
         "name": "Resident Evil 5"
+    },
+    {
+        "id": 20626,
+        "name": "Star Wars: The Force Unleashed"
     },
     {
         "id": 20646,
@@ -1194,6 +1622,10 @@
     {
         "id": 20710,
         "name": "Bayonetta"
+    },
+    {
+        "id": 20716,
+        "name": "Braid"
     },
     {
         "id": 20732,
@@ -1244,6 +1676,10 @@
         "name": "Pinball"
     },
     {
+        "id": 20897,
+        "name": "Dragon Spirit"
+    },
+    {
         "id": 20903,
         "name": "Naruto: Ultimate Ninja Storm"
     },
@@ -1292,6 +1728,10 @@
         "name": "Yggdra Union: We'll Never Fight Alone"
     },
     {
+        "id": 21650,
+        "name": "Star Fox 2"
+    },
+    {
         "id": 21682,
         "name": "J.B. Harold Murder Club"
     },
@@ -1328,12 +1768,24 @@
         "name": "Arabian"
     },
     {
+        "id": 22314,
+        "name": "A-Jax"
+    },
+    {
         "id": 22358,
         "name": "Strikers 1945 II"
     },
     {
         "id": 22363,
         "name": "Strikers 1945 Plus"
+    },
+    {
+        "id": 22393,
+        "name": "Mushihime-Sama"
+    },
+    {
+        "id": 22457,
+        "name": "Haunted Castle"
     },
     {
         "id": 22483,
@@ -1344,16 +1796,32 @@
         "name": "La-Mulana"
     },
     {
+        "id": 22629,
+        "name": "Rage of the Dragons"
+    },
+    {
         "id": 22631,
         "name": "Alpha Mission II"
+    },
+    {
+        "id": 22654,
+        "name": "Time Pilot '84"
     },
     {
         "id": 22998,
         "name": "R-Type Dimensions"
     },
     {
+        "id": 23133,
+        "name": "Super Family Tennis"
+    },
+    {
         "id": 23249,
         "name": "Clannad"
+    },
+    {
+        "id": 23250,
+        "name": "Air"
     },
     {
         "id": 23377,
@@ -1380,8 +1848,20 @@
         "name": "Super Sidekicks 2: The World Championship"
     },
     {
+        "id": 23909,
+        "name": "Hopping Mappy"
+    },
+    {
+        "id": 24002,
+        "name": "Raiden IV"
+    },
+    {
         "id": 24036,
         "name": "No More Heroes 2: Desperate Struggle"
+    },
+    {
+        "id": 24055,
+        "name": "Spelunker HD"
     },
     {
         "id": 24108,
@@ -1392,12 +1872,28 @@
         "name": "Love"
     },
     {
+        "id": 24538,
+        "name": "Weapon of Choice"
+    },
+    {
+        "id": 24684,
+        "name": "Sam & Max Beyond Time and Space"
+    },
+    {
         "id": 24739,
         "name": "Trine"
     },
     {
+        "id": 24768,
+        "name": "Fez"
+    },
+    {
         "id": 24783,
         "name": "Dragon Quest X: Mezameshi Itsutsu no Shuzoku Online"
+    },
+    {
+        "id": 24993,
+        "name": "Prehistorik Man"
     },
     {
         "id": 24999,
@@ -1412,8 +1908,24 @@
         "name": "Vs. Super Mario Bros."
     },
     {
+        "id": 25508,
+        "name": "A Boy and His Blob"
+    },
+    {
+        "id": 25569,
+        "name": "Task Force Harrier EX"
+    },
+    {
         "id": 25725,
         "name": "Saints Row: The Third"
+    },
+    {
+        "id": 26193,
+        "name": "The Ignition Factor"
+    },
+    {
+        "id": 26366,
+        "name": "Espgaluda II"
     },
     {
         "id": 26416,
@@ -1428,12 +1940,24 @@
         "name": "Rygar"
     },
     {
+        "id": 26595,
+        "name": "Crime Fighters"
+    },
+    {
         "id": 26620,
         "name": "Silver Star Chess"
     },
     {
+        "id": 26754,
+        "name": "Crysis 2"
+    },
+    {
         "id": 26878,
         "name": "Zombie Panic in Wonderland"
+    },
+    {
+        "id": 26934,
+        "name": "The Legend of Zelda: Skyward Sword"
     },
     {
         "id": 27193,
@@ -1472,8 +1996,20 @@
         "name": "Shantae: Risky's Revenge"
     },
     {
+        "id": 28305,
+        "name": "Libble Rabble"
+    },
+    {
+        "id": 28325,
+        "name": "Toy Soldiers"
+    },
+    {
         "id": 29032,
         "name": "City Builder"
+    },
+    {
+        "id": 29108,
+        "name": "Columns II: The Voyage Through Time"
     },
     {
         "id": 29132,
@@ -1504,20 +2040,40 @@
         "name": "VVVVVV"
     },
     {
+        "id": 29829,
+        "name": "Dangerous Seed"
+    },
+    {
         "id": 29940,
         "name": "de Blob 2"
+    },
+    {
+        "id": 29941,
+        "name": "Darksiders II"
     },
     {
         "id": 29966,
         "name": "Vs. Wrecking Crew"
     },
     {
+        "id": 30029,
+        "name": "Bio-Ship Paladin"
+    },
+    {
         "id": 30060,
         "name": "Art Of Balance"
     },
     {
+        "id": 30067,
+        "name": "Swimmer"
+    },
+    {
         "id": 30088,
         "name": "Bulletstorm"
+    },
+    {
+        "id": 30093,
+        "name": "Monaco: What's Yours Is Mine"
     },
     {
         "id": 30106,
@@ -1530,6 +2086,10 @@
     {
         "id": 30108,
         "name": "Wizard Fire"
+    },
+    {
+        "id": 30191,
+        "name": "Lara Croft and the Guardian of Light"
     },
     {
         "id": 30380,
@@ -1564,12 +2124,28 @@
         "name": "Gate of Doom"
     },
     {
+        "id": 30906,
+        "name": "Phozon"
+    },
+    {
         "id": 30924,
         "name": "Zen Bound 2"
     },
     {
+        "id": 31190,
+        "name": "Galactic Attack"
+    },
+    {
+        "id": 31336,
+        "name": "The Genji and the Heike Clans"
+    },
+    {
         "id": 31393,
         "name": "Atelier Rorona: Alchemist of Arland"
+    },
+    {
+        "id": 31428,
+        "name": "Sonic Colors"
     },
     {
         "id": 31558,
@@ -1628,6 +2204,10 @@
         "name": "Torchlight II"
     },
     {
+        "id": 32344,
+        "name": "DoDonPachi Resurrection"
+    },
+    {
         "id": 32370,
         "name": "Sine Mora"
     },
@@ -1660,6 +2240,10 @@
         "name": "Phantasy Star Online 2"
     },
     {
+        "id": 32772,
+        "name": "Onna Sansirou: Typhoon Gal"
+    },
+    {
         "id": 32908,
         "name": "Game Dev Story"
     },
@@ -1684,12 +2268,24 @@
         "name": "Gunbird"
     },
     {
+        "id": 33341,
+        "name": "Danganronpa: Trigger Happy Havoc"
+    },
+    {
         "id": 33382,
         "name": "Ni no Kuni: Wrath of the White Witch"
     },
     {
         "id": 33394,
         "name": "The Elder Scrolls V: Skyrim"
+    },
+    {
+        "id": 33946,
+        "name": "Eschatos"
+    },
+    {
+        "id": 34001,
+        "name": "Crimzon Clover"
     },
     {
         "id": 34030,
@@ -1702,6 +2298,10 @@
     {
         "id": 34082,
         "name": "Skullgirls"
+    },
+    {
+        "id": 34094,
+        "name": "Jelly Boy"
     },
     {
         "id": 34148,
@@ -1732,8 +2332,16 @@
         "name": "Robotics;Notes"
     },
     {
+        "id": 34505,
+        "name": "Gunnail"
+    },
+    {
         "id": 34514,
         "name": "Atelier Meruru: The Apprentice of Arland"
+    },
+    {
+        "id": 34625,
+        "name": "BloodRayne: Betrayal"
     },
     {
         "id": 34627,
@@ -1760,12 +2368,24 @@
         "name": "Terraria"
     },
     {
+        "id": 35295,
+        "name": "Vendetta"
+    },
+    {
         "id": 35416,
         "name": "Puzzled"
     },
     {
         "id": 35418,
         "name": "Soccer Brawl"
+    },
+    {
+        "id": 35456,
+        "name": "The Legend of Heroes: Trails from Zero"
+    },
+    {
+        "id": 35457,
+        "name": "The Legend of Heroes: Trails to Azure"
     },
     {
         "id": 35476,
@@ -1804,12 +2424,24 @@
         "name": "Octodad: Dadliest Catch"
     },
     {
+        "id": 35889,
+        "name": "Sepas Channel"
+    },
+    {
         "id": 35940,
         "name": "The Swindle"
     },
     {
+        "id": 35962,
+        "name": "Psycho Dream"
+    },
+    {
         "id": 36042,
         "name": "Kung Fu Dragon"
+    },
+    {
+        "id": 36055,
+        "name": "Borderlands 2"
     },
     {
         "id": 36070,
@@ -1846,6 +2478,10 @@
     {
         "id": 36369,
         "name": "Pocket League Story"
+    },
+    {
+        "id": 36652,
+        "name": "Fight 'N' Jokes"
     },
     {
         "id": 36713,
@@ -1904,6 +2540,14 @@
         "name": "Fortnite"
     },
     {
+        "id": 37033,
+        "name": "Amazing Breaker"
+    },
+    {
+        "id": 37065,
+        "name": "Mahoutsukai no Yoru"
+    },
+    {
         "id": 37093,
         "name": "Ikki"
     },
@@ -1944,8 +2588,16 @@
         "name": "Ciel Nosurge: Ushinawareta Hoshi e Sasagu Uta"
     },
     {
+        "id": 37378,
+        "name": "The Legend of Makai"
+    },
+    {
         "id": 37448,
         "name": "Broken Age"
+    },
+    {
+        "id": 37492,
+        "name": "Cybattler"
     },
     {
         "id": 37494,
@@ -1986,6 +2638,10 @@
     {
         "id": 37976,
         "name": "Axiom Verge"
+    },
+    {
+        "id": 37980,
+        "name": "The Legend of Nayuta: Boundless Trails"
     },
     {
         "id": 38141,
@@ -2036,12 +2692,24 @@
         "name": "Iconoclasts"
     },
     {
+        "id": 38786,
+        "name": "Naruto Shippuden: Ultimate Ninja Storm 3"
+    },
+    {
         "id": 38788,
         "name": "Warframe"
     },
     {
+        "id": 38825,
+        "name": "Thomas Was Alone"
+    },
+    {
         "id": 38828,
         "name": "Little Inferno"
+    },
+    {
+        "id": 38853,
+        "name": "Thunder Dragon 2"
     },
     {
         "id": 38862,
@@ -2094,6 +2762,10 @@
     {
         "id": 39470,
         "name": "Crazy Strike Bowling"
+    },
+    {
+        "id": 39484,
+        "name": "Giana Sisters: Twisted Dreams"
     },
     {
         "id": 39486,
@@ -2168,16 +2840,32 @@
         "name": "Oddworld: Abe's Oddysee New 'n' Tasty!"
     },
     {
+        "id": 39948,
+        "name": "Ibb & Obb"
+    },
+    {
         "id": 40050,
         "name": "Ninja-Kid II"
+    },
+    {
+        "id": 40051,
+        "name": "Moto Roader MC"
     },
     {
         "id": 40089,
         "name": "Outlast"
     },
     {
+        "id": 40219,
+        "name": "Demon Gaze"
+    },
+    {
         "id": 40253,
         "name": "Rock Boshers DX"
+    },
+    {
+        "id": 40316,
+        "name": "Hero-U: Rogue to Redemption"
     },
     {
         "id": 40321,
@@ -2208,6 +2896,10 @@
         "name": "Astebreed"
     },
     {
+        "id": 40699,
+        "name": "Danganronpa 2: Goodbye Despair"
+    },
+    {
         "id": 40771,
         "name": "Route-16"
     },
@@ -2226,6 +2918,10 @@
     {
         "id": 41082,
         "name": "Kentucky Route Zero"
+    },
+    {
+        "id": 41090,
+        "name": "LEGO Marvel Super Heroes"
     },
     {
         "id": 41122,
@@ -2258,6 +2954,10 @@
     {
         "id": 41232,
         "name": "Momonga Pinball Adventures"
+    },
+    {
+        "id": 41236,
+        "name": "Tsukihime: A Piece of Blue Glass Moon"
     },
     {
         "id": 41238,
@@ -2308,8 +3008,16 @@
         "name": "Alpine Ski"
     },
     {
+        "id": 41684,
+        "name": "Xexex"
+    },
+    {
         "id": 41714,
         "name": "Dusty Raging Fist"
+    },
+    {
+        "id": 41729,
+        "name": "Mad Father"
     },
     {
         "id": 41796,
@@ -2448,6 +3156,10 @@
         "name": "Ethan: Meteor Hunter"
     },
     {
+        "id": 42712,
+        "name": "Dying Light"
+    },
+    {
         "id": 42717,
         "name": "N++"
     },
@@ -2480,6 +3192,14 @@
         "name": "Doom & Destiny"
     },
     {
+        "id": 42895,
+        "name": "Flashback"
+    },
+    {
+        "id": 42926,
+        "name": "Kingdom Hearts III"
+    },
+    {
         "id": 42929,
         "name": "Mario Kart 8"
     },
@@ -2490,6 +3210,10 @@
     {
         "id": 42932,
         "name": "Donkey Kong Country: Tropical Freeze"
+    },
+    {
+        "id": 42943,
+        "name": "Pistol Daimyo no Bouken"
     },
     {
         "id": 42976,
@@ -2588,6 +3312,10 @@
         "name": "Labyrinth of Touhou 2"
     },
     {
+        "id": 43555,
+        "name": "Persona 4 Arena Ultimax"
+    },
+    {
         "id": 43559,
         "name": "Death Road to Canada"
     },
@@ -2636,6 +3364,10 @@
         "name": "Shantae: 1/2 Genie Hero"
     },
     {
+        "id": 43835,
+        "name": "Wreckfest"
+    },
+    {
         "id": 43881,
         "name": "Amnesia: Memories"
     },
@@ -2664,8 +3396,16 @@
         "name": "The Fall"
     },
     {
+        "id": 43993,
+        "name": "Kansei"
+    },
+    {
         "id": 43994,
         "name": "La-Mulana 2"
+    },
+    {
+        "id": 44117,
+        "name": "MouseCraft"
     },
     {
         "id": 44187,
@@ -2724,6 +3464,14 @@
         "name": "Robot Roller-Derby Disco Dodgeball"
     },
     {
+        "id": 44653,
+        "name": "Tales from the Borderlands"
+    },
+    {
+        "id": 44656,
+        "name": "No Man's Sky"
+    },
+    {
         "id": 44717,
         "name": "Silence"
     },
@@ -2734,6 +3482,14 @@
     {
         "id": 44782,
         "name": "Hyrule Warriors"
+    },
+    {
+        "id": 44790,
+        "name": "Kingdom Come: Deliverance"
+    },
+    {
+        "id": 44869,
+        "name": "Saboten Bombers"
     },
     {
         "id": 44873,
@@ -2760,6 +3516,10 @@
         "name": "Night in the Woods"
     },
     {
+        "id": 45101,
+        "name": "Catlateral Damage"
+    },
+    {
         "id": 45124,
         "name": "Unsung Story: Tale of the Guardians"
     },
@@ -2770,6 +3530,10 @@
     {
         "id": 45139,
         "name": "Onigiri"
+    },
+    {
+        "id": 45328,
+        "name": "Beast Master And Prince"
     },
     {
         "id": 45404,
@@ -2784,12 +3548,20 @@
         "name": "Gigantic Army"
     },
     {
+        "id": 45425,
+        "name": "Gang Beasts"
+    },
+    {
         "id": 45457,
         "name": "Tumblestone"
     },
     {
         "id": 45517,
         "name": "Aqua Moto Racing Utopia"
+    },
+    {
+        "id": 45528,
+        "name": "Aiyoku no Eustia"
     },
     {
         "id": 45534,
@@ -2892,6 +3664,10 @@
         "name": "We Are Doomed"
     },
     {
+        "id": 45955,
+        "name": "Borderlands: The Pre-Sequel!"
+    },
+    {
         "id": 46006,
         "name": "Subnautica"
     },
@@ -2914,6 +3690,10 @@
     {
         "id": 46070,
         "name": "Paperbound"
+    },
+    {
+        "id": 46077,
+        "name": "Fatal Frame: Maiden of Black Water"
     },
     {
         "id": 46078,
@@ -2942,6 +3722,14 @@
     {
         "id": 46240,
         "name": "Brawlhalla"
+    },
+    {
+        "id": 46253,
+        "name": "Sherlock Holmes: Crimes and Punishments"
+    },
+    {
+        "id": 46277,
+        "name": "Never Alone"
     },
     {
         "id": 46289,
@@ -3004,6 +3792,10 @@
         "name": "Dynasty Warriors 8: Empires"
     },
     {
+        "id": 46522,
+        "name": "Death Tales"
+    },
+    {
         "id": 46535,
         "name": "The Book of Unwritten Tales 2"
     },
@@ -3014,6 +3806,10 @@
     {
         "id": 46548,
         "name": "Ori and the Blind Forest"
+    },
+    {
+        "id": 46556,
+        "name": "Lara Croft and the Temple of Osiris"
     },
     {
         "id": 46558,
@@ -3076,6 +3872,10 @@
         "name": "Deemo"
     },
     {
+        "id": 46893,
+        "name": "Vagante"
+    },
+    {
         "id": 46930,
         "name": "Black the Fall"
     },
@@ -3096,12 +3896,24 @@
         "name": "The Deer God"
     },
     {
+        "id": 47054,
+        "name": "Tadpole Treble"
+    },
+    {
         "id": 47064,
         "name": "Spoiler Alert"
     },
     {
         "id": 47086,
         "name": "Amnesia Later x Crowd V Edition"
+    },
+    {
+        "id": 47119,
+        "name": "RWBY: Grimm Eclipse"
+    },
+    {
+        "id": 47132,
+        "name": "Soldam"
     },
     {
         "id": 47144,
@@ -3192,8 +4004,16 @@
         "name": "Keep Talking and Nobody Explodes"
     },
     {
+        "id": 47462,
+        "name": "Dreaming Sarah"
+    },
+    {
         "id": 47475,
         "name": "Resident Evil: Revelations 2"
+    },
+    {
+        "id": 47479,
+        "name": "Earth Defense Force 2: Invaders From Planet Space"
     },
     {
         "id": 47482,
@@ -3334,6 +4154,10 @@
     {
         "id": 48013,
         "name": "Runbow"
+    },
+    {
+        "id": 48047,
+        "name": "Nova 2001"
     },
     {
         "id": 48060,
@@ -3556,6 +4380,10 @@
         "name": "Light Fall"
     },
     {
+        "id": 48975,
+        "name": "Twelve Minutes"
+    },
+    {
         "id": 48994,
         "name": "Beach Buggy Racing"
     },
@@ -3566,6 +4394,10 @@
     {
         "id": 49009,
         "name": "Thief Town"
+    },
+    {
+        "id": 49014,
+        "name": "Gal Gun: Double Peace"
     },
     {
         "id": 49018,
@@ -3586,6 +4418,10 @@
     {
         "id": 49099,
         "name": "The Adventures of Bertram Fiddle"
+    },
+    {
+        "id": 49101,
+        "name": "Danganronpa V3: Killing Harmony"
     },
     {
         "id": 49137,
@@ -3644,6 +4480,10 @@
         "name": "Guns, Gore & Cannoli"
     },
     {
+        "id": 49344,
+        "name": "Outer Wilds"
+    },
+    {
         "id": 49345,
         "name": "Song of Memories"
     },
@@ -3670,6 +4510,14 @@
     {
         "id": 49404,
         "name": "SmuggleCraft"
+    },
+    {
+        "id": 49413,
+        "name": "Ubongo"
+    },
+    {
+        "id": 49422,
+        "name": "Classic Games Collection Vol. 1"
     },
     {
         "id": 49431,
@@ -3701,7 +4549,7 @@
     },
     {
         "id": 49597,
-        "name": "Maihana Soumakyou: Uniting Barrage Action"
+        "name": "Azure Reflections"
     },
     {
         "id": 49633,
@@ -3724,8 +4572,16 @@
         "name": "Romance of the Three Kingdoms XIII"
     },
     {
+        "id": 49689,
+        "name": "Alphadia Genesis"
+    },
+    {
         "id": 49764,
         "name": "Finding Teddy 2"
+    },
+    {
+        "id": 49786,
+        "name": "Shanghai III"
     },
     {
         "id": 49787,
@@ -3764,8 +4620,20 @@
         "name": "Superbeat: Xonic"
     },
     {
+        "id": 49900,
+        "name": "Halley's Comet"
+    },
+    {
         "id": 49912,
         "name": "Human Resource Machine"
+    },
+    {
+        "id": 49914,
+        "name": "Chronos: Before the Ashes"
+    },
+    {
+        "id": 49953,
+        "name": "Death's Gambit"
     },
     {
         "id": 49956,
@@ -3828,6 +4696,10 @@
         "name": "Cube Life: Island Survival"
     },
     {
+        "id": 50154,
+        "name": "Atelier Sophie: The Alchemist of the Mysterious Book"
+    },
+    {
         "id": 50217,
         "name": "Gunman Clive HD Collection"
     },
@@ -3840,8 +4712,20 @@
         "name": "Cook, Serve, Delicious! 2!!"
     },
     {
+        "id": 50267,
+        "name": "Cosmo Police Galivan"
+    },
+    {
+        "id": 50269,
+        "name": "Battle Brothers"
+    },
+    {
         "id": 50278,
         "name": "Hero Must Die. Again"
+    },
+    {
+        "id": 50281,
+        "name": "Super Impossible Road"
     },
     {
         "id": 50284,
@@ -3944,6 +4828,10 @@
         "name": "Combat Core"
     },
     {
+        "id": 50629,
+        "name": "Disney Magical World 2"
+    },
+    {
         "id": 50640,
         "name": "The Coma: Cutting Class"
     },
@@ -3966,6 +4854,10 @@
     {
         "id": 50698,
         "name": "Layers of Fear"
+    },
+    {
+        "id": 50699,
+        "name": "Touhou Unreal Mahjong"
     },
     {
         "id": 50713,
@@ -3998,6 +4890,18 @@
     {
         "id": 50852,
         "name": "Kitten Squad"
+    },
+    {
+        "id": 50860,
+        "name": "Sakura Swim Club"
+    },
+    {
+        "id": 50877,
+        "name": "Kingdom Hearts HD II.8: Final Chapter Prologue"
+    },
+    {
+        "id": 50879,
+        "name": "13 Sentinels: Aegis Rim"
     },
     {
         "id": 50885,
@@ -4068,8 +4972,16 @@
         "name": "Sword Art Online: Hollow Realization"
     },
     {
+        "id": 51196,
+        "name": "We Know the Devil"
+    },
+    {
         "id": 51205,
         "name": "Gunbarich"
+    },
+    {
+        "id": 51211,
+        "name": "Paint the Town Red"
     },
     {
         "id": 51239,
@@ -4104,6 +5016,14 @@
         "name": "Refunct"
     },
     {
+        "id": 51352,
+        "name": "AVICII Invector"
+    },
+    {
+        "id": 51360,
+        "name": "Poker Pretty Girls Battle: Texas Hold'em"
+    },
+    {
         "id": 51398,
         "name": "AeternoBlade II"
     },
@@ -4116,6 +5036,10 @@
         "name": "Toby: The Secret Mine"
     },
     {
+        "id": 51430,
+        "name": "Smashing the Battle"
+    },
+    {
         "id": 51459,
         "name": "Higurashi When They Cry Hou"
     },
@@ -4126,6 +5050,10 @@
     {
         "id": 51463,
         "name": "Rabi-Ribi"
+    },
+    {
+        "id": 51473,
+        "name": "Takeda Shingen"
     },
     {
         "id": 51486,
@@ -4146,6 +5074,10 @@
     {
         "id": 51630,
         "name": "12 Is Better Than 6"
+    },
+    {
+        "id": 51631,
+        "name": "Space Grunts"
     },
     {
         "id": 51635,
@@ -4172,6 +5104,10 @@
         "name": "Batman: The Telltale Series"
     },
     {
+        "id": 51744,
+        "name": "Ni no Kuni II: Revenant Kingdom"
+    },
+    {
         "id": 51774,
         "name": "Streets of Rogue"
     },
@@ -4196,6 +5132,10 @@
         "name": "SD Gundam G Generation Genesis"
     },
     {
+        "id": 51965,
+        "name": "Little Devil Inside"
+    },
+    {
         "id": 51989,
         "name": "Sydney Hunter and the Curse of the Mayan"
     },
@@ -4218,6 +5158,10 @@
     {
         "id": 52083,
         "name": "Wheels of Aurelia"
+    },
+    {
+        "id": 52163,
+        "name": "Slime Rancher"
     },
     {
         "id": 52209,
@@ -4424,6 +5368,10 @@
         "name": "Shadow Bug"
     },
     {
+        "id": 53060,
+        "name": "Astroneer"
+    },
+    {
         "id": 53114,
         "name": "Road to Ballhalla"
     },
@@ -4434,6 +5382,10 @@
     {
         "id": 53163,
         "name": "The Legend of Bum-bo"
+    },
+    {
+        "id": 53186,
+        "name": "Kuri Kinton"
     },
     {
         "id": 53193,
@@ -4508,6 +5460,10 @@
         "name": "Binaries"
     },
     {
+        "id": 53363,
+        "name": "LiEat"
+    },
+    {
         "id": 53373,
         "name": "Manual Samuel"
     },
@@ -4526,6 +5482,10 @@
     {
         "id": 53413,
         "name": "Ace of Seafood"
+    },
+    {
+        "id": 53415,
+        "name": "Don't Starve Together"
     },
     {
         "id": 53439,
@@ -4568,8 +5528,16 @@
         "name": "Stern Pinball Arcade"
     },
     {
+        "id": 53596,
+        "name": "Quantum Suicide"
+    },
+    {
         "id": 53597,
         "name": "Zombie Night Terror"
+    },
+    {
+        "id": 53598,
+        "name": "Scrap Garden"
     },
     {
         "id": 53599,
@@ -4596,6 +5564,10 @@
         "name": "Brick Breaker"
     },
     {
+        "id": 53646,
+        "name": "Ayo the Clown"
+    },
+    {
         "id": 53648,
         "name": "Human: Fall Flat"
     },
@@ -4606,6 +5578,10 @@
     {
         "id": 53653,
         "name": "AER: Memories of Old"
+    },
+    {
+        "id": 53659,
+        "name": "OneShot"
     },
     {
         "id": 53662,
@@ -4660,6 +5636,18 @@
         "name": "Marooners"
     },
     {
+        "id": 53756,
+        "name": "Thunder Cross"
+    },
+    {
+        "id": 53757,
+        "name": "Thunder Cross II"
+    },
+    {
+        "id": 53765,
+        "name": "Can't Drive This"
+    },
+    {
         "id": 53806,
         "name": "Dragon Ball Xenoverse 2"
     },
@@ -4698,6 +5686,10 @@
     {
         "id": 53949,
         "name": "Youtubers Life"
+    },
+    {
+        "id": 53972,
+        "name": "Atelier Firis: The Alchemist of the Mysterious Journey"
     },
     {
         "id": 54002,
@@ -4864,6 +5856,10 @@
         "name": "Anarcute"
     },
     {
+        "id": 54550,
+        "name": "ISLAND"
+    },
+    {
         "id": 54601,
         "name": "BlobCat"
     },
@@ -4872,12 +5868,24 @@
         "name": "Super Blood Hockey"
     },
     {
+        "id": 54607,
+        "name": "HardCube"
+    },
+    {
         "id": 54638,
         "name": "Shephy"
     },
     {
         "id": 54645,
         "name": "Lanota"
+    },
+    {
+        "id": 54652,
+        "name": "Chex Quest HD"
+    },
+    {
+        "id": 54654,
+        "name": "Shadows of Kurgansk"
     },
     {
         "id": 54664,
@@ -4970,6 +5978,10 @@
     {
         "id": 54995,
         "name": "Bear With Me"
+    },
+    {
+        "id": 55003,
+        "name": "Replica"
     },
     {
         "id": 55005,
@@ -5076,6 +6088,10 @@
         "name": "Six Sides of the World"
     },
     {
+        "id": 55326,
+        "name": "Miitopia"
+    },
+    {
         "id": 55342,
         "name": "Naruto Shippuden: Ultimate Ninja Storm Collection"
     },
@@ -5092,8 +6108,16 @@
         "name": "Earth's Dawn"
     },
     {
+        "id": 55394,
+        "name": "Death Trash"
+    },
+    {
         "id": 55452,
         "name": "Soulblight"
+    },
+    {
+        "id": 55477,
+        "name": "Assassin's Creed: The Ezio Collection"
     },
     {
         "id": 55533,
@@ -5212,12 +6236,20 @@
         "name": "The Warlock of Firetop Mountain"
     },
     {
+        "id": 56702,
+        "name": "Unavowed"
+    },
+    {
         "id": 56705,
         "name": "Polygod"
     },
     {
         "id": 56733,
         "name": "Super Mario Odyssey"
+    },
+    {
+        "id": 56744,
+        "name": "Cruis'n Blast"
     },
     {
         "id": 56746,
@@ -5232,6 +6264,10 @@
         "name": "Alteric"
     },
     {
+        "id": 56791,
+        "name": "Little Bug"
+    },
+    {
         "id": 56813,
         "name": "Stardust Galaxy Warriors: Stellar Climax"
     },
@@ -5242,6 +6278,10 @@
     {
         "id": 56825,
         "name": "Maldita Castilla"
+    },
+    {
+        "id": 56836,
+        "name": "Kingdom Hearts HD I.5 + II.5 Remix"
     },
     {
         "id": 56837,
@@ -5282,6 +6322,10 @@
     {
         "id": 56914,
         "name": "Double Breakout"
+    },
+    {
+        "id": 56920,
+        "name": "Xenocider"
     },
     {
         "id": 56928,
@@ -5380,10 +6424,6 @@
         "name": "Nairi: Tower of Shirin"
     },
     {
-        "id": 57257,
-        "name": "Mongrel"
-    },
-    {
         "id": 57258,
         "name": "Koloro"
     },
@@ -5404,6 +6444,10 @@
         "name": "Seasons of Heaven"
     },
     {
+        "id": 57327,
+        "name": "Sea of Solitude"
+    },
+    {
         "id": 57342,
         "name": "Grave Danger"
     },
@@ -5414,6 +6458,10 @@
     {
         "id": 57344,
         "name": "Megaton Rainfall"
+    },
+    {
+        "id": 57345,
+        "name": "Omen of Sorrow"
     },
     {
         "id": 57346,
@@ -5610,6 +6658,10 @@
     {
         "id": 57846,
         "name": "Asdivine Dios"
+    },
+    {
+        "id": 57847,
+        "name": "Asdivine Menace"
     },
     {
         "id": 57848,
@@ -5820,8 +6872,16 @@
         "name": "Semblance"
     },
     {
+        "id": 58543,
+        "name": "Frisky Tom"
+    },
+    {
         "id": 58556,
         "name": "Mulaka"
+    },
+    {
+        "id": 58568,
+        "name": "Chaos;Head Noah"
     },
     {
         "id": 58569,
@@ -5856,6 +6916,10 @@
         "name": "Guard Duty"
     },
     {
+        "id": 58599,
+        "name": "Gibbous - A Cthulhu Adventure"
+    },
+    {
         "id": 58600,
         "name": "The Journey Down: Chapter Three"
     },
@@ -5884,8 +6948,16 @@
         "name": "Shape of the World"
     },
     {
+        "id": 58655,
+        "name": "Mutant Night"
+    },
+    {
         "id": 58693,
         "name": "Blue Rider"
+    },
+    {
+        "id": 58700,
+        "name": "Appli Archives: Jaleco Momoko 1200%"
     },
     {
         "id": 58739,
@@ -6040,12 +7112,20 @@
         "name": "Taisen Hot Gimmick"
     },
     {
+        "id": 59196,
+        "name": "Taisen Hot Gimmick 3: Digital Surfing"
+    },
+    {
         "id": 59197,
         "name": "Taisen Hot Gimmick: Cosplay-Jan"
     },
     {
         "id": 59209,
         "name": "Phantom Trigger"
+    },
+    {
+        "id": 59213,
+        "name": "Arcaea"
     },
     {
         "id": 59220,
@@ -6096,6 +7176,10 @@
         "name": "The Infectious Madness of Doctor Dekker"
     },
     {
+        "id": 59346,
+        "name": "Darksiders III"
+    },
+    {
         "id": 59380,
         "name": "Eagle Island"
     },
@@ -6118,6 +7202,10 @@
     {
         "id": 59403,
         "name": "The Inner World: The Last Wind Monk"
+    },
+    {
+        "id": 59471,
+        "name": "Empire of Angels IV"
     },
     {
         "id": 59498,
@@ -6196,12 +7284,20 @@
         "name": "Tangledeep"
     },
     {
+        "id": 59701,
+        "name": "Vandyke"
+    },
+    {
         "id": 59703,
         "name": "Robotics;Notes DaSH"
     },
     {
         "id": 59704,
         "name": "Steins;Gate Elite"
+    },
+    {
+        "id": 59705,
+        "name": "Thunder Dragon"
     },
     {
         "id": 59727,
@@ -6292,6 +7388,10 @@
         "name": "Hunting Simulator"
     },
     {
+        "id": 59900,
+        "name": "The Artful Escape"
+    },
+    {
         "id": 59901,
         "name": "Super Lucky's Tale"
     },
@@ -6352,6 +7452,10 @@
         "name": "Unto the End"
     },
     {
+        "id": 59952,
+        "name": "A Plague Tale: Innocence"
+    },
+    {
         "id": 59953,
         "name": "Sushi Striker: The Way of Sushido"
     },
@@ -6362,6 +7466,10 @@
     {
         "id": 59968,
         "name": "Super Mega Baseball 2"
+    },
+    {
+        "id": 60005,
+        "name": "Doki Doki Literature Club"
     },
     {
         "id": 60015,
@@ -6390,6 +7498,10 @@
     {
         "id": 60073,
         "name": "Touch Battle Tank SP"
+    },
+    {
+        "id": 60121,
+        "name": "3D Arcade Fishing"
     },
     {
         "id": 60133,
@@ -6501,7 +7613,11 @@
     },
     {
         "id": 60367,
-        "name": "BlazBlue Cross Tag Battle"
+        "name": "BlazBlue: Cross Tag Battle"
+    },
+    {
+        "id": 60368,
+        "name": "Fighting EX Layer"
     },
     {
         "id": 60381,
@@ -6536,6 +7652,10 @@
         "name": "Ultra Hyperball"
     },
     {
+        "id": 60441,
+        "name": "The Letter"
+    },
+    {
         "id": 60442,
         "name": "King of the Hat"
     },
@@ -6566,6 +7686,10 @@
     {
         "id": 60481,
         "name": "Heroes of the Monkey Tavern"
+    },
+    {
+        "id": 60489,
+        "name": "Guzzler"
     },
     {
         "id": 60512,
@@ -6656,6 +7780,10 @@
         "name": "Tales of the Tiny Planet"
     },
     {
+        "id": 60703,
+        "name": "Dyna Bomb"
+    },
+    {
         "id": 60756,
         "name": "Tokyo Dark"
     },
@@ -6670,6 +7798,10 @@
     {
         "id": 60781,
         "name": "Necrosphere"
+    },
+    {
+        "id": 60794,
+        "name": "Monster Prom"
     },
     {
         "id": 60798,
@@ -6704,6 +7836,10 @@
         "name": "The First Tree"
     },
     {
+        "id": 60827,
+        "name": "Tempest 4000"
+    },
+    {
         "id": 60828,
         "name": "Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings"
     },
@@ -6722,6 +7858,10 @@
     {
         "id": 60865,
         "name": "The Adventure Pals"
+    },
+    {
+        "id": 60867,
+        "name": "The Big Journey"
     },
     {
         "id": 60869,
@@ -6806,6 +7946,10 @@
     {
         "id": 60966,
         "name": "Snack World: The Dungeon Crawl Gold"
+    },
+    {
+        "id": 60977,
+        "name": "Mirai Ninja: Keigumo Kinin Gaiden"
     },
     {
         "id": 61108,
@@ -6906,6 +8050,10 @@
     {
         "id": 61253,
         "name": "MudRunner"
+    },
+    {
+        "id": 61259,
+        "name": "Guardian Force"
     },
     {
         "id": 61272,
@@ -7022,6 +8170,10 @@
     {
         "id": 61566,
         "name": "Castle of Heart"
+    },
+    {
+        "id": 61571,
+        "name": "Paradise Lost"
     },
     {
         "id": 61573,
@@ -7174,6 +8326,10 @@
     {
         "id": 62005,
         "name": "God Eater 3"
+    },
+    {
+        "id": 62013,
+        "name": "Taisen Idol-Mahjong: Final Romance 2"
     },
     {
         "id": 62018,
@@ -7408,6 +8564,10 @@
         "name": "ACORN Tactics"
     },
     {
+        "id": 62994,
+        "name": "Ultimate Fishing Simulator"
+    },
+    {
         "id": 63006,
         "name": "WorldEnd Syndrome"
     },
@@ -7568,6 +8728,10 @@
         "name": "Vesta"
     },
     {
+        "id": 64094,
+        "name": "Deeeer Simulator: Your Average Everyday Deer Game"
+    },
+    {
         "id": 64100,
         "name": "Another Eden"
     },
@@ -7636,6 +8800,10 @@
         "name": "Bad North"
     },
     {
+        "id": 64823,
+        "name": "Wytchwood"
+    },
+    {
         "id": 64843,
         "name": "Mineko's Night Market"
     },
@@ -7666,6 +8834,10 @@
     {
         "id": 65014,
         "name": "Yume Nikki: Dream Diary"
+    },
+    {
+        "id": 65022,
+        "name": "The Mysterious Case of Dr. Jekyll & Mr. Hyde"
     },
     {
         "id": 65031,
@@ -7796,6 +8968,10 @@
         "name": "Chicken Range"
     },
     {
+        "id": 65600,
+        "name": "The Red Strings Club"
+    },
+    {
         "id": 65627,
         "name": "Mahjong"
     },
@@ -7889,7 +9065,7 @@
     },
     {
         "id": 66214,
-        "name": "Yomi wo Saku Hana"
+        "name": "Undernauts: Labyrinth of Yomi"
     },
     {
         "id": 66231,
@@ -7920,8 +9096,16 @@
         "name": "Pool Billiard"
     },
     {
+        "id": 66289,
+        "name": "Raimais"
+    },
+    {
         "id": 66320,
         "name": "Guilt Battle Arena"
+    },
+    {
+        "id": 66438,
+        "name": "Heroes of Hammerwatch"
     },
     {
         "id": 66439,
@@ -7946,6 +9130,10 @@
     {
         "id": 66456,
         "name": "Membrane"
+    },
+    {
+        "id": 66468,
+        "name": "Delicious! Pretty Girls Mahjong Solitaire"
     },
     {
         "id": 66478,
@@ -8160,6 +9348,10 @@
         "name": "V-Rally 4"
     },
     {
+        "id": 67172,
+        "name": "Puss!"
+    },
+    {
         "id": 67193,
         "name": "Sega Genesis Classics"
     },
@@ -8188,6 +9380,10 @@
         "name": "Warriors Orochi 4"
     },
     {
+        "id": 67295,
+        "name": "Darwin 4078"
+    },
+    {
         "id": 67400,
         "name": "Azure Saga: Pathfinder"
     },
@@ -8210,6 +9406,10 @@
     {
         "id": 67498,
         "name": "Baba Is You"
+    },
+    {
+        "id": 67500,
+        "name": "Indie Pogo"
     },
     {
         "id": 67507,
@@ -8404,6 +9604,10 @@
         "name": "Gururin"
     },
     {
+        "id": 67984,
+        "name": "Deiland"
+    },
+    {
         "id": 67986,
         "name": "Retimed"
     },
@@ -8418,6 +9622,10 @@
     {
         "id": 67997,
         "name": "Croc's World 2"
+    },
+    {
+        "id": 68038,
+        "name": "Omori"
     },
     {
         "id": 68066,
@@ -8580,6 +9788,10 @@
         "name": "Planet Alpha"
     },
     {
+        "id": 68633,
+        "name": "Ultimate Racing 2D"
+    },
+    {
         "id": 68638,
         "name": "Game Tengoku Cruisin Mix "
     },
@@ -8688,6 +9900,10 @@
         "name": "Macrotis: A Mother's Journey"
     },
     {
+        "id": 68836,
+        "name": "Tetris Effect"
+    },
+    {
         "id": 68840,
         "name": "Dead End Job"
     },
@@ -8718,6 +9934,10 @@
     {
         "id": 68911,
         "name": "Jump Force"
+    },
+    {
+        "id": 68912,
+        "name": "Dying Light 2: Stay Human"
     },
     {
         "id": 68917,
@@ -8780,6 +10000,10 @@
         "name": "Neo Cab"
     },
     {
+        "id": 68953,
+        "name": "Maneater"
+    },
+    {
         "id": 68954,
         "name": "Night Call"
     },
@@ -8792,6 +10016,10 @@
         "name": "Speed Brawl"
     },
     {
+        "id": 68971,
+        "name": "The Forgotten City"
+    },
+    {
         "id": 68973,
         "name": "Desert Child"
     },
@@ -8802,6 +10030,10 @@
     {
         "id": 68975,
         "name": "Ninjala"
+    },
+    {
+        "id": 68987,
+        "name": "Nostalgic Train"
     },
     {
         "id": 68992,
@@ -8822,6 +10054,10 @@
     {
         "id": 69037,
         "name": "Aggelos"
+    },
+    {
+        "id": 69042,
+        "name": "Crystar"
     },
     {
         "id": 69043,
@@ -8848,6 +10084,10 @@
         "name": "Ding Dong XL"
     },
     {
+        "id": 69102,
+        "name": "Razion"
+    },
+    {
         "id": 69104,
         "name": "Dystoa"
     },
@@ -8872,6 +10112,10 @@
         "name": "Sword of the Guardian"
     },
     {
+        "id": 69143,
+        "name": "Ultimate Custom Night"
+    },
+    {
         "id": 69144,
         "name": "Air Mail"
     },
@@ -8886,6 +10130,10 @@
     {
         "id": 69170,
         "name": "Waking Violet"
+    },
+    {
+        "id": 69174,
+        "name": "Project Warlock"
     },
     {
         "id": 69180,
@@ -9008,8 +10256,16 @@
         "name": "One Hand Clapping"
     },
     {
+        "id": 69365,
+        "name": "Genesis Noir"
+    },
+    {
         "id": 69366,
         "name": "The Stillness of the Wind"
+    },
+    {
+        "id": 69368,
+        "name": "Pretty Girls Panic!"
     },
     {
         "id": 69370,
@@ -9018,6 +10274,14 @@
     {
         "id": 69372,
         "name": "Super Destronaut DX"
+    },
+    {
+        "id": 69373,
+        "name": "Little Misfortune"
+    },
+    {
+        "id": 69374,
+        "name": "Iris.Fall"
     },
     {
         "id": 69375,
@@ -9046,6 +10310,14 @@
     {
         "id": 69408,
         "name": "Shikhondo: Soul Eater"
+    },
+    {
+        "id": 69420,
+        "name": "Dicey Dungeons"
+    },
+    {
+        "id": 69423,
+        "name": "Pretty Girls Mahjong Solitaire"
     },
     {
         "id": 69441,
@@ -9098,10 +10370,6 @@
     {
         "id": 69556,
         "name": "Ninja Striker!"
-    },
-    {
-        "id": 69566,
-        "name": "Profane"
     },
     {
         "id": 69569,
@@ -9200,8 +10468,16 @@
         "name": "Risk of Rain 2"
     },
     {
+        "id": 69788,
+        "name": "Star Renegades"
+    },
+    {
         "id": 69789,
         "name": "The World Next Door"
+    },
+    {
+        "id": 69791,
+        "name": "A Memoir Blue"
     },
     {
         "id": 69798,
@@ -9272,8 +10548,8 @@
         "name": "Alchemic Cutie"
     },
     {
-        "id": 69952,
-        "name": "Azure Reflections"
+        "id": 69944,
+        "name": "Young Souls"
     },
     {
         "id": 69953,
@@ -9300,6 +10576,10 @@
         "name": "Ary and the Secret of Seasons"
     },
     {
+        "id": 70068,
+        "name": "MouseBot: Escape from CatLab"
+    },
+    {
         "id": 70072,
         "name": "Streets of Rage 4"
     },
@@ -9318,6 +10598,10 @@
     {
         "id": 70104,
         "name": "Shovel Knight Showdown"
+    },
+    {
+        "id": 70117,
+        "name": "Kaze and the Wild Masks"
     },
     {
         "id": 70123,
@@ -9389,7 +10673,7 @@
     },
     {
         "id": 70222,
-        "name": "Warhammer: Age of Sigmar - Champions"
+        "name": "Warhammer Age of Sigmar: Champions"
     },
     {
         "id": 70225,
@@ -9476,6 +10760,10 @@
         "name": "One Step from Eden"
     },
     {
+        "id": 70369,
+        "name": "Parkasaurus"
+    },
+    {
         "id": 70370,
         "name": "Warhammer 40,000: Mechanicus"
     },
@@ -9518,6 +10806,10 @@
     {
         "id": 70426,
         "name": "Yomawari: The Long Night Collection"
+    },
+    {
+        "id": 70433,
+        "name": "Pop Flamer"
     },
     {
         "id": 70439,
@@ -9628,6 +10920,10 @@
         "name": "Super Pixel Racers"
     },
     {
+        "id": 70712,
+        "name": "Nine Witches - Family Disruption"
+    },
+    {
         "id": 70739,
         "name": "Super Dragon Ball Heroes: World Mission"
     },
@@ -9650,6 +10946,10 @@
     {
         "id": 70773,
         "name": "Starman: Tale Of Light"
+    },
+    {
+        "id": 70793,
+        "name": "Fury Unleashed"
     },
     {
         "id": 70803,
@@ -9709,7 +11009,7 @@
     },
     {
         "id": 70836,
-        "name": "Deltarune"
+        "name": "Deltarune Chapter 1&2"
     },
     {
         "id": 70858,
@@ -9816,6 +11116,10 @@
         "name": "Bad Dream: Fever"
     },
     {
+        "id": 71076,
+        "name": "Alfonzo's Arctic Adventure"
+    },
+    {
         "id": 71078,
         "name": "Degrees of Separation"
     },
@@ -9876,8 +11180,16 @@
         "name": "Irony Curtain: From Matryoshka with Love"
     },
     {
+        "id": 71151,
+        "name": "Omno"
+    },
+    {
         "id": 71165,
         "name": "The LEGO Movie 2 Videogame"
+    },
+    {
+        "id": 71174,
+        "name": "The Enigma Machine"
     },
     {
         "id": 71179,
@@ -9892,8 +11204,16 @@
         "name": "Buildings Have Feelings Too!"
     },
     {
+        "id": 71194,
+        "name": "Supermarket Shriek"
+    },
+    {
         "id": 71200,
         "name": "RemiLore: Lost Girl in the Lands of Lore"
+    },
+    {
+        "id": 71202,
+        "name": "Containment"
     },
     {
         "id": 71207,
@@ -10000,6 +11320,10 @@
         "name": "Skater XL"
     },
     {
+        "id": 71309,
+        "name": "Source of Madness"
+    },
+    {
         "id": 71310,
         "name": "Conduct Together!"
     },
@@ -10025,7 +11349,7 @@
     },
     {
         "id": 71343,
-        "name": "El Hijo"
+        "name": "El Hijo - A Wild West Tale"
     },
     {
         "id": 71350,
@@ -10034,6 +11358,10 @@
     {
         "id": 71363,
         "name": "Asdivine Hearts II"
+    },
+    {
+        "id": 71366,
+        "name": "Mythic Ocean"
     },
     {
         "id": 71381,
@@ -10046,6 +11374,14 @@
     {
         "id": 71421,
         "name": "Ys IX: Monstrum Nox"
+    },
+    {
+        "id": 71453,
+        "name": "Nexomon"
+    },
+    {
+        "id": 71460,
+        "name": "103"
     },
     {
         "id": 71461,
@@ -10072,6 +11408,10 @@
         "name": "Holy Potatoes! What the Hell?!"
     },
     {
+        "id": 71532,
+        "name": "Eternal Exodus"
+    },
+    {
         "id": 71537,
         "name": "Car Quest"
     },
@@ -10082,6 +11422,10 @@
     {
         "id": 71541,
         "name": "Fitness Boxing"
+    },
+    {
+        "id": 71546,
+        "name": "Legendary Fishing"
     },
     {
         "id": 71557,
@@ -10120,12 +11464,20 @@
         "name": "Neko Navy"
     },
     {
+        "id": 71674,
+        "name": "Roombo: First Blood"
+    },
+    {
         "id": 71745,
         "name": "Demon's Tilt"
     },
     {
         "id": 71767,
         "name": "Old School Racer 2"
+    },
+    {
+        "id": 71797,
+        "name": "Sable's Grimoire"
     },
     {
         "id": 71799,
@@ -10204,8 +11556,16 @@
         "name": "Stray Cat Doors"
     },
     {
+        "id": 71920,
+        "name": "Dragon Ball Z: Kakarot"
+    },
+    {
         "id": 71937,
         "name": "Subnautica: Below Zero"
+    },
+    {
+        "id": 71939,
+        "name": "Sun Wukong VS Robot"
     },
     {
         "id": 71945,
@@ -10240,6 +11600,14 @@
         "name": "Apex Legends"
     },
     {
+        "id": 72020,
+        "name": "Succubus"
+    },
+    {
+        "id": 72029,
+        "name": "Grave Keeper"
+    },
+    {
         "id": 72049,
         "name": "Evoland: Legendary Edition"
     },
@@ -10270,6 +11638,10 @@
     {
         "id": 72117,
         "name": "Glass Masquerade 2: Illusions"
+    },
+    {
+        "id": 72124,
+        "name": "Anodyne 2: Return to Dust"
     },
     {
         "id": 72129,
@@ -10306,6 +11678,10 @@
     {
         "id": 72148,
         "name": "The Legend of Zelda: Link's Awakening"
+    },
+    {
+        "id": 72155,
+        "name": "Suzerain"
     },
     {
         "id": 72156,
@@ -10374,6 +11750,10 @@
     {
         "id": 72227,
         "name": "Worse Than Death"
+    },
+    {
+        "id": 72235,
+        "name": "Airborne Kingdom"
     },
     {
         "id": 72237,
@@ -10488,6 +11868,10 @@
         "name": "Moving Out"
     },
     {
+        "id": 72436,
+        "name": "Quantum League"
+    },
+    {
         "id": 72441,
         "name": "7th Sector"
     },
@@ -10536,6 +11920,10 @@
         "name": "MindSeize"
     },
     {
+        "id": 72497,
+        "name": "Monster Crown"
+    },
+    {
         "id": 72498,
         "name": "Shanghai Refresh"
     },
@@ -10558,6 +11946,10 @@
     {
         "id": 72537,
         "name": "Golf Peaks"
+    },
+    {
+        "id": 72563,
+        "name": "VirtuaVerse"
     },
     {
         "id": 72571,
@@ -10592,6 +11984,10 @@
         "name": "OPUS Collection"
     },
     {
+        "id": 72641,
+        "name": "Wave Break"
+    },
+    {
         "id": 72649,
         "name": "Five Nights at Freddy's VR: Help Wanted"
     },
@@ -10610,6 +12006,10 @@
     {
         "id": 72661,
         "name": "Shantae and the Seven Sirens"
+    },
+    {
+        "id": 72665,
+        "name": "Beyond A Steel Sky"
     },
     {
         "id": 72667,
@@ -10650,6 +12050,10 @@
     {
         "id": 72756,
         "name": "Zoids Wild: King of Blast"
+    },
+    {
+        "id": 72759,
+        "name": "ISLANDERS"
     },
     {
         "id": 72762,
@@ -10728,6 +12132,10 @@
         "name": "Super Weekend Mode"
     },
     {
+        "id": 72907,
+        "name": "Dungeon Munchies"
+    },
+    {
         "id": 72910,
         "name": "No Straight Roads"
     },
@@ -10740,6 +12148,10 @@
         "name": "Biped"
     },
     {
+        "id": 72956,
+        "name": "Disjunction"
+    },
+    {
         "id": 72963,
         "name": "Cat Quest II: The Lupus Empire"
     },
@@ -10750,6 +12162,10 @@
     {
         "id": 72970,
         "name": "3 Minutes to Midnight"
+    },
+    {
+        "id": 72980,
+        "name": "Littlewood"
     },
     {
         "id": 72981,
@@ -10776,12 +12192,20 @@
         "name": "Crashbots"
     },
     {
+        "id": 73003,
+        "name": "Warhammer Quest II: The End Times"
+    },
+    {
         "id": 73007,
         "name": "Picross S3"
     },
     {
         "id": 73013,
         "name": "Beyond Critical"
+    },
+    {
+        "id": 73026,
+        "name": "Rustler"
     },
     {
         "id": 73028,
@@ -10818,6 +12242,10 @@
     {
         "id": 73074,
         "name": "Tiny Metal: Full Metal Rumble"
+    },
+    {
+        "id": 73075,
+        "name": "Terrorhythm"
     },
     {
         "id": 73092,
@@ -10916,6 +12344,10 @@
         "name": "Assassin's Creed: Rebel Collection"
     },
     {
+        "id": 73354,
+        "name": "Letters - a written adventure"
+    },
+    {
         "id": 73368,
         "name": "SnakeyBus"
     },
@@ -10934,6 +12366,10 @@
     {
         "id": 73437,
         "name": "Super Tennis Blast"
+    },
+    {
+        "id": 73464,
+        "name": "Make a Killing"
     },
     {
         "id": 73469,
@@ -10974,6 +12410,10 @@
     {
         "id": 73543,
         "name": "Peasant Knight"
+    },
+    {
+        "id": 73544,
+        "name": "Demon Hunter 5: Ascendance"
     },
     {
         "id": 73546,
@@ -11056,8 +12496,16 @@
         "name": "FIFA 20"
     },
     {
+        "id": 73657,
+        "name": "GoFishing3D The Real Fishing"
+    },
+    {
         "id": 73679,
         "name": "Jumanji: The Video Game"
+    },
+    {
+        "id": 73705,
+        "name": "Narita Boy"
     },
     {
         "id": 73720,
@@ -11104,12 +12552,24 @@
         "name": "Unreal Life"
     },
     {
+        "id": 73753,
+        "name": "Smelter"
+    },
+    {
+        "id": 73755,
+        "name": "Minoria"
+    },
+    {
         "id": 73757,
         "name": "Super Real Mahjong PV"
     },
     {
         "id": 73758,
         "name": "Super Real Mahjong P7"
+    },
+    {
+        "id": 73759,
+        "name": "Destroy All Humans!"
     },
     {
         "id": 73763,
@@ -11124,6 +12584,10 @@
         "name": "LEGO Star Wars: The Skywalker Saga"
     },
     {
+        "id": 73776,
+        "name": "Fall Guys: Ultimate Knockout"
+    },
+    {
         "id": 73777,
         "name": "Pure Mahjong"
     },
@@ -11134,6 +12598,10 @@
     {
         "id": 73781,
         "name": "Carrion"
+    },
+    {
+        "id": 73784,
+        "name": "Conan Chop Chop"
     },
     {
         "id": 73787,
@@ -11185,7 +12653,7 @@
     },
     {
         "id": 73815,
-        "name": "Baldo"
+        "name": "Baldo: The Guardian Owls"
     },
     {
         "id": 73817,
@@ -11212,6 +12680,10 @@
         "name": "Happy Words"
     },
     {
+        "id": 73836,
+        "name": "Read Only Memories: Neurodiver"
+    },
+    {
         "id": 73838,
         "name": "SpongeBob SquarePants: Battle for Bikini Bottom \u2013 Rehydrated"
     },
@@ -11230,6 +12702,10 @@
     {
         "id": 73855,
         "name": "BurgerTime Party!"
+    },
+    {
+        "id": 73856,
+        "name": "Akiba's Trip: Hellbound & Debriefed"
     },
     {
         "id": 73877,
@@ -11266,6 +12742,14 @@
     {
         "id": 73992,
         "name": "A Short Hike"
+    },
+    {
+        "id": 74000,
+        "name": "Doughlings: Invasion"
+    },
+    {
+        "id": 74050,
+        "name": "ScourgeBringer"
     },
     {
         "id": 74064,
@@ -11318,6 +12802,10 @@
     {
         "id": 74176,
         "name": "One Piece: Pirate Warriors 4"
+    },
+    {
+        "id": 74187,
+        "name": "Nurse Love Syndrome"
     },
     {
         "id": 74216,
@@ -11404,12 +12892,20 @@
         "name": "Bring Them Home"
     },
     {
+        "id": 74394,
+        "name": "Fort Boyard"
+    },
+    {
         "id": 74422,
         "name": "The Original Mobile Games"
     },
     {
         "id": 74431,
         "name": "Hoggy 2"
+    },
+    {
+        "id": 74434,
+        "name": "Merchant of the Skies"
     },
     {
         "id": 74436,
@@ -11442,6 +12938,10 @@
     {
         "id": 74501,
         "name": "Subdivision Infinity DX"
+    },
+    {
+        "id": 74505,
+        "name": "Iris and the Giant"
     },
     {
         "id": 74513,
@@ -11484,6 +12984,10 @@
         "name": "The Last Spell"
     },
     {
+        "id": 74614,
+        "name": "Apsulov: End of Gods"
+    },
+    {
         "id": 74624,
         "name": "PictoQuest"
     },
@@ -11502,6 +13006,10 @@
     {
         "id": 74640,
         "name": "A Sound Plan"
+    },
+    {
+        "id": 74642,
+        "name": "Minute of Islands"
     },
     {
         "id": 74643,
@@ -11526,6 +13034,10 @@
     {
         "id": 74653,
         "name": "Eastern Exorcist"
+    },
+    {
+        "id": 74678,
+        "name": "Smoots Summer Games"
     },
     {
         "id": 74680,
@@ -11565,11 +13077,15 @@
     },
     {
         "id": 74738,
-        "name": "Chicken Police"
+        "name": "Chicken Police - Paint it RED!"
     },
     {
         "id": 74746,
         "name": "Eliza"
+    },
+    {
+        "id": 74748,
+        "name": "Chicory: A Colorful Tale"
     },
     {
         "id": 74787,
@@ -11596,6 +13112,10 @@
         "name": "Some Distant Memory"
     },
     {
+        "id": 74828,
+        "name": "Sense: A Cyberpunk Ghost Story"
+    },
+    {
         "id": 74830,
         "name": "Georifters"
     },
@@ -11606,6 +13126,10 @@
     {
         "id": 74833,
         "name": "Cthulhu Saves Christmas"
+    },
+    {
+        "id": 74835,
+        "name": "Reverse Collapse: Code Name Bakery"
     },
     {
         "id": 74836,
@@ -11700,6 +13224,14 @@
         "name": "Brunch Club"
     },
     {
+        "id": 74999,
+        "name": "Super Buckyball Tournament"
+    },
+    {
+        "id": 75033,
+        "name": "Ellen"
+    },
+    {
         "id": 75034,
         "name": "Street Outlaws: The List"
     },
@@ -11708,8 +13240,16 @@
         "name": "Polyroll"
     },
     {
+        "id": 75041,
+        "name": "Dating Life: Miley X Emily"
+    },
+    {
         "id": 75047,
         "name": "Puzzle Quest: The Legend Returns"
+    },
+    {
+        "id": 75048,
+        "name": "Plants vs. Zombies: Battle for Neighborville"
     },
     {
         "id": 75049,
@@ -11792,6 +13332,10 @@
         "name": "R-Type Final 2"
     },
     {
+        "id": 75184,
+        "name": "Arietta of Spirits"
+    },
+    {
         "id": 75188,
         "name": "The Unicorn Princess"
     },
@@ -11802,6 +13346,14 @@
     {
         "id": 75201,
         "name": "Rebel Cops"
+    },
+    {
+        "id": 75244,
+        "name": "Where Cards Fall"
+    },
+    {
+        "id": 75245,
+        "name": "LEGO Brawls"
     },
     {
         "id": 75248,
@@ -11824,6 +13376,10 @@
         "name": "Shinsekai Into the Depths"
     },
     {
+        "id": 75265,
+        "name": "Later Alligator"
+    },
+    {
         "id": 75282,
         "name": "Cardfight!! Vanguard EX"
     },
@@ -11840,6 +13396,14 @@
         "name": "Dodo Peak"
     },
     {
+        "id": 75306,
+        "name": "Doomsday Vault"
+    },
+    {
+        "id": 75307,
+        "name": "Down in Bermuda"
+    },
+    {
         "id": 75310,
         "name": "Exit the Gungeon"
     },
@@ -11848,16 +13412,44 @@
         "name": "Grindstone"
     },
     {
+        "id": 75322,
+        "name": "Mini Motorways"
+    },
+    {
+        "id": 75324,
+        "name": "Murder Mystery Machine"
+    },
+    {
+        "id": 75334,
+        "name": "Skate City"
+    },
+    {
         "id": 75337,
         "name": "Spaceland"
+    },
+    {
+        "id": 75340,
+        "name": "Spidersaurs"
+    },
+    {
+        "id": 75341,
+        "name": "Steven Universe: Unleash the Light"
     },
     {
         "id": 75342,
         "name": "Stranded Sails: Explorers of the Cursed Islands"
     },
     {
+        "id": 75364,
+        "name": "Demoniaca: Everlasting Night"
+    },
+    {
         "id": 75372,
         "name": "Sword of the Necromancer"
+    },
+    {
+        "id": 75376,
+        "name": "Arise: A Simple Story"
     },
     {
         "id": 75418,
@@ -11884,6 +13476,10 @@
         "name": "Wanderlust Travel Stories"
     },
     {
+        "id": 75440,
+        "name": "Signs of the Sojourner"
+    },
+    {
         "id": 75467,
         "name": "My Hero One\u2019s Justice 2"
     },
@@ -11894,6 +13490,10 @@
     {
         "id": 75497,
         "name": "Gear.Club Unlimited 2: Porsche Edition"
+    },
+    {
+        "id": 75525,
+        "name": "Embr"
     },
     {
         "id": 75530,
@@ -11968,12 +13568,20 @@
         "name": "Doraemon Story of Seasons"
     },
     {
+        "id": 75696,
+        "name": "Galaxy Champions TV"
+    },
+    {
         "id": 75698,
         "name": "AO Tennis 2"
     },
     {
         "id": 75707,
         "name": "Super Monkey Ball: Banana Blitz HD"
+    },
+    {
+        "id": 75711,
+        "name": "Unpacking"
     },
     {
         "id": 75712,
@@ -11986,6 +13594,10 @@
     {
         "id": 75732,
         "name": "Planescape: Torment and Icewind Dale: Enhanced Editions"
+    },
+    {
+        "id": 75734,
+        "name": "Surviving the Aftermath"
     },
     {
         "id": 75737,
@@ -12056,10 +13668,6 @@
         "name": "Castle Costume"
     },
     {
-        "id": 75870,
-        "name": "Stay Cool, Kobayashi-San!: A River City Ransom Story"
-    },
-    {
         "id": 75872,
         "name": "Spider Solitaire F"
     },
@@ -12084,6 +13692,10 @@
         "name": "Distrant Collection"
     },
     {
+        "id": 75914,
+        "name": "Vampire: The Masquerade - Swansong"
+    },
+    {
         "id": 75925,
         "name": "Revenge of the Bird King"
     },
@@ -12094,6 +13706,10 @@
     {
         "id": 75939,
         "name": "Draw Chilly"
+    },
+    {
+        "id": 75944,
+        "name": "Curse of the Dead Gods"
     },
     {
         "id": 75948,
@@ -12114,6 +13730,10 @@
     {
         "id": 75990,
         "name": "Takeshi and Hiroshi"
+    },
+    {
+        "id": 76021,
+        "name": "Dezatopia"
     },
     {
         "id": 76033,
@@ -12172,6 +13792,14 @@
         "name": "Resolutiion"
     },
     {
+        "id": 76221,
+        "name": "Glyph"
+    },
+    {
+        "id": 76239,
+        "name": "One-Eyed Lee and the Dinner Party"
+    },
+    {
         "id": 76245,
         "name": "Skul: The Hero Slayer"
     },
@@ -12194,6 +13822,10 @@
     {
         "id": 76309,
         "name": "Monster Energy Supercross - The Official Videogame 3"
+    },
+    {
+        "id": 76316,
+        "name": "Black Book "
     },
     {
         "id": 76318,
@@ -12261,7 +13893,7 @@
     },
     {
         "id": 76412,
-        "name": "Hajimari no Kiseki"
+        "name": "The Legend of Heroes: Trails into Reverie"
     },
     {
         "id": 76413,
@@ -12274,6 +13906,10 @@
     {
         "id": 76428,
         "name": "Tower of Babel - no mercy"
+    },
+    {
+        "id": 76430,
+        "name": "Pulstario"
     },
     {
         "id": 76512,
@@ -12308,6 +13944,10 @@
         "name": "If Found..."
     },
     {
+        "id": 76630,
+        "name": "Infernax"
+    },
+    {
         "id": 76632,
         "name": "Gripper"
     },
@@ -12322,6 +13962,10 @@
     {
         "id": 76659,
         "name": "Volta-X"
+    },
+    {
+        "id": 76672,
+        "name": "Kill It With Fire"
     },
     {
         "id": 76684,
@@ -12380,6 +14024,10 @@
         "name": "Labyrinth of the Witch"
     },
     {
+        "id": 76788,
+        "name": "Tasomachi"
+    },
+    {
         "id": 76819,
         "name": "SEN: Seven Eight Nine"
     },
@@ -12428,12 +14076,24 @@
         "name": "King's Bounty II"
     },
     {
+        "id": 76935,
+        "name": "Turnip Boy Commits Tax Evasion"
+    },
+    {
         "id": 76937,
         "name": "Aeolis Tournament"
     },
     {
         "id": 76944,
         "name": "Rabbids: Adventure Party"
+    },
+    {
+        "id": 76952,
+        "name": "Kwaidan \uff5eAzuma manor story\uff5e"
+    },
+    {
+        "id": 76957,
+        "name": "Monster Train"
     },
     {
         "id": 76960,
@@ -12480,6 +14140,10 @@
         "name": "Super Real Mahjong Love 2~7!"
     },
     {
+        "id": 77021,
+        "name": "Swords and Sandals Spartacus"
+    },
+    {
         "id": 77043,
         "name": "Yuoni: Rises"
     },
@@ -12494,6 +14158,10 @@
     {
         "id": 77076,
         "name": "Little Racer"
+    },
+    {
+        "id": 77083,
+        "name": "The Dead Tree of Ranchiuna"
     },
     {
         "id": 77129,
@@ -12526,6 +14194,10 @@
     {
         "id": 77201,
         "name": "Paradise Killer"
+    },
+    {
+        "id": 77202,
+        "name": "Terra Lander II - Rockslide Rescue"
     },
     {
         "id": 77233,
@@ -12578,6 +14250,10 @@
     {
         "id": 77337,
         "name": "Klang 2"
+    },
+    {
+        "id": 77342,
+        "name": "The Wild at Heart"
     },
     {
         "id": 77358,
@@ -12640,6 +14316,14 @@
         "name": "Monster Truck Championship"
     },
     {
+        "id": 77465,
+        "name": "Hazel Sky"
+    },
+    {
+        "id": 77466,
+        "name": "Record of Lodoss War-Deedlit in Wonder Labyrinth-"
+    },
+    {
         "id": 77468,
         "name": "Brigandine: The Legend of Runersia "
     },
@@ -12652,8 +14336,16 @@
         "name": "Darius Cozmic Revelation"
     },
     {
+        "id": 77490,
+        "name": "Dandy Ace"
+    },
+    {
         "id": 77499,
         "name": "A Space For The Unbound"
+    },
+    {
+        "id": 77511,
+        "name": "The Longing"
     },
     {
         "id": 77514,
@@ -12670,6 +14362,10 @@
     {
         "id": 77569,
         "name": "Chapeau"
+    },
+    {
+        "id": 77572,
+        "name": "Deponia Collection"
     },
     {
         "id": 77575,
@@ -12692,6 +14388,10 @@
         "name": "Spirit Hunter: Shibito Magire"
     },
     {
+        "id": 77606,
+        "name": "Speed Limit"
+    },
+    {
         "id": 77609,
         "name": "Super Mega Baseball 3"
     },
@@ -12708,6 +14408,10 @@
         "name": "Kemono Heroes"
     },
     {
+        "id": 77635,
+        "name": "Hundred Days - Winemaking Simulator"
+    },
+    {
         "id": 77636,
         "name": "I Am Dead"
     },
@@ -12720,6 +14424,10 @@
         "name": "Mighty Fight Federation"
     },
     {
+        "id": 77652,
+        "name": "Sea of Stars"
+    },
+    {
         "id": 77663,
         "name": "Infini"
     },
@@ -12728,16 +14436,32 @@
         "name": "EQQO"
     },
     {
+        "id": 77666,
+        "name": "Eldest Souls"
+    },
+    {
         "id": 77667,
         "name": "WRC 9 FIA World Rally Championship"
+    },
+    {
+        "id": 77675,
+        "name": "Curious Expedition 2"
     },
     {
         "id": 77676,
         "name": "Guns, Gore & Cannoli/Guns, Gore & Cannoli 2"
     },
     {
+        "id": 77688,
+        "name": "Tri6: Infinite"
+    },
+    {
         "id": 77714,
         "name": "Welcome to Primrose Lake"
+    },
+    {
+        "id": 77723,
+        "name": "Unbound: Worlds Apart"
     },
     {
         "id": 77733,
@@ -12788,6 +14512,10 @@
         "name": "Airhead"
     },
     {
+        "id": 77801,
+        "name": "Demon Slayer: The Hinokami Chronicles"
+    },
+    {
         "id": 77839,
         "name": "House of Golf"
     },
@@ -12820,6 +14548,10 @@
         "name": "Cooking Mama: Cookstar"
     },
     {
+        "id": 77910,
+        "name": "The Procession to Calvary"
+    },
+    {
         "id": 77911,
         "name": "Ponpu"
     },
@@ -12834,6 +14566,10 @@
     {
         "id": 77941,
         "name": "Galaxy Warfighter"
+    },
+    {
+        "id": 77955,
+        "name": "Null Drifter"
     },
     {
         "id": 77963,
@@ -12852,6 +14588,10 @@
         "name": "Moto Rush GT"
     },
     {
+        "id": 78008,
+        "name": "Cloudscape"
+    },
+    {
         "id": 78036,
         "name": "Robotics;Notes Elite & Dash Double Pack"
     },
@@ -12862,6 +14602,10 @@
     {
         "id": 78053,
         "name": "Cannibal Cuisine"
+    },
+    {
+        "id": 78059,
+        "name": "Active Neurons - Puzzle Game"
     },
     {
         "id": 78064,
@@ -12892,12 +14636,24 @@
         "name": "VSR: Void Space Racing"
     },
     {
+        "id": 78239,
+        "name": "Willy Morgan and the Curse of Bone Town"
+    },
+    {
         "id": 78249,
         "name": "Pong Quest"
     },
     {
+        "id": 78256,
+        "name": "Akurra"
+    },
+    {
         "id": 78301,
         "name": "PGA Tour 2K21"
+    },
+    {
+        "id": 78303,
+        "name": "Weaving Tides"
     },
     {
         "id": 78313,
@@ -12920,12 +14676,24 @@
         "name": "Red Wings: Aces of the Sky"
     },
     {
+        "id": 78413,
+        "name": "Cassette Beasts"
+    },
+    {
         "id": 78417,
         "name": "G-Mode Archives 01:  Flyhight Cloudia"
     },
     {
         "id": 78418,
         "name": "G-Mode Archives 02: Ai to R\u014dd\u014d no Hibi"
+    },
+    {
+        "id": 78420,
+        "name": "Tony Hawk's Pro Skater 1+2"
+    },
+    {
+        "id": 78422,
+        "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos"
     },
     {
         "id": 78442,
@@ -12938,6 +14706,10 @@
     {
         "id": 78450,
         "name": "Cyanide & Happiness: Freakpocalypse"
+    },
+    {
+        "id": 78451,
+        "name": "Waifu Uncovered"
     },
     {
         "id": 78456,
@@ -12960,6 +14732,14 @@
         "name": "Tohu"
     },
     {
+        "id": 78505,
+        "name": "Dark Nights with Poe and Munro"
+    },
+    {
+        "id": 78522,
+        "name": "UnMetal"
+    },
+    {
         "id": 78524,
         "name": "Concept Destruction"
     },
@@ -12974,6 +14754,10 @@
     {
         "id": 78537,
         "name": "Island Saver"
+    },
+    {
+        "id": 78541,
+        "name": "Umurangi Generation"
     },
     {
         "id": 78547,
@@ -13012,8 +14796,28 @@
         "name": "Warborn"
     },
     {
+        "id": 78697,
+        "name": "Inkulinati"
+    },
+    {
+        "id": 78715,
+        "name": "The House of Da Vinci 2"
+    },
+    {
+        "id": 78803,
+        "name": "Oddventure"
+    },
+    {
         "id": 78822,
         "name": "Re:Zero -Starting Life in Another World- The Prophecy of the Throne"
+    },
+    {
+        "id": 78868,
+        "name": "Sumire"
+    },
+    {
+        "id": 78874,
+        "name": "Steel Assault"
     },
     {
         "id": 78883,
@@ -13048,6 +14852,10 @@
         "name": "NBA 2K21"
     },
     {
+        "id": 78965,
+        "name": "Bugsnax"
+    },
+    {
         "id": 78971,
         "name": "Namco Museum Archives Volume 1"
     },
@@ -13064,6 +14872,10 @@
         "name": "Milky Way Prince \u2013 The Vampire Star"
     },
     {
+        "id": 79000,
+        "name": "Drink More Glurp"
+    },
+    {
         "id": 79004,
         "name": "Gestalt: Steam & Cinder"
     },
@@ -13076,8 +14888,20 @@
         "name": "Rigid Force Redux"
     },
     {
+        "id": 79011,
+        "name": "In Sound Mind"
+    },
+    {
+        "id": 79013,
+        "name": "NUTS"
+    },
+    {
         "id": 79016,
         "name": "Carto"
+    },
+    {
+        "id": 79018,
+        "name": "Trash Sailors"
     },
     {
         "id": 79024,
@@ -13092,8 +14916,16 @@
         "name": "Goosebumps: Dead of Night"
     },
     {
+        "id": 79039,
+        "name": "Flynn: Son of Crimson"
+    },
+    {
         "id": 79059,
         "name": "WWE 2K Battlegrounds"
+    },
+    {
+        "id": 79068,
+        "name": "The Last Faith"
     },
     {
         "id": 79083,
@@ -13112,8 +14944,32 @@
         "name": "Pok\u00e9mon Caf\u00e9 Mix"
     },
     {
+        "id": 79148,
+        "name": "Lost in Random"
+    },
+    {
         "id": 79149,
         "name": "FIFA 21"
+    },
+    {
+        "id": 79151,
+        "name": "Trifox"
+    },
+    {
+        "id": 79157,
+        "name": "Crash Bandicoot 4: It's About Time"
+    },
+    {
+        "id": 79183,
+        "name": "Fatum Betula"
+    },
+    {
+        "id": 79194,
+        "name": "Bokuhime Project"
+    },
+    {
+        "id": 79217,
+        "name": "Alwa's Legacy"
     },
     {
         "id": 79220,
@@ -13140,12 +14996,24 @@
         "name": "Ageless"
     },
     {
+        "id": 79243,
+        "name": "Rogue Heroes: Ruins of Tasos"
+    },
+    {
         "id": 79250,
         "name": "Pok\u00e9mon Unite"
     },
     {
         "id": 79251,
         "name": "Piofiore: Fated Memories"
+    },
+    {
+        "id": 79258,
+        "name": "Death Crown"
+    },
+    {
+        "id": 79314,
+        "name": "Darius Burst: Another Chronicle EX"
     },
     {
         "id": 79320,
@@ -13185,7 +15053,7 @@
     },
     {
         "id": 79355,
-        "name": "Picross S: Mega Drive & Mark III Edition"
+        "name": "Picross S: Genesis & Master System Edition"
     },
     {
         "id": 79360,
@@ -13204,8 +15072,16 @@
         "name": "Rainbows, Toilets & Unicorns"
     },
     {
+        "id": 79436,
+        "name": "Curved Space"
+    },
+    {
         "id": 79439,
         "name": "Medarot Classics +"
+    },
+    {
+        "id": 79445,
+        "name": "Townscaper"
     },
     {
         "id": 79469,
@@ -13232,8 +15108,24 @@
         "name": "Mad Rat Dead"
     },
     {
+        "id": 79492,
+        "name": "Worms Rumble"
+    },
+    {
+        "id": 79502,
+        "name": "BulletVille"
+    },
+    {
+        "id": 79517,
+        "name": "Secrets of Me"
+    },
+    {
         "id": 79564,
         "name": "Kono Subarashii Sekai ni Shukufuku o! - Kono Yokub\u014d no Ish\u014d ni Ch\u014dai o!"
+    },
+    {
+        "id": 79609,
+        "name": "Test Drive Unlimited Solar Crown"
     },
     {
         "id": 79621,
@@ -13264,8 +15156,16 @@
         "name": "PAW Patrol Mighty Pups: Save Adventure Bay!"
     },
     {
+        "id": 79812,
+        "name": "Overcooked! All You Can Eat"
+    },
+    {
         "id": 79838,
         "name": "Dustoff Z"
+    },
+    {
+        "id": 79849,
+        "name": "Bomb Rush Cyberfunk"
     },
     {
         "id": 79856,
@@ -13300,6 +15200,10 @@
         "name": "Maddening Euphoria"
     },
     {
+        "id": 79929,
+        "name": "Harvest Green"
+    },
+    {
         "id": 79965,
         "name": "Enchanting Mahjong Match"
     },
@@ -13320,12 +15224,20 @@
         "name": "The Coma: Double Cut"
     },
     {
+        "id": 80068,
+        "name": "112th Seed"
+    },
+    {
         "id": 80079,
         "name": "Skully"
     },
     {
         "id": 80087,
         "name": "Inertial Drift"
+    },
+    {
+        "id": 80091,
+        "name": "There Is No Game: Wrong Dimension"
     },
     {
         "id": 80101,
@@ -13344,8 +15256,16 @@
         "name": "Nexomon: Extinction"
     },
     {
+        "id": 80154,
+        "name": "Street Power Football"
+    },
+    {
         "id": 80162,
         "name": "G.I. Joe: Operation Blackout"
+    },
+    {
+        "id": 80170,
+        "name": "Return to Shironagasu Island"
     },
     {
         "id": 80171,
@@ -13362,6 +15282,10 @@
     {
         "id": 80190,
         "name": "Leisure Suit Larry - Wet Dreams Dry Twice"
+    },
+    {
+        "id": 80192,
+        "name": "Ever Forward"
     },
     {
         "id": 80193,
@@ -13436,12 +15360,20 @@
         "name": "Derby Stallion"
     },
     {
+        "id": 80361,
+        "name": "Sheepo"
+    },
+    {
         "id": 80365,
         "name": "Endless Memories"
     },
     {
+        "id": 80371,
+        "name": "Bridge Constructor: The Walking Dead"
+    },
+    {
         "id": 80372,
-        "name": "Warhammer: Age of Sigmar - Stormground"
+        "name": "Warhammer Age of Sigmar: Storm Ground"
     },
     {
         "id": 80373,
@@ -13454,6 +15386,10 @@
     {
         "id": 80375,
         "name": "Turrican Anthology Vol. 2"
+    },
+    {
+        "id": 80376,
+        "name": "Aeon Drive"
     },
     {
         "id": 80377,
@@ -13492,6 +15428,10 @@
         "name": "Mario Kart Live: Home Circuit"
     },
     {
+        "id": 80494,
+        "name": "Ashwalkers: A Survival Journey"
+    },
+    {
         "id": 80496,
         "name": "Naser: Son of Man"
     },
@@ -13524,8 +15464,16 @@
         "name": "Woodsalt"
     },
     {
+        "id": 80568,
+        "name": "Blind Fate: Edo no Yami"
+    },
+    {
         "id": 80582,
         "name": "Unspottable"
+    },
+    {
+        "id": 80586,
+        "name": "Black Legend"
     },
     {
         "id": 80588,
@@ -13536,8 +15484,16 @@
         "name": "Doodle Derby"
     },
     {
+        "id": 80609,
+        "name": "Creepy Tale"
+    },
+    {
         "id": 80619,
         "name": "GRAVEN"
+    },
+    {
+        "id": 80626,
+        "name": "Moo Lander"
     },
     {
         "id": 80644,
@@ -13560,6 +15516,10 @@
         "name": "BIG-Bobby-Car - The Big Race"
     },
     {
+        "id": 80686,
+        "name": "The Long Gate"
+    },
+    {
         "id": 80719,
         "name": "Mighty Goose"
     },
@@ -13576,8 +15536,16 @@
         "name": "G-Mode Archives 19: Magical Drop DX"
     },
     {
+        "id": 80740,
+        "name": "art of rally"
+    },
+    {
         "id": 80745,
         "name": "Aleste Collection"
+    },
+    {
+        "id": 80748,
+        "name": "Poison Control"
     },
     {
         "id": 80749,
@@ -13596,12 +15564,20 @@
         "name": "Flying Soldiers"
     },
     {
+        "id": 80754,
+        "name": "Ocean's Heart"
+    },
+    {
         "id": 80755,
         "name": "Journey of the Broken Circle"
     },
     {
         "id": 80762,
         "name": "Cat Quest + Cat Quest II: Pawsome Pack"
+    },
+    {
+        "id": 80763,
+        "name": "Football Manager 2021"
     },
     {
         "id": 80766,
@@ -13636,6 +15612,10 @@
         "name": "Dynasty Warriors 9 Empires"
     },
     {
+        "id": 80790,
+        "name": "Titan Chaser"
+    },
+    {
         "id": 80797,
         "name": "Alpaca Ball: Allstars"
     },
@@ -13664,8 +15644,16 @@
         "name": "Tony and Clyde"
     },
     {
+        "id": 80899,
+        "name": "Flipon"
+    },
+    {
         "id": 80900,
         "name": "Street Racer Underground "
+    },
+    {
+        "id": 80919,
+        "name": "Sakura Succubus 2"
     },
     {
         "id": 80948,
@@ -13676,12 +15664,24 @@
         "name": "The Jackbox Party Pack 7"
     },
     {
+        "id": 80969,
+        "name": "Ziggurat 2"
+    },
+    {
+        "id": 80977,
+        "name": "Webbed"
+    },
+    {
         "id": 80994,
         "name": "CrossKrush"
     },
     {
         "id": 81016,
         "name": "My Time at Sandrock"
+    },
+    {
+        "id": 81027,
+        "name": "The Friends of Ringo Ishikawa / Arrest of a Stone Buddha"
     },
     {
         "id": 81048,
@@ -13740,6 +15740,14 @@
         "name": "Picross S5"
     },
     {
+        "id": 81223,
+        "name": "Please, Touch The Artwork"
+    },
+    {
+        "id": 81228,
+        "name": "Last Stop"
+    },
+    {
         "id": 81255,
         "name": "Neo: The World Ends with You"
     },
@@ -13750,6 +15758,22 @@
     {
         "id": 81283,
         "name": "Winning Post 9 2021"
+    },
+    {
+        "id": 81288,
+        "name": "My Aunt Is A Witch"
+    },
+    {
+        "id": 81292,
+        "name": "The Gardener and the Wild Vines"
+    },
+    {
+        "id": 81311,
+        "name": "South of the Circle"
+    },
+    {
+        "id": 81312,
+        "name": "Alba: a Wildlife Adventure"
     },
     {
         "id": 81367,
@@ -13776,8 +15800,12 @@
         "name": "Chrono Sword"
     },
     {
-        "id": 81393,
-        "name": "Tunche"
+        "id": 81392,
+        "name": "Very Very Valet"
+    },
+    {
+        "id": 81395,
+        "name": "Happy Game"
     },
     {
         "id": 81419,
@@ -13800,7 +15828,1955 @@
         "name": "Piczle Cross Adventure"
     },
     {
+        "id": 81472,
+        "name": "Paprium"
+    },
+    {
         "id": 81477,
         "name": "Nekopara Vol. 4"
+    },
+    {
+        "id": 81478,
+        "name": "Fight of Animals: Arena"
+    },
+    {
+        "id": 81501,
+        "name": "Ghostpia"
+    },
+    {
+        "id": 81502,
+        "name": "Cozy Grove"
+    },
+    {
+        "id": 81533,
+        "name": "Kingdom Majestic"
+    },
+    {
+        "id": 81534,
+        "name": "Foreclosed"
+    },
+    {
+        "id": 81536,
+        "name": "Fight!"
+    },
+    {
+        "id": 81555,
+        "name": "Five Nights At Freddy's: Core Collection"
+    },
+    {
+        "id": 81560,
+        "name": "Petal Crash"
+    },
+    {
+        "id": 81561,
+        "name": "Raging Blasters"
+    },
+    {
+        "id": 81576,
+        "name": "Wrestling Empire"
+    },
+    {
+        "id": 81591,
+        "name": "Shisen-Sho NIKAKUdori"
+    },
+    {
+        "id": 81608,
+        "name": "Teratopia"
+    },
+    {
+        "id": 81609,
+        "name": "Densha de Go!! Hashir\u014d Yamanote-sen"
+    },
+    {
+        "id": 81647,
+        "name": "Retro Classix Collection #1: Data East"
+    },
+    {
+        "id": 81652,
+        "name": "Nitro Ball"
+    },
+    {
+        "id": 81654,
+        "name": "Gods Will Fall"
+    },
+    {
+        "id": 81663,
+        "name": "Batora: Lost Haven"
+    },
+    {
+        "id": 81669,
+        "name": "Spirit: Lucky's Big Adventure"
+    },
+    {
+        "id": 81694,
+        "name": "Ninja Kazan"
+    },
+    {
+        "id": 81714,
+        "name": "Everhood"
+    },
+    {
+        "id": 81719,
+        "name": "Red Ronin"
+    },
+    {
+        "id": 81735,
+        "name": "Tantei Bokumetsu"
+    },
+    {
+        "id": 81738,
+        "name": "Loop Hero"
+    },
+    {
+        "id": 81744,
+        "name": "Super Monkey Ball: Banana Blitz HD + Sonic Forces Double Pack"
+    },
+    {
+        "id": 81762,
+        "name": "Mundaun"
+    },
+    {
+        "id": 81775,
+        "name": "Lords of Exile"
+    },
+    {
+        "id": 81790,
+        "name": "Void Gore"
+    },
+    {
+        "id": 81810,
+        "name": "Urban Fighter On Line"
+    },
+    {
+        "id": 81826,
+        "name": "Famicom Detective Club: The Missing Heir"
+    },
+    {
+        "id": 81827,
+        "name": "Famicom Detective Club: The Girl Who Stands Behind"
+    },
+    {
+        "id": 81828,
+        "name": "Samurai Warriors 5"
+    },
+    {
+        "id": 81829,
+        "name": "Mario Golf: Super Rush"
+    },
+    {
+        "id": 81830,
+        "name": "Neon White"
+    },
+    {
+        "id": 81831,
+        "name": "DC Super Hero Girls: Teen Power"
+    },
+    {
+        "id": 81832,
+        "name": "Triangle Strategy"
+    },
+    {
+        "id": 81833,
+        "name": "Star Wars Hunters"
+    },
+    {
+        "id": 81834,
+        "name": "Knockout City"
+    },
+    {
+        "id": 81835,
+        "name": "Ninja Gaiden: Master Collection"
+    },
+    {
+        "id": 81836,
+        "name": "Splatoon 3"
+    },
+    {
+        "id": 81843,
+        "name": "DMLC\uff01"
+    },
+    {
+        "id": 81850,
+        "name": "Blizzard Arcade Collection"
+    },
+    {
+        "id": 81854,
+        "name": "Diablo II: Resurrected"
+    },
+    {
+        "id": 81855,
+        "name": "Japanese Mah-jongg"
+    },
+    {
+        "id": 81858,
+        "name": "Simple Mahjong Online"
+    },
+    {
+        "id": 81862,
+        "name": "Ginsei Mahjong: Honkaku AI Tousai"
+    },
+    {
+        "id": 81872,
+        "name": "Saikyou no Mahjong: 100-nin no Tame no Mahjong Dojo"
+    },
+    {
+        "id": 81873,
+        "name": "Logic Mahjong Souryuu: 4-nin Uchi, 3-nin Uchi"
+    },
+    {
+        "id": 81877,
+        "name": "Crayon Shin-chan: Ora to Hakase no Natsuyasumi \u2013 Owaranai Nanokakan no Tabi "
+    },
+    {
+        "id": 81891,
+        "name": "Gensou Rougoku no Kaleidoscope"
+    },
+    {
+        "id": 81904,
+        "name": "Save me Mr Tako: Definitive Edition"
+    },
+    {
+        "id": 81915,
+        "name": "Pok\u00e9mon Legends: Arceus"
+    },
+    {
+        "id": 81916,
+        "name": "Pok\u00e9mon Brilliant Diamond/Shining Pearl"
+    },
+    {
+        "id": 81923,
+        "name": "The Caligula Effect 2"
+    },
+    {
+        "id": 81925,
+        "name": "Hot Wheels Unleashed"
+    },
+    {
+        "id": 81932,
+        "name": "Sunblaze"
+    },
+    {
+        "id": 81933,
+        "name": "Taxi Chaos"
+    },
+    {
+        "id": 81944,
+        "name": "Stonefly"
+    },
+    {
+        "id": 81961,
+        "name": "RetroMania Wrestling"
+    },
+    {
+        "id": 81962,
+        "name": "KeyWe"
+    },
+    {
+        "id": 81968,
+        "name": "The Silver Case 2425"
+    },
+    {
+        "id": 81969,
+        "name": "Prinny Presents NIS Classics Volume 1"
+    },
+    {
+        "id": 81981,
+        "name": "Witchery Academy"
+    },
+    {
+        "id": 81989,
+        "name": "Professor Rubik's Brain Fitness"
+    },
+    {
+        "id": 82008,
+        "name": "Teenage Mutant Ninja Turtles: Shredder\u2019s Revenge"
+    },
+    {
+        "id": 82015,
+        "name": "Micetopia "
+    },
+    {
+        "id": 82037,
+        "name": "Rain on Your Parade"
+    },
+    {
+        "id": 82039,
+        "name": "Severed Steel"
+    },
+    {
+        "id": 82055,
+        "name": "NeoGeo Pocket Color Selection Vol.1"
+    },
+    {
+        "id": 82085,
+        "name": "Life is Strange: True Colors"
+    },
+    {
+        "id": 82108,
+        "name": "Boulder Dash Deluxe"
+    },
+    {
+        "id": 82112,
+        "name": "Hatsune Miku Logic Paint S"
+    },
+    {
+        "id": 82129,
+        "name": "Battle of Mahjong"
+    },
+    {
+        "id": 82132,
+        "name": "Asterix & Obelix: Slap them All!"
+    },
+    {
+        "id": 82138,
+        "name": "Bustafellows"
+    },
+    {
+        "id": 82142,
+        "name": "Hoa"
+    },
+    {
+        "id": 82147,
+        "name": "G-Mode Archives 33: Tetris Diamond"
+    },
+    {
+        "id": 82148,
+        "name": "Astria Ascending"
+    },
+    {
+        "id": 82149,
+        "name": "Nobody Saves the World"
+    },
+    {
+        "id": 82152,
+        "name": "Life of Delta"
+    },
+    {
+        "id": 82153,
+        "name": "Death's Door"
+    },
+    {
+        "id": 82155,
+        "name": "Akatori"
+    },
+    {
+        "id": 82159,
+        "name": "Melty Blood: Type Lumina"
+    },
+    {
+        "id": 82164,
+        "name": "Andro Dunos II"
+    },
+    {
+        "id": 82167,
+        "name": "Squad Killer"
+    },
+    {
+        "id": 82169,
+        "name": "Zorro: The Chronicles"
+    },
+    {
+        "id": 82176,
+        "name": "Tiny Lands"
+    },
+    {
+        "id": 82196,
+        "name": "Sol Cresta"
+    },
+    {
+        "id": 82199,
+        "name": "Aloof"
+    },
+    {
+        "id": 82273,
+        "name": "Oddworld: Collection"
+    },
+    {
+        "id": 82277,
+        "name": "Pac-Man 99"
+    },
+    {
+        "id": 82283,
+        "name": "Beast Breaker"
+    },
+    {
+        "id": 82310,
+        "name": "Arkham Horror: Mother's Embrace"
+    },
+    {
+        "id": 82318,
+        "name": "What the Dub?!"
+    },
+    {
+        "id": 82323,
+        "name": "The Darkside Detective: A Fumble in the Dark"
+    },
+    {
+        "id": 82324,
+        "name": "Picross S6"
+    },
+    {
+        "id": 82325,
+        "name": "Road 96"
+    },
+    {
+        "id": 82326,
+        "name": "Aerial_Knight's Never Yield"
+    },
+    {
+        "id": 82327,
+        "name": "OlliOlli World"
+    },
+    {
+        "id": 82328,
+        "name": "GetsuFumaDen: Undying Moon"
+    },
+    {
+        "id": 82329,
+        "name": "Oxenfree II: Lost Signals"
+    },
+    {
+        "id": 82330,
+        "name": "The House of the Dead: Remake"
+    },
+    {
+        "id": 82331,
+        "name": "Beasts of Maravilla Island"
+    },
+    {
+        "id": 82332,
+        "name": "Labyrinth City: Pierre the Maze Detective"
+    },
+    {
+        "id": 82333,
+        "name": "Aztech: Forgotten Gods"
+    },
+    {
+        "id": 82346,
+        "name": "Say No! More"
+    },
+    {
+        "id": 82367,
+        "name": "Exophobia"
+    },
+    {
+        "id": 82369,
+        "name": "WRC 10 FIA World Rally Championship "
+    },
+    {
+        "id": 82372,
+        "name": "Toree 3D"
+    },
+    {
+        "id": 82376,
+        "name": "Arcade Paradise"
+    },
+    {
+        "id": 82383,
+        "name": "The Great Ace Attorney Chronicles"
+    },
+    {
+        "id": 82402,
+        "name": "Space Commander: War and Trade"
+    },
+    {
+        "id": 82406,
+        "name": "Clannad Side Stories "
+    },
+    {
+        "id": 82422,
+        "name": "G-Mode Archives+: Dodonpachi Dai-ou-jou DX"
+    },
+    {
+        "id": 82423,
+        "name": "Cotton/Guardian Force Saturn Tribute"
+    },
+    {
+        "id": 82424,
+        "name": "G-Mode Archives+: City Connection Rocket"
+    },
+    {
+        "id": 82429,
+        "name": "Battle Axe"
+    },
+    {
+        "id": 82448,
+        "name": "Mystic Fate"
+    },
+    {
+        "id": 82460,
+        "name": "Treasures of the Aegean"
+    },
+    {
+        "id": 82461,
+        "name": "Gearshifters"
+    },
+    {
+        "id": 82464,
+        "name": "Sun Haven"
+    },
+    {
+        "id": 82465,
+        "name": "Lost Ruins"
+    },
+    {
+        "id": 82477,
+        "name": "Orbis Fugae"
+    },
+    {
+        "id": 82492,
+        "name": "Game Builder Garage"
+    },
+    {
+        "id": 82497,
+        "name": "Dull Grey"
+    },
+    {
+        "id": 82500,
+        "name": "Made in Abyss: Yami o Mezashita Rensei"
+    },
+    {
+        "id": 82502,
+        "name": "Pigeon Dev Games Collection"
+    },
+    {
+        "id": 82527,
+        "name": "Hindsight"
+    },
+    {
+        "id": 82534,
+        "name": "Hotel Transylvania: Scary-Tale Adventures"
+    },
+    {
+        "id": 82543,
+        "name": "Zombies Ate My Neighbors/Ghoul Patrol"
+    },
+    {
+        "id": 82546,
+        "name": "Laid-Back Camp - Virtual - Lake Motosu"
+    },
+    {
+        "id": 82547,
+        "name": "Laid-Back Camp - Virtual - Fumoto Campsite"
+    },
+    {
+        "id": 82548,
+        "name": "Trigger Witch"
+    },
+    {
+        "id": 82563,
+        "name": "Calculator"
+    },
+    {
+        "id": 82569,
+        "name": "Dice Legacy"
+    },
+    {
+        "id": 82570,
+        "name": "0 Degrees"
+    },
+    {
+        "id": 82608,
+        "name": "Blaster Master Zero 3 "
+    },
+    {
+        "id": 82609,
+        "name": "Reina & Jericho "
+    },
+    {
+        "id": 82610,
+        "name": "Aluna: Sentinel of the Shards"
+    },
+    {
+        "id": 82674,
+        "name": "The Magnificent Trufflepigs"
+    },
+    {
+        "id": 82678,
+        "name": "Marsupilami: Hoobadventure"
+    },
+    {
+        "id": 82689,
+        "name": "Dragon Quest X Offline"
+    },
+    {
+        "id": 82693,
+        "name": "Sonic 2022 (Working Title)"
+    },
+    {
+        "id": 82699,
+        "name": "Chroma Quaternion"
+    },
+    {
+        "id": 82739,
+        "name": "Stray Cat Doors 2"
+    },
+    {
+        "id": 82754,
+        "name": "Crossbow Crusade"
+    },
+    {
+        "id": 82757,
+        "name": "Two Point Campus"
+    },
+    {
+        "id": 82758,
+        "name": "Aeterna Noctis"
+    },
+    {
+        "id": 82771,
+        "name": "Crysis Remastered Trilogy"
+    },
+    {
+        "id": 82791,
+        "name": "Earth Defense Force: World Brothers"
+    },
+    {
+        "id": 82807,
+        "name": "Overboard!"
+    },
+    {
+        "id": 82825,
+        "name": "Hacha Mecha Fighter"
+    },
+    {
+        "id": 82845,
+        "name": "Silver Falls: Episode Prelude"
+    },
+    {
+        "id": 82858,
+        "name": "Endling"
+    },
+    {
+        "id": 82864,
+        "name": "Blaster Master Zero Trilogy: MetaFight Chronicle"
+    },
+    {
+        "id": 82865,
+        "name": "Ultra Age"
+    },
+    {
+        "id": 82874,
+        "name": "Loopmancer"
+    },
+    {
+        "id": 82916,
+        "name": "Golf Club: Wasteland"
+    },
+    {
+        "id": 82928,
+        "name": "Pirate Pete"
+    },
+    {
+        "id": 82929,
+        "name": "MONARK"
+    },
+    {
+        "id": 82931,
+        "name": "Metal Slug Tactics"
+    },
+    {
+        "id": 82938,
+        "name": "Life is Strange Remastered Collection"
+    },
+    {
+        "id": 82946,
+        "name": "Lumberhill"
+    },
+    {
+        "id": 82950,
+        "name": "Mario + Rabbids: Sparks of Hope"
+    },
+    {
+        "id": 82951,
+        "name": "Firegirl"
+    },
+    {
+        "id": 82953,
+        "name": "Archvale"
+    },
+    {
+        "id": 82962,
+        "name": "Just Dance 2022"
+    },
+    {
+        "id": 82964,
+        "name": "Wizard with a Gun"
+    },
+    {
+        "id": 82969,
+        "name": "Demon Throttle"
+    },
+    {
+        "id": 82971,
+        "name": "BATS: Bloodsucker Anti-Terror Squad"
+    },
+    {
+        "id": 82977,
+        "name": "Kitsune Tails"
+    },
+    {
+        "id": 82981,
+        "name": "A Plague Tale: Requiem"
+    },
+    {
+        "id": 82990,
+        "name": "Marvel's Guardians of the Galaxy"
+    },
+    {
+        "id": 82995,
+        "name": "Far: Changing Tides"
+    },
+    {
+        "id": 83007,
+        "name": "Taito Milestones"
+    },
+    {
+        "id": 83008,
+        "name": "A Musical Story"
+    },
+    {
+        "id": 83013,
+        "name": "Toem"
+    },
+    {
+        "id": 83016,
+        "name": "Dodgeball Academia"
+    },
+    {
+        "id": 83020,
+        "name": "Next Space Rebels"
+    },
+    {
+        "id": 83033,
+        "name": "River City Girls 2"
+    },
+    {
+        "id": 83052,
+        "name": "Conway: Disappearance at Dahlia View"
+    },
+    {
+        "id": 83053,
+        "name": "Shadowverse: Champion's Battle"
+    },
+    {
+        "id": 83054,
+        "name": "Mario Party Superstars"
+    },
+    {
+        "id": 83056,
+        "name": "Super Monkey Ball: Banana Mania"
+    },
+    {
+        "id": 83057,
+        "name": "Metroid Dread"
+    },
+    {
+        "id": 83058,
+        "name": "WarioWare: Get It Together!"
+    },
+    {
+        "id": 83060,
+        "name": "Danganronpa: Decadence"
+    },
+    {
+        "id": 83061,
+        "name": "Danganronpa S: Ultimate Summer Camp"
+    },
+    {
+        "id": 83062,
+        "name": "Advance Wars 1+2: Re-Boot Camp"
+    },
+    {
+        "id": 83063,
+        "name": "Power Pro-Kun Pocket R"
+    },
+    {
+        "id": 83064,
+        "name": "eBaseball Pro Yaky\u016b Spirits 2021: Grand Slam"
+    },
+    {
+        "id": 83065,
+        "name": "Instinction"
+    },
+    {
+        "id": 83066,
+        "name": "Grow: Song of the Evertree"
+    },
+    {
+        "id": 83069,
+        "name": "Super Robot Wars 30"
+    },
+    {
+        "id": 83074,
+        "name": "Barrage Fantasia"
+    },
+    {
+        "id": 83084,
+        "name": "Last Kids on Earth and the Staff of Doom"
+    },
+    {
+        "id": 83086,
+        "name": "Deathtrap Dungeon: The Golden Room"
+    },
+    {
+        "id": 83090,
+        "name": "Love 3"
+    },
+    {
+        "id": 83092,
+        "name": "Roguebook"
+    },
+    {
+        "id": 83112,
+        "name": "Unsighted"
+    },
+    {
+        "id": 83116,
+        "name": "Hentai vs. Evil"
+    },
+    {
+        "id": 83135,
+        "name": "Heading Out"
+    },
+    {
+        "id": 83145,
+        "name": "The Smurfs: Mission Vileaf"
+    },
+    {
+        "id": 83183,
+        "name": "AI: The Somnium Files - Nirvana Initiative"
+    },
+    {
+        "id": 83230,
+        "name": "Boomerang X"
+    },
+    {
+        "id": 83241,
+        "name": "CyberTaxi"
+    },
+    {
+        "id": 83245,
+        "name": "Shin Hayarigami 3"
+    },
+    {
+        "id": 83259,
+        "name": "Risk System"
+    },
+    {
+        "id": 83281,
+        "name": "RiMS Racing"
+    },
+    {
+        "id": 83285,
+        "name": "Sea Fighter Poseidon"
+    },
+    {
+        "id": 83296,
+        "name": "Blackwind"
+    },
+    {
+        "id": 83298,
+        "name": "Hermitage: Strange Case Files"
+    },
+    {
+        "id": 83299,
+        "name": "Dr Who: The Lonely Assassins"
+    },
+    {
+        "id": 83304,
+        "name": "Gravity Oddity"
+    },
+    {
+        "id": 83310,
+        "name": "Tails of Iron"
+    },
+    {
+        "id": 83311,
+        "name": "Ignited Steel: Mecha TBT"
+    },
+    {
+        "id": 83316,
+        "name": "Within the Blade"
+    },
+    {
+        "id": 83335,
+        "name": "Abarenbo Tengu & Zombie Nation"
+    },
+    {
+        "id": 83342,
+        "name": "Dynablaster"
+    },
+    {
+        "id": 83345,
+        "name": "Gems of Magic: Father's Day"
+    },
+    {
+        "id": 83349,
+        "name": "Nickelodeon All-Star Brawl"
+    },
+    {
+        "id": 83362,
+        "name": "NBA 2K22"
+    },
+    {
+        "id": 83373,
+        "name": "The Origin: Blind Maid"
+    },
+    {
+        "id": 83375,
+        "name": "Ky\u016bkyoku Tiger-Heli : Toaplan Arcade Garage"
+    },
+    {
+        "id": 83380,
+        "name": "Akinofa"
+    },
+    {
+        "id": 83383,
+        "name": "Terra Trilogy"
+    },
+    {
+        "id": 83385,
+        "name": "Terra Lander"
+    },
+    {
+        "id": 83386,
+        "name": "Terra-Bomber"
+    },
+    {
+        "id": 83410,
+        "name": "Yu-Gi-Oh! Master Duel"
+    },
+    {
+        "id": 83412,
+        "name": "A-Train: All Aboard! Tourism"
+    },
+    {
+        "id": 83418,
+        "name": "Agatha Christie - Hercule Poirot: The First Cases"
+    },
+    {
+        "id": 83419,
+        "name": "Alfred Hitchcock - Vertigo"
+    },
+    {
+        "id": 83439,
+        "name": "Bishoujo Battle Mahjong Solitaire"
+    },
+    {
+        "id": 83453,
+        "name": "Obake no Shateki-ya"
+    },
+    {
+        "id": 83476,
+        "name": "Tetragon"
+    },
+    {
+        "id": 83517,
+        "name": "Rapala Fishing: Pro Series"
+    },
+    {
+        "id": 83530,
+        "name": "Haven Park"
+    },
+    {
+        "id": 83532,
+        "name": "The Dark World: KARMA"
+    },
+    {
+        "id": 83541,
+        "name": "PAW Patrol The Movie: Adventure City Calls"
+    },
+    {
+        "id": 83550,
+        "name": "Skydrift Infinity"
+    },
+    {
+        "id": 83557,
+        "name": "Ploid"
+    },
+    {
+        "id": 83558,
+        "name": "V.O.I.D."
+    },
+    {
+        "id": 83560,
+        "name": "Jin Conception"
+    },
+    {
+        "id": 83591,
+        "name": "Tandem: A Tale of Shadows"
+    },
+    {
+        "id": 83594,
+        "name": "The Legend of Tianding"
+    },
+    {
+        "id": 83604,
+        "name": "Kitaria Fables"
+    },
+    {
+        "id": 83606,
+        "name": "ExZeus: The Complete Collection"
+    },
+    {
+        "id": 83615,
+        "name": "The Amazing American Circus"
+    },
+    {
+        "id": 83635,
+        "name": "Touken Ranbu Warriors"
+    },
+    {
+        "id": 83637,
+        "name": "NERF Legends"
+    },
+    {
+        "id": 83651,
+        "name": "LumbearJack"
+    },
+    {
+        "id": 83655,
+        "name": "Ace Angler"
+    },
+    {
+        "id": 83660,
+        "name": "CULTIC"
+    },
+    {
+        "id": 83671,
+        "name": "Fire Tonight"
+    },
+    {
+        "id": 83704,
+        "name": "Monkey Barrels"
+    },
+    {
+        "id": 83724,
+        "name": "DOOM Slayers Collection"
+    },
+    {
+        "id": 83725,
+        "name": "Mugen Senshi Valis Collection"
+    },
+    {
+        "id": 83727,
+        "name": "Night Book"
+    },
+    {
+        "id": 83759,
+        "name": "Space Cruiser"
+    },
+    {
+        "id": 83763,
+        "name": "Marvel's Midnight Suns"
+    },
+    {
+        "id": 83764,
+        "name": "Cult of the Lamb"
+    },
+    {
+        "id": 83769,
+        "name": "Monster Rancher 1 & 2 DX"
+    },
+    {
+        "id": 83787,
+        "name": "Cursed to Golf"
+    },
+    {
+        "id": 83810,
+        "name": "Centipede Recharged"
+    },
+    {
+        "id": 83826,
+        "name": "Lyrica & Lyrica 2: Stars Align"
+    },
+    {
+        "id": 83828,
+        "name": "Big Brain Academy: Brain vs. Brain"
+    },
+    {
+        "id": 83835,
+        "name": "Last Light"
+    },
+    {
+        "id": 83837,
+        "name": "Wallachia: Reign of Dracula"
+    },
+    {
+        "id": 83845,
+        "name": "Kunio-kun no Sangokushi: Da yo Zen'in Sh\u016bg\u014d!"
+    },
+    {
+        "id": 83883,
+        "name": "Asuka 120% Reborn"
+    },
+    {
+        "id": 83895,
+        "name": "Raspberry Cube"
+    },
+    {
+        "id": 83899,
+        "name": "Armed Emeth"
+    },
+    {
+        "id": 83900,
+        "name": "Crystal Ortha"
+    },
+    {
+        "id": 83902,
+        "name": "Enry\u016b Seiken Xiao-Mei"
+    },
+    {
+        "id": 83910,
+        "name": "Last Soul"
+    },
+    {
+        "id": 83921,
+        "name": "The Jackbox Party Pack 8"
+    },
+    {
+        "id": 83925,
+        "name": "The Serpent Rogue"
+    },
+    {
+        "id": 83929,
+        "name": "Luna's Fishing Garden"
+    },
+    {
+        "id": 83934,
+        "name": "I dream of you and ice cream"
+    },
+    {
+        "id": 83936,
+        "name": "Alwa's Collection"
+    },
+    {
+        "id": 83937,
+        "name": "Asdivine Saga"
+    },
+    {
+        "id": 83939,
+        "name": "Janitor Bleeds"
+    },
+    {
+        "id": 83943,
+        "name": "SpongeBob SquarePants: The Cosmic Shake"
+    },
+    {
+        "id": 83947,
+        "name": "Crisis Wing"
+    },
+    {
+        "id": 83958,
+        "name": "Berserk Boy"
+    },
+    {
+        "id": 83967,
+        "name": "Superlative Night Dreams: Cotton Rock 'n' Roll"
+    },
+    {
+        "id": 83968,
+        "name": "Fantastic Night Dreams: Cotton Reboot!"
+    },
+    {
+        "id": 83971,
+        "name": "Lil Gator Game"
+    },
+    {
+        "id": 83972,
+        "name": "Hero.EXE"
+    },
+    {
+        "id": 83973,
+        "name": "Robotry!"
+    },
+    {
+        "id": 83977,
+        "name": "Evertried"
+    },
+    {
+        "id": 83978,
+        "name": "Red Wings: American Aces"
+    },
+    {
+        "id": 83981,
+        "name": "Voice of Cards: The Isle Dragon Roars"
+    },
+    {
+        "id": 83982,
+        "name": "Chocobo GP"
+    },
+    {
+        "id": 83983,
+        "name": "Kirby and the Forgotten Land"
+    },
+    {
+        "id": 83984,
+        "name": "Shadowrun Trilogy"
+    },
+    {
+        "id": 83985,
+        "name": "Castlevania Advance Collection"
+    },
+    {
+        "id": 83986,
+        "name": "ActRaiser Renaissance"
+    },
+    {
+        "id": 83988,
+        "name": "Aspire: Ina's Tale"
+    },
+    {
+        "id": 83992,
+        "name": "The Kids We Were"
+    },
+    {
+        "id": 83998,
+        "name": "Selfy Collection The Dream Fashion Stylist!"
+    },
+    {
+        "id": 84005,
+        "name": "The Handler of Dragons"
+    },
+    {
+        "id": 84009,
+        "name": "A Little Golf Journey"
+    },
+    {
+        "id": 84019,
+        "name": "Blast Brigade vs. the Evil Legion of Dr. Cread"
+    },
+    {
+        "id": 84020,
+        "name": "Inspector Waffles"
+    },
+    {
+        "id": 84021,
+        "name": "Teacup"
+    },
+    {
+        "id": 84030,
+        "name": "Atelier Sophie 2: The Alchemist of the Mysterious Dream"
+    },
+    {
+        "id": 84040,
+        "name": "Yurukill: The Calumniation Games"
+    },
+    {
+        "id": 84054,
+        "name": "The Addams Family: Mansion Mayhem"
+    },
+    {
+        "id": 84081,
+        "name": "Grand Theft Auto: The Trilogy - The Definitive Edition"
+    },
+    {
+        "id": 84088,
+        "name": "Gothic Murder: Adventure That Changes Destiny"
+    },
+    {
+        "id": 84089,
+        "name": "RPGolf Legends"
+    },
+    {
+        "id": 84094,
+        "name": "Grotto"
+    },
+    {
+        "id": 84096,
+        "name": "To The Rescue!"
+    },
+    {
+        "id": 84097,
+        "name": "Ori: The Collection"
+    },
+    {
+        "id": 84101,
+        "name": "Bloodshore"
+    },
+    {
+        "id": 84103,
+        "name": "Blue Reflection: Second Light"
+    },
+    {
+        "id": 84105,
+        "name": "Star Wars: Racer & Commando Combo"
+    },
+    {
+        "id": 84109,
+        "name": "Star Wars: Jedi Knight Collection"
+    },
+    {
+        "id": 84112,
+        "name": "Doom: The Classics Collection"
+    },
+    {
+        "id": 84114,
+        "name": "Susume!! Mamotte Kishi Hime no Totsugeki Serenade"
+    },
+    {
+        "id": 84126,
+        "name": "Dungeon Encounters"
+    },
+    {
+        "id": 84162,
+        "name": "My Friend Peppa Pig"
+    },
+    {
+        "id": 84167,
+        "name": "Dogworld "
+    },
+    {
+        "id": 84174,
+        "name": "Hotel Life: A Resort Simulator"
+    },
+    {
+        "id": 84175,
+        "name": "Cogen: Sword of Rewind"
+    },
+    {
+        "id": 84176,
+        "name": "Gunvolt Chronicles: Luminous Avenger iX 2"
+    },
+    {
+        "id": 84191,
+        "name": "Hish\u014dzame! Same! Same! Toaplan Arcade Garage"
+    },
+    {
+        "id": 84198,
+        "name": "Breakers Collection"
+    },
+    {
+        "id": 84228,
+        "name": "Here Comes Niko!"
+    },
+    {
+        "id": 84237,
+        "name": "Demons of Asteborg"
+    },
+    {
+        "id": 84244,
+        "name": "The Cruel King and the Great Hero"
+    },
+    {
+        "id": 84245,
+        "name": "Black Heart"
+    },
+    {
+        "id": 84250,
+        "name": "Spectacular Sparky "
+    },
+    {
+        "id": 84254,
+        "name": "Popeye"
+    },
+    {
+        "id": 84255,
+        "name": "Fishing Paradiso"
+    },
+    {
+        "id": 84260,
+        "name": "20 Ladies"
+    },
+    {
+        "id": 84266,
+        "name": "Epic Chef"
+    },
+    {
+        "id": 84273,
+        "name": "Fast & Furious: Spy Racers: Rise of Sh1ft3r"
+    },
+    {
+        "id": 84274,
+        "name": "American Hero"
+    },
+    {
+        "id": 84275,
+        "name": "Chains of Fury \u00ad"
+    },
+    {
+        "id": 84295,
+        "name": "SDST: Deluxe"
+    },
+    {
+        "id": 84295,
+        "name": "SDST: Deluxe"
+    },
+    {
+        "id": 84323,
+        "name": "Dragon Ball: The Breakers"
+    },
+    {
+        "id": 84333,
+        "name": "Pac-Man Museum+"
+    },
+    {
+        "id": 84334,
+        "name": "Boulder Dash Ultimate Collection"
+    },
+    {
+        "id": 84335,
+        "name": "Angel's Punishment"
+    },
+    {
+        "id": 84338,
+        "name": "Football Manager 2022"
+    },
+    {
+        "id": 84343,
+        "name": "Hextech Mayhem: A League of Legends Story"
+    },
+    {
+        "id": 84353,
+        "name": "Asteroids Recharged"
+    },
+    {
+        "id": 84367,
+        "name": "Dokapon Up! Mugen no Roulette"
+    },
+    {
+        "id": 84379,
+        "name": "Soul Tolerance"
+    },
+    {
+        "id": 84409,
+        "name": "EVE ghost enemies"
+    },
+    {
+        "id": 84431,
+        "name": "Sonic Frontiers"
+    },
+    {
+        "id": 84440,
+        "name": "Escape from the Closed Circle"
+    },
+    {
+        "id": 84481,
+        "name": "Toree 2"
+    },
+    {
+        "id": 84485,
+        "name": "Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale!!"
+    },
+    {
+        "id": 84494,
+        "name": "One Escape"
+    },
+    {
+        "id": 84500,
+        "name": "Picross S7"
+    },
+    {
+        "id": 84506,
+        "name": "Loco Motive"
+    },
+    {
+        "id": 84507,
+        "name": "Gerda: A Flame in Winter"
+    },
+    {
+        "id": 84519,
+        "name": "Disney Classic Games Collection: Aladdin, The Lion King, and The Jungle Book"
+    },
+    {
+        "id": 84526,
+        "name": "Monopoly Madness"
+    },
+    {
+        "id": 84564,
+        "name": "Neptunia x Senran Kagura: Ninja Wars"
+    },
+    {
+        "id": 84566,
+        "name": "Missile Dancer"
+    },
+    {
+        "id": 84592,
+        "name": "Afterlove EP"
+    },
+    {
+        "id": 84642,
+        "name": "Breakneck City"
+    },
+    {
+        "id": 84662,
+        "name": "The Sealed Ampoule"
+    },
+    {
+        "id": 84664,
+        "name": "Heaven Dust 2"
+    },
+    {
+        "id": 84690,
+        "name": "My Hero Academia: Ultra Rumble"
+    },
+    {
+        "id": 84692,
+        "name": "eBaseball Powerful Pro Yaky\u016b 2022"
+    },
+    {
+        "id": 84709,
+        "name": "The Sokoban"
+    },
+    {
+        "id": 84710,
+        "name": "Minna no Othello"
+    },
+    {
+        "id": 84711,
+        "name": "Minna no Hanafuda"
+    },
+    {
+        "id": 84712,
+        "name": "Minna no Tsume Sh\u014dgi: Ny\u016bmon-hen"
+    },
+    {
+        "id": 84715,
+        "name": "Duel Princess"
+    },
+    {
+        "id": 84725,
+        "name": "Transiruby"
+    },
+    {
+        "id": 84727,
+        "name": "Breakout Recharged"
+    },
+    {
+        "id": 84739,
+        "name": "Star Hunter DX & Space Moth: Lunar Edition"
+    },
+    {
+        "id": 84740,
+        "name": "Star Hunter DX"
+    },
+    {
+        "id": 84741,
+        "name": "Space Moth: Lunar Edition"
+    },
+    {
+        "id": 84742,
+        "name": "Turrican Flashback"
+    },
+    {
+        "id": 84756,
+        "name": "Kao the Kangaroo"
+    },
+    {
+        "id": 84758,
+        "name": "G-Mode Archives +: Ninja Jajamaru-kun Ranbu"
+    },
+    {
+        "id": 84786,
+        "name": "MLB The Show 22"
+    },
+    {
+        "id": 84792,
+        "name": "MotoGP 21"
+    },
+    {
+        "id": 84793,
+        "name": "Mina the Hollower"
+    },
+    {
+        "id": 84794,
+        "name": "Who Pressed Mute on Uncle Marcus?"
+    },
+    {
+        "id": 84798,
+        "name": "About An Elf"
+    },
+    {
+        "id": 84863,
+        "name": " New Ice York"
+    },
+    {
+        "id": 84966,
+        "name": "Eternal Threads"
+    },
+    {
+        "id": 85041,
+        "name": "Starlight Shores"
+    },
+    {
+        "id": 85250,
+        "name": "Dysmantle"
+    },
+    {
+        "id": 85326,
+        "name": "Go-t\u014dbun no Hanayome \u222c Natsu no Omoide mo Go-t\u014dbun"
+    },
+    {
+        "id": 85328,
+        "name": "Eiga Go-t\u014dbun no Hanayome: Kimi to Sugoshita Itsutsu no Omoide"
+    },
+    {
+        "id": 85329,
+        "name": "Simple Series for Nintendo Switch Vol.1: The Table Game Deluxe Pack"
+    },
+    {
+        "id": 85418,
+        "name": "Fire Emblem Warriors: Three Hopes"
+    },
+    {
+        "id": 85419,
+        "name": "Mario Strikers: Battle League"
+    },
+    {
+        "id": 85420,
+        "name": "Front Mission 1st"
+    },
+    {
+        "id": 85421,
+        "name": "Front Mission 2"
+    },
+    {
+        "id": 85422,
+        "name": "Disney Speedstorm"
+    },
+    {
+        "id": 85423,
+        "name": "Portal: Companion Collection"
+    },
+    {
+        "id": 85424,
+        "name": "Live A Live"
+    },
+    {
+        "id": 85425,
+        "name": "Nintendo Switch Sports"
+    },
+    {
+        "id": 85426,
+        "name": "Klonoa: Phantasy Reverie Series"
+    },
+    {
+        "id": 85427,
+        "name": "Xenoblade Chronicles 3"
+    },
+    {
+        "id": 85428,
+        "name": "Chrono Cross: The Radical Dreamers Edition"
+    },
+    {
+        "id": 85429,
+        "name": "The Centennial Case: A Shijima Story"
+    },
+    {
+        "id": 85430,
+        "name": "SD Gundam Battle Alliance"
+    },
+    {
+        "id": 85431,
+        "name": "LOOP8"
+    },
+    {
+        "id": 85437,
+        "name": "Pixel Game Maker Series: Rumble Dragon"
+    },
+    {
+        "id": 85438,
+        "name": "Nape Retroverse Collection"
+    },
+    {
+        "id": 85440,
+        "name": "Yeah Yeah Beebiss II"
+    },
+    {
+        "id": 85443,
+        "name": "Sword of Elpisia"
+    },
+    {
+        "id": 85466,
+        "name": "Super Sami Roll"
+    },
+    {
+        "id": 85473,
+        "name": "Princess Farmer"
+    },
+    {
+        "id": 85480,
+        "name": "Downslope"
+    },
+    {
+        "id": 85482,
+        "name": "The Company Man"
+    },
+    {
+        "id": 85484,
+        "name": "Reverie Knights Tactics"
+    },
+    {
+        "id": 85485,
+        "name": "Cake Invaders"
+    },
+    {
+        "id": 85486,
+        "name": "Summertime Madness"
+    },
+    {
+        "id": 85489,
+        "name": "Elysion -Feeling of Release-"
+    },
+    {
+        "id": 85494,
+        "name": "S.W.A.N.: Chernobyl Unexplored"
+    },
+    {
+        "id": 85495,
+        "name": "The Longest Road on Earth"
+    },
+    {
+        "id": 85498,
+        "name": "Super Onion Boy 2"
+    },
+    {
+        "id": 85499,
+        "name": "Calturin"
+    },
+    {
+        "id": 85500,
+        "name": "Mandragora "
+    },
+    {
+        "id": 85504,
+        "name": "Final Vendetta"
+    },
+    {
+        "id": 85509,
+        "name": "Pretty Girls Klondike Solitaire"
+    },
+    {
+        "id": 85510,
+        "name": "Poker Pretty Girls Battle: Fantasy World Edition"
+    },
+    {
+        "id": 85512,
+        "name": "Voice of Cards: The Forsaken Maiden"
+    },
+    {
+        "id": 85520,
+        "name": "Snow Bros. Special: Nick & Tom"
+    },
+    {
+        "id": 85523,
+        "name": "Ganryu 2: Hakuma Kojir\u014d"
+    },
+    {
+        "id": 85525,
+        "name": "Blazing Strike"
+    },
+    {
+        "id": 85526,
+        "name": "Wonder Boy Collection"
+    },
+    {
+        "id": 85528,
+        "name": "Maglam Lord"
+    },
+    {
+        "id": 85544,
+        "name": "Puzzle & Dragons Nintendo Switch Edition"
+    },
+    {
+        "id": 85545,
+        "name": "Song of Nunu: A League of Legends Story"
+    },
+    {
+        "id": 85546,
+        "name": "Capcom Fighting Collection"
+    },
+    {
+        "id": 85557,
+        "name": "Highway Race"
+    },
+    {
+        "id": 85568,
+        "name": "PJ Masks: Heroes of the Night"
+    },
+    {
+        "id": 85569,
+        "name": "Cat Cafe Manager"
+    },
+    {
+        "id": 85586,
+        "name": "Pok\u00e9mon Scarlet/Violet"
+    },
+    {
+        "id": 85587,
+        "name": "Bo: Path of the Teal Lotus"
+    },
+    {
+        "id": 85591,
+        "name": "Zoids Wild: Infinity Blast"
+    },
+    {
+        "id": 85594,
+        "name": "Bishoujo Battle: Double Strike"
+    },
+    {
+        "id": 85595,
+        "name": "Hidden Objects Collection Volume 2"
+    },
+    {
+        "id": 85603,
+        "name": "Wrestledunk Sports"
+    },
+    {
+        "id": 85607,
+        "name": "Black Widow: Recharged"
+    },
+    {
+        "id": 85623,
+        "name": "Renai Karichaimashita: Koikari - Love For Hire"
+    },
+    {
+        "id": 85642,
+        "name": "My Little Pony: A Maretime Bay Adventure"
+    },
+    {
+        "id": 85665,
+        "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection"
+    },
+    {
+        "id": 85666,
+        "name": "JoJo's Bizarre Adventure: All Star Battle R"
+    },
+    {
+        "id": 85681,
+        "name": "Fishing Adventure"
+    },
+    {
+        "id": 85682,
+        "name": "Fishing Fighters: The Master of Mizugami"
+    },
+    {
+        "id": 85700,
+        "name": "RiffTrax: The Game"
+    },
+    {
+        "id": 85717,
+        "name": "Eagle Island Twist"
+    },
+    {
+        "id": 85718,
+        "name": "Dragon Caffi"
+    },
+    {
+        "id": 85724,
+        "name": "Redout 2"
+    },
+    {
+        "id": 85726,
+        "name": "Homo Machina"
+    },
+    {
+        "id": 85727,
+        "name": "WrestleQuest"
+    },
+    {
+        "id": 85729,
+        "name": "Will You Snail?"
+    },
+    {
+        "id": 85748,
+        "name": "New York Mysteries: The Outbreak"
+    },
+    {
+        "id": 85763,
+        "name": "Metal Dogs"
+    },
+    {
+        "id": 85804,
+        "name": "Potato Flowers in Full Bloom"
+    },
+    {
+        "id": 85809,
+        "name": "Nobunaga no Yab\u014d: Shinsei"
+    },
+    {
+        "id": 85819,
+        "name": "Zombie Rollerz: Pinball Heroes"
+    },
+    {
+        "id": 85834,
+        "name": "Reknum: Origins Collection"
+    },
+    {
+        "id": 85835,
+        "name": "Reknum Cheri Dreamland"
+    },
+    {
+        "id": 85837,
+        "name": "Pyramid Quest"
+    },
+    {
+        "id": 85838,
+        "name": "Pinball FX"
+    },
+    {
+        "id": 85843,
+        "name": "Pile Up! Box by Box"
+    },
+    {
+        "id": 85846,
+        "name": "Asonde Mahjong ga Tsuyoku-naru! Ginsei Mahjong DX"
+    },
+    {
+        "id": 85852,
+        "name": "Asonde Sh\u014dgi ga Tsuyoku-naru! Ginsei Sh\u014dgi DX 2"
+    },
+    {
+        "id": 85853,
+        "name": "Being Stronger While Playing! SilverStar Go DX"
+    },
+    {
+        "id": 85865,
+        "name": "Imp of the Sun"
+    },
+    {
+        "id": 85868,
+        "name": "Super Bullet Break"
+    },
+    {
+        "id": 85872,
+        "name": "MADiSON"
+    },
+    {
+        "id": 85885,
+        "name": "Capcom Arcade 2nd Stadium"
+    },
+    {
+        "id": 85894,
+        "name": "Paper Cut Mansion"
+    },
+    {
+        "id": 85899,
+        "name": "GrimGrimoire OnceMore"
+    },
+    {
+        "id": 85900,
+        "name": "Demon Turf: Neon Splash"
+    },
+    {
+        "id": 85901,
+        "name": "Deadly Dozen Reloaded"
+    },
+    {
+        "id": 85903,
+        "name": "Pixel Game Maker Series: Dan Dan Z"
+    },
+    {
+        "id": 85907,
+        "name": "Miss Kobayashi\u2019s Dragon Maid: Burst Forth!! Choro-gon\u2606Breath"
+    },
+    {
+        "id": 85911,
+        "name": "G-Mode Archives +: Megami Tensei Gaiden: Shinyaku Last Bible"
+    },
+    {
+        "id": 85917,
+        "name": "Haiku, the Robot"
     }
 ]
