@@ -79,12 +79,18 @@ def generatePage(console_number, active_games_dict):
     return resulting_html
 
 def buildAllPages():
+    isIndexBuilt = False
     active_games_dict = getActiveGamesDict()
     for console in active_games_dict:
         html_file = "./html/" + console + ".html"
+        page = generatePage(console, active_games_dict)
         with open(html_file, "w", encoding='utf-8', errors='ignore') as f:
-            f.write(generatePage(console, active_games_dict))
+            f.write(page)
+        if not isIndexBuilt:
+         with open( "./html/index.html", "w", encoding='utf-8', errors='ignore') as f:
+            f.write(page)
     print ("All pages built.")
+
 
 def main():
     buildAllPages()
