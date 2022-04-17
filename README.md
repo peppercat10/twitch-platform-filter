@@ -1,4 +1,4 @@
-# twitch-platform-filter
+# Twitch Platform Filter
 Simple tool to filter Twitch games by nearly any platform and provide the results as a static HTML page.
 
 ## **Why?**
